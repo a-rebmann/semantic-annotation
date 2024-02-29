@@ -1,0 +1,30 @@
+﻿;concept:name_tags;lifecycle:transition_tags;STAGE_tags
+0;hand<>BO, washing<>A, ;start<>ASTATE, ;Operator<>BO, and<>X, Patient<>BO, Preparation<>A,
+1;ultrasound<>BO, configuration<>A, ;complete<>ASTATE, ;Ultrasound<>BO, Preparation<>A,
+2;anatomic<>BO, identification<>A, ; ;Locate<>A,  Structures<>BO,
+3;compression<>BO, identification<>A, ; ;Venous<>BO, puncture<>A,
+4;gel<>BO, in<>X, probe<>BO, ; ;Install<>A, Guidewire<>BO
+5;get<>A, in<>X, sterile<>BO, clothes<>BO, ; ;Install<>A, Catheter<>BO,
+6;clean<>A, puncture<>BO, area<>BO, ; ;
+7;drap<>A, puncture<>BO, area<>BO, ; ;
+8;cover<>A, probe<>BO, ; ;
+9;put<>A, sterile<>BO, gel<>BO, ; ;
+10;prepare<>A, implements<>BO, ; ;
+11;anesthetize<>A, ; ;
+12;puncture<>A, ; ;
+13;blood<>BO, return<>A, ; ;
+14;drop<>A, probe<>BO, ; ;
+15;remove<>A, syringe<>BO, ; ;
+16;guidewire<>BO, install<>A, ; ;
+17;check<>A, wire<>BO, in<>X, short<>BO, axis<>BO, ; ;
+18;check<>A, wire<>BO, in<>X, long<>BO, axis<>BO, ; ;
+19;remove<>A, trocar<>BO, ; ;
+20;widen<>A, pathway<>BO, ; ;
+21;advance<>A, catheter<>BO, ; ;
+22;remove<>A, guidewire<>BO, ; ;
+23;check<>A, flow<>BO, and<>BO, reflow<>BO, ; ;
+24;check<>A, catheter<>BO, position<>BO, ; ;
+25;position<>A, patient<>BO, ; ;
+26;position<>A, probe<>BO, ; ;
+27;doppler<>BO, identification<>A, ; ;
+28;wire<>A, in<>BO, good<>BO, position<>BO, ; ;

@@ -1,0 +1,27 @@
+;concept:name_tags;Action_tags;lifecycle:transition_tags
+0;a<>X, create<>A, application<>BO, ;created<>A, ;complete<>ASTATE,
+1;a<>X, submitted<>A, ;statechange<>A, ;schedule<>A, 
+2;w<>X, handle<>A, leads<>BO, ;deleted<>A, ;withdraw<>A, 
+3;w<>X, complete<>A, application<>BO, ;obtained<>A, ;start<>ASTATE,
+4;a<>X, concept<>BO, ;released<>A, ;suspend<>A, 
+5;a<>X, accepted<>A, ;;ate<>X, abort<>A, 
+6;o<>X, create<>A, offer<>BO, ;;resume<>A, 
+7;o<>X, created<>A, ;;
+8;o<>X, sent<>A, (mail<>BO, and<>X, online)<>X, ;;
+9;w<>X, call<>A, after<>X, offers<>BO, ;;
+10;a<>X, complete<>A, ;;
+11;w<>X, validate<>A, application<>BO, ;;
+12;a<>X, validating<>A, ;;
+13;o<>X returned<>A, ;;
+14;w<>X, call<>A, incomplete<>BOSTATE, files<>BO, ;;
+15;a<>X, incomplete<>BOSTATE, ;;
+16;o<>X, accepted<>A, ;;
+17;a<>X, pending<>A, ;;
+18;a<>X, denied<>A, ;;
+19;o<>X, refused<>A, ;;
+20;o<>X, cancelled<>A, ;;
+21;a<>X, cancelled<>A, ;;
+22;o<>X, sent<>A, (online<>X, only)<>X ;;
+23;w<>X, assess<>A, potential<>BO, fraud<>BO, ;;
+24;w<>X, personal<>BO, loan<>BO, collection<>A, ;;
+25;w<>X, shortened<>ASTATE, completion<>A, ;;

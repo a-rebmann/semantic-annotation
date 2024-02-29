@@ -1,0 +1,14 @@
+156
+{'step_1': 61, 'step_2': 24, 'step_3_cons': 36, 'step_3_other': 35}
+
+                    precision    recall  f1-score   support
+
+                 X       0.94      0.86      0.90        35
+     action:status       1.00      1.00      1.00         6
+       object:name       0.67      1.00      0.92         6
+     object:status       0.83      0.83      0.83         6
+org:actor:instance       0.95      1.00      0.97        18
+
+Program finished all operations in 500.4209 seconds
+
+Process finished with exit code 0

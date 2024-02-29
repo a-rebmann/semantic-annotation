@@ -1,0 +1,5 @@
+﻿;concept:name_tags;lifecycle:transition_tags
+0;queued<>A, ;awaiting<>A, assignment<>BO,
+1;accepted<>A, ;in<>ASTATE, progress<>ASTATE,
+2;completed<>A, ;assigned<>A,
+3;unmatched<>A, ;closed<>A,

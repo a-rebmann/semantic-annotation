@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+     combine       0.62      0.83      0.71         6
+      create       0.70      0.90      0.79        42
+      decide       0.91      0.61      0.73        49
+     destroy       0.75      0.75      0.75         4
+      manage       1.00      1.00      1.00         2
+      modify       0.85      0.84      0.85       113
+    preserve       0.62      0.62      0.62        14
+    separate       0.44      0.80      0.57         5
+
+Program finished all operations in 342.2466 seconds
+
+Process finished with exit code 0

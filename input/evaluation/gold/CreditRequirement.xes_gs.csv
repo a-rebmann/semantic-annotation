@@ -1,0 +1,9 @@
+﻿;concept:name_tags;lifecycle:transition_tags
+0;register<>A, ;complete<>ASTATE, 
+1;acceptance<>A, of<>X, requests<>BO, ;start<>ASTATE, 
+2;collection<>A, of<>X, documents<>BO, ;
+3;completeness<>BO, check<>A, ;
+4;credit<>BO, worthiness<>BO, check<>A, ;
+5;collateral<>BO, check<>A, ;
+6;credit<>BO, committee<>BO, ;
+7;requirements<>BO, review<>A, ;

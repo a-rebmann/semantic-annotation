@@ -1,0 +1,4684 @@
+Label;Split;Style;Tags
+reimburse;['reimburse'];VOS;VOV
+reroute;['reroute'];VOS;VOV
+restart;['restart'];VOS;VOV
+substitute;['substitute'];VOS;VOV
+rollover;['rollover'];VOS;VOV
+port;['port'];VOS;VOV
+lookup;['lookup'];VOS;VOV
+abandon;['abandon'];VOS;VOV
+abase;['abase'];VOS;VOV
+abate;['abate'];VOS;VOV
+abbreviate;['abbreviate'];VOS;VOV
+abdicate;['abdicate'];VOS;VOV
+abduct;['abduct'];VOS;VOV
+abet;['abet'];VOS;VOV
+abhor;['abhor'];VOS;VOV
+abide;['abide'];VOS;VOV
+abjure;['abjure'];VOS;VOV
+abolish;['abolish'];VOS;VOV
+abominate;['abominate'];VOS;VOV
+abort;['abort'];VOS;VOV
+abound;['abound'];VOS;VOV
+abrade;['abrade'];VOS;VOV
+abridge;['abridge'];VOS;VOV
+abrogate;['abrogate'];VOS;VOV
+abseil;['abseil'];VOS;VOV
+absent;['absent'];VOS;VOV
+absolve;['absolve'];VOS;VOV
+absorb;['absorb'];VOS;VOV
+abstain;['abstain'];VOS;VOV
+abstract;['abstract'];VOS;VOV
+abuse;['abuse'];VOS;VOV
+abut;['abut'];VOS;VOV
+accede;['accede'];VOS;VOV
+accelerate;['accelerate'];VOS;VOV
+accent;['accent'];VOS;VOV
+accentuate;['accentuate'];VOS;VOV
+accept as;['accept as'];VOS;VOV
+acclaim;['acclaim'];VOS;VOV
+acclimatise ;['acclimatise '];VOS;VOV
+acclimatize ;['acclimatize '];VOS;VOV
+accommodate;['accommodate'];VOS;VOV
+accompany;['accompany'];VOS;VOV
+accomplish;['accomplish'];VOS;VOV
+accord;['accord'];VOS;VOV
+accost;['accost'];VOS;VOV
+account;['account'];VOS;VOV
+accredit;['accredit'];VOS;VOV
+accrue;['accrue'];VOS;VOV
+accumulate;['accumulate'];VOS;VOV
+accuse;['accuse'];VOS;VOV
+accustom;['accustom'];VOS;VOV
+ache;['ache'];VOS;VOV
+achieve;['achieve'];VOS;VOV
+acidify;['acidify'];VOS;VOV
+acknowledge;['acknowledge'];VOS;VOV
+acquiesce;['acquiesce'];VOS;VOV
+acquire;['acquire'];VOS;VOV
+acquit;['acquit'];VOS;VOV
+act;['act'];VOS;VOV
+activate;['activate'];VOS;VOV
+actuate;['actuate'];VOS;VOV
+ad-lib;['ad-lib'];VOS;VOV
+adapt;['adapt'];VOS;VOV
+add;['add'];VOS;VOV
+addle;['addle'];VOS;VOV
+address;['address'];VOS;VOV
+adhere;['adhere'];VOS;VOV
+adjoin;['adjoin'];VOS;VOV
+adjourn;['adjourn'];VOS;VOV
+adjudge;['adjudge'];VOS;VOV
+adjure;['adjure'];VOS;VOV
+adjust;['adjust'];VOS;VOV
+administer;['administer'];VOS;VOV
+administrate;['administrate'];VOS;VOV
+admire;['admire'];VOS;VOV
+admit;['admit'];VOS;VOV
+admonish;['admonish'];VOS;VOV
+adopt;['adopt'];VOS;VOV
+adore;['adore'];VOS;VOV
+adorn;['adorn'];VOS;VOV
+adulate;['adulate'];VOS;VOV
+adulterate;['adulterate'];VOS;VOV
+advance;['advance'];VOS;VOV
+advantage;['advantage'];VOS;VOV
+adventure;['adventure'];VOS;VOV
+advert;['advert'];VOS;VOV
+advertise;['advertise'];VOS;VOV
+advise;['advise'];VOS;VOV
+advocate;['advocate'];VOS;VOV
+aerate;['aerate'];VOS;VOV
+affect;['affect'];VOS;VOV
+affiliate with;['affiliate with'];VOS;VOV
+affiliate to;['affiliate to'];VOS;VOV
+affirm;['affirm'];VOS;VOV
+affix;['affix'];VOS;VOV
+afflict;['afflict'];VOS;VOV
+afford;['afford'];VOS;VOV
+afforest;['afforest'];VOS;VOV
+affront;['affront'];VOS;VOV
+age;['age'];VOS;VOV
+agglomerate;['agglomerate'];VOS;VOV
+agglutinate;['agglutinate'];VOS;VOV
+aggravate;['aggravate'];VOS;VOV
+aggregate;['aggregate'];VOS;VOV
+agitate;['agitate'];VOS;VOV
+agonize ;['agonize '];VOS;VOV
+agonise ;['agonise '];VOS;VOV
+agree;['agree'];VOS;VOV
+aid;['aid'];VOS;VOV
+ail;['ail'];VOS;VOV
+aim at;['aim at'];VOS;VOV
+air;['air'];VOS;VOV
+airmail;['airmail'];VOS;VOV
+alarm;['alarm'];VOS;VOV
+alcoholize ;['alcoholize '];VOS;VOV
+alcoholise ;['alcoholise '];VOS;VOV
+alert;['alert'];VOS;VOV
+alienate;['alienate'];VOS;VOV
+alight;['alight'];VOS;VOV
+align;['align'];VOS;VOV
+allay;['allay'];VOS;VOV
+allege;['allege'];VOS;VOV
+alleviate;['alleviate'];VOS;VOV
+allocate;['allocate'];VOS;VOV
+allot;['allot'];VOS;VOV
+allow;['allow'];VOS;VOV
+allude to;['allude to'];VOS;VOV
+allure;['allure'];VOS;VOV
+ally;['ally'];VOS;VOV
+alphabetize ;['alphabetize '];VOS;VOV
+alphabetise ;['alphabetise '];VOS;VOV
+alter;['alter'];VOS;VOV
+alternate;['alternate'];VOS;VOV
+amalgamate;['amalgamate'];VOS;VOV
+amass;['amass'];VOS;VOV
+amaze;['amaze'];VOS;VOV
+amble;['amble'];VOS;VOV
+ambush;['ambush'];VOS;VOV
+ameliorate;['ameliorate'];VOS;VOV
+amend;['amend'];VOS;VOV
+mericanize ;['mericanize '];VOS;VOV
+mericanise ;['mericanise '];VOS;VOV
+amortize ;['amortize '];VOS;VOV
+amortise ;['amortise '];VOS;VOV
+amount to;['amount to'];VOS;VOV
+amplify;['amplify'];VOS;VOV
+amputate;['amputate'];VOS;VOV
+amuse;['amuse'];VOS;VOV
+analyse;['analyse'];VOS;VOV
+anathematize ;['anathematize '];VOS;VOV
+anathematise ;['anathematise '];VOS;VOV
+anatomize ;['anatomize '];VOS;VOV
+anatomise ;['anatomise '];VOS;VOV
+anchor;['anchor'];VOS;VOV
+anaesthetize ;['anaesthetize '];VOS;VOV
+anesthetize ;['anesthetize '];VOS;VOV
+anaesthetise ;['anaesthetise '];VOS;VOV
+anesthetise ;['anesthetise '];VOS;VOV
+anger;['anger'];VOS;VOV
+angle;['angle'];VOS;VOV
+anglicize ;['anglicize '];VOS;VOV
+anglicise ;['anglicise '];VOS;VOV
+animate;['animate'];VOS;VOV
+annex;['annex'];VOS;VOV
+annihilate;['annihilate'];VOS;VOV
+annotate;['annotate'];VOS;VOV
+announce;['announce'];VOS;VOV
+annoy;['annoy'];VOS;VOV
+annul;['annul'];VOS;VOV
+anoint;['anoint'];VOS;VOV
+answer;['answer'];VOS;VOV
+antagonize ;['antagonize '];VOS;VOV
+antagonise ;['antagonise '];VOS;VOV
+antedate;['antedate'];VOS;VOV
+anticipate;['anticipate'];VOS;VOV
+ape;['ape'];VOS;VOV
+apologize for ;['apologize for '];VOS;VOV
+apologise for ;['apologise for '];VOS;VOV
+appal ;['appal '];VOS;VOV
+appall ;['appall '];VOS;VOV
+appeal;['appeal'];VOS;VOV
+appear;['appear'];VOS;VOV
+appease;['appease'];VOS;VOV
+append;['append'];VOS;VOV
+appertain to;['appertain to'];VOS;VOV
+applaud;['applaud'];VOS;VOV
+apply;['apply'];VOS;VOV
+appoint to;['appoint to'];VOS;VOV
+apportion;['apportion'];VOS;VOV
+appraise;['appraise'];VOS;VOV
+appreciate;['appreciate'];VOS;VOV
+apprehend;['apprehend'];VOS;VOV
+apprentice;['apprentice'];VOS;VOV
+apprise of;['apprise of'];VOS;VOV
+approach;['approach'];VOS;VOV
+approbate ;['approbate '];VOS;VOV
+appropriate;['appropriate'];VOS;VOV
+approve;['approve'];VOS;VOV
+approximate to;['approximate to'];VOS;VOV
+arbitrate;['arbitrate'];VOS;VOV
+arc;['arc'];VOS;VOV
+arch;['arch'];VOS;VOV
+argue;['argue'];VOS;VOV
+arise;['arise'];VOS;VOV
+arm;['arm'];VOS;VOV
+arouse;['arouse'];VOS;VOV
+arraign;['arraign'];VOS;VOV
+arrange;['arrange'];VOS;VOV
+array;['array'];VOS;VOV
+arrest;['arrest'];VOS;VOV
+arrive;['arrive'];VOS;VOV
+arrogate;['arrogate'];VOS;VOV
+articulate;['articulate'];VOS;VOV
+ascertain;['ascertain'];VOS;VOV
+ascribe;['ascribe'];VOS;VOV
+ask;['ask'];VOS;VOV
+aspirate;['aspirate'];VOS;VOV
+aspire to;['aspire to'];VOS;VOV
+assail;['assail'];VOS;VOV
+assassinate;['assassinate'];VOS;VOV
+assault;['assault'];VOS;VOV
+assemble;['assemble'];VOS;VOV
+assent;['assent'];VOS;VOV
+assert;['assert'];VOS;VOV
+assess;['assess'];VOS;VOV
+assign;['assign'];VOS;VOV
+assimilate;['assimilate'];VOS;VOV
+assist;['assist'];VOS;VOV
+associate;['associate'];VOS;VOV
+assort;['assort'];VOS;VOV
+assume;['assume'];VOS;VOV
+assure;['assure'];VOS;VOV
+astonish;['astonish'];VOS;VOV
+astound;['astound'];VOS;VOV
+atomize ;['atomize '];VOS;VOV
+atomise ;['atomise '];VOS;VOV
+atone for;['atone for'];VOS;VOV
+atrophy;['atrophy'];VOS;VOV
+attach;['attach'];VOS;VOV
+attack;['attack'];VOS;VOV
+attain;['attain'];VOS;VOV
+attempt;['attempt'];VOS;VOV
+attend;['attend'];VOS;VOV
+attenuate;['attenuate'];VOS;VOV
+attest;['attest'];VOS;VOV
+attire in with;['attire in with'];VOS;VOV
+attract;['attract'];VOS;VOV
+attribute;['attribute'];VOS;VOV
+attune;['attune'];VOS;VOV
+audit;['audit'];VOS;VOV
+audition;['audition'];VOS;VOV
+augment;['augment'];VOS;VOV
+augur;['augur'];VOS;VOV
+auscultate;['auscultate'];VOS;VOV
+authenticate;['authenticate'];VOS;VOV
+author;['author'];VOS;VOV
+authorize ;['authorize '];VOS;VOV
+authorise ;['authorise '];VOS;VOV
+autograph;['autograph'];VOS;VOV
+automate;['automate'];VOS;VOV
+automatize ;['automatize '];VOS;VOV
+automatise ;['automatise '];VOS;VOV
+avail oneself of;['avail oneself of'];VOS;VOV
+avalanche;['avalanche'];VOS;VOV
+avenge;['avenge'];VOS;VOV
+average;['average'];VOS;VOV
+avert;['avert'];VOS;VOV
+avoid;['avoid'];VOS;VOV
+await;['await'];VOS;VOV
+awake;['awake'];VOS;VOV
+awaken;['awaken'];VOS;VOV
+award;['award'];VOS;VOV
+awe;['awe'];VOS;VOV
+axe ;['axe '];VOS;VOV
+ax ;['ax '];VOS;VOV
+baa;['baa'];VOS;VOV
+babble;['babble'];VOS;VOV
+baby;['baby'];VOS;VOV
+baby-sit;['baby-sit'];VOS;VOV
+back;['back'];VOS;VOV
+backdate;['backdate'];VOS;VOV
+backfire;['backfire'];VOS;VOV
+backpack;['backpack'];VOS;VOV
+backspace;['backspace'];VOS;VOV
+backtrack;['backtrack'];VOS;VOV
+badger;['badger'];VOS;VOV
+baffle;['baffle'];VOS;VOV
+bag;['bag'];VOS;VOV
+bail;['bail'];VOS;VOV
+bait;['bait'];VOS;VOV
+bake;['bake'];VOS;VOV
+balance;['balance'];VOS;VOV
+bale;['bale'];VOS;VOV
+baulk ;['baulk '];VOS;VOV
+balk ;['balk '];VOS;VOV
+balloon;['balloon'];VOS;VOV
+ballot;['ballot'];VOS;VOV
+ban;['ban'];VOS;VOV
+band;['band'];VOS;VOV
+bandage;['bandage'];VOS;VOV
+bang;['bang'];VOS;VOV
+banish;['banish'];VOS;VOV
+bank;['bank'];VOS;VOV
+bankrupt;['bankrupt'];VOS;VOV
+banter;['banter'];VOS;VOV
+baptize ;['baptize '];VOS;VOV
+baptise ;['baptise '];VOS;VOV
+bar;['bar'];VOS;VOV
+barbecue;['barbecue'];VOS;VOV
+bard;['bard'];VOS;VOV
+bare;['bare'];VOS;VOV
+bargain;['bargain'];VOS;VOV
+barge in;['barge in'];VOS;VOV
+bark;['bark'];VOS;VOV
+barricade;['barricade'];VOS;VOV
+barter;['barter'];VOS;VOV
+base;['base'];VOS;VOV
+bash;['bash'];VOS;VOV
+bask;['bask'];VOS;VOV
+bat;['bat'];VOS;VOV
+batch;['batch'];VOS;VOV
+bath;['bath'];VOS;VOV
+bathe;['bathe'];VOS;VOV
+batter;['batter'];VOS;VOV
+battle;['battle'];VOS;VOV
+bawl;['bawl'];VOS;VOV
+bay;['bay'];VOS;VOV
+be;['be'];VOS;VOV
+beach;['beach'];VOS;VOV
+bead;['bead'];VOS;VOV
+beam;['beam'];VOS;VOV
+bear ;['bear '];VOS;VOV
+bear ;['bear '];VOS;VOV
+beat;['beat'];VOS;VOV
+beatify;['beatify'];VOS;VOV
+beautify;['beautify'];VOS;VOV
+beckon;['beckon'];VOS;VOV
+become;['become'];VOS;VOV
+bed;['bed'];VOS;VOV
+bedeck;['bedeck'];VOS;VOV
+bedevil;['bedevil'];VOS;VOV
+beef;['beef'];VOS;VOV
+beep;['beep'];VOS;VOV
+beetle;['beetle'];VOS;VOV
+befall;['befall'];VOS;VOV
+befit;['befit'];VOS;VOV
+befriend;['befriend'];VOS;VOV
+befuddle;['befuddle'];VOS;VOV
+beg;['beg'];VOS;VOV
+beget;['beget'];VOS;VOV
+begin;['begin'];VOS;VOV
+beguile;['beguile'];VOS;VOV
+behave;['behave'];VOS;VOV
+behead;['behead'];VOS;VOV
+behold;['behold'];VOS;VOV
+belch;['belch'];VOS;VOV
+belie;['belie'];VOS;VOV
+believe;['believe'];VOS;VOV
+belittle;['belittle'];VOS;VOV
+bellow;['bellow'];VOS;VOV
+belong;['belong'];VOS;VOV
+belt;['belt'];VOS;VOV
+bemuse;['bemuse'];VOS;VOV
+bend;['bend'];VOS;VOV
+benefit;['benefit'];VOS;VOV
+benumb;['benumb'];VOS;VOV
+bequeath;['bequeath'];VOS;VOV
+berate;['berate'];VOS;VOV
+bereave;['bereave'];VOS;VOV
+berth;['berth'];VOS;VOV
+beseech;['beseech'];VOS;VOV
+beset;['beset'];VOS;VOV
+besiege with;['besiege with'];VOS;VOV
+besmirch;['besmirch'];VOS;VOV
+bespeak;['bespeak'];VOS;VOV
+best at;['best at'];VOS;VOV
+bestow;['bestow'];VOS;VOV
+bestrew;['bestrew'];VOS;VOV
+bestride;['bestride'];VOS;VOV
+bet;['bet'];VOS;VOV
+betray;['betray'];VOS;VOV
+betroth;['betroth'];VOS;VOV
+better;['better'];VOS;VOV
+beware of;['beware of'];VOS;VOV
+bewilder;['bewilder'];VOS;VOV
+bewitch;['bewitch'];VOS;VOV
+bicker;['bicker'];VOS;VOV
+bicycle;['bicycle'];VOS;VOV
+bid;['bid'];VOS;VOV
+bifurcate;['bifurcate'];VOS;VOV
+bike;['bike'];VOS;VOV
+bilk;['bilk'];VOS;VOV
+bill;['bill'];VOS;VOV
+billet;['billet'];VOS;VOV
+billow;['billow'];VOS;VOV
+bind;['bind'];VOS;VOV
+bisect;['bisect'];VOS;VOV
+bitch;['bitch'];VOS;VOV
+bite;['bite'];VOS;VOV
+bivouac;['bivouac'];VOS;VOV
+blab;['blab'];VOS;VOV
+black;['black'];VOS;VOV
+blacken;['blacken'];VOS;VOV
+blacklist;['blacklist'];VOS;VOV
+blackmail;['blackmail'];VOS;VOV
+blame;['blame'];VOS;VOV
+blanch;['blanch'];VOS;VOV
+blanket;['blanket'];VOS;VOV
+blare;['blare'];VOS;VOV
+blaspheme;['blaspheme'];VOS;VOV
+blast;['blast'];VOS;VOV
+blather;['blather'];VOS;VOV
+blaze;['blaze'];VOS;VOV
+blazon;['blazon'];VOS;VOV
+bleach;['bleach'];VOS;VOV
+bleat;['bleat'];VOS;VOV
+bleed;['bleed'];VOS;VOV
+bleep;['bleep'];VOS;VOV
+blemish;['blemish'];VOS;VOV
+blend;['blend'];VOS;VOV
+bless;['bless'];VOS;VOV
+blight;['blight'];VOS;VOV
+blind;['blind'];VOS;VOV
+blindfold;['blindfold'];VOS;VOV
+blink;['blink'];VOS;VOV
+blister;['blister'];VOS;VOV
+blitz;['blitz'];VOS;VOV
+block;['block'];VOS;VOV
+blockade;['blockade'];VOS;VOV
+bloom;['bloom'];VOS;VOV
+blossom;['blossom'];VOS;VOV
+blot;['blot'];VOS;VOV
+blow;['blow'];VOS;VOV
+bludgeon;['bludgeon'];VOS;VOV
+bluff;['bluff'];VOS;VOV
+blunder;['blunder'];VOS;VOV
+blunt;['blunt'];VOS;VOV
+blur;['blur'];VOS;VOV
+blurt;['blurt'];VOS;VOV
+blush;['blush'];VOS;VOV
+bluster;['bluster'];VOS;VOV
+board;['board'];VOS;VOV
+boast;['boast'];VOS;VOV
+boat;['boat'];VOS;VOV
+bob;['bob'];VOS;VOV
+bodge;['bodge'];VOS;VOV
+bog;['bog'];VOS;VOV
+boggle;['boggle'];VOS;VOV
+boil;['boil'];VOS;VOV
+bolster;['bolster'];VOS;VOV
+bolt;['bolt'];VOS;VOV
+bomb;['bomb'];VOS;VOV
+bombard;['bombard'];VOS;VOV
+bond;['bond'];VOS;VOV
+bone;['bone'];VOS;VOV
+boo at;['boo at'];VOS;VOV
+boob;['boob'];VOS;VOV
+book;['book'];VOS;VOV
+boom;['boom'];VOS;VOV
+boomerang;['boomerang'];VOS;VOV
+boost;['boost'];VOS;VOV
+boot;['boot'];VOS;VOV
+bootleg;['bootleg'];VOS;VOV
+border;['border'];VOS;VOV
+bore;['bore'];VOS;VOV
+borrow from;['borrow from'];VOS;VOV
+boss;['boss'];VOS;VOV
+botanize ;['botanize '];VOS;VOV
+botanise ;['botanise '];VOS;VOV
+botch;['botch'];VOS;VOV
+bother;['bother'];VOS;VOV
+bottle;['bottle'];VOS;VOV
+bottle-feed;['bottle-feed'];VOS;VOV
+bottom;['bottom'];VOS;VOV
+bounce;['bounce'];VOS;VOV
+bound;['bound'];VOS;VOV
+bow;['bow'];VOS;VOV
+bowl;['bowl'];VOS;VOV
+box;['box'];VOS;VOV
+brace;['brace'];VOS;VOV
+bracket;['bracket'];VOS;VOV
+brag;['brag'];VOS;VOV
+brake;['brake'];VOS;VOV
+branch;['branch'];VOS;VOV
+brand;['brand'];VOS;VOV
+brandish;['brandish'];VOS;VOV
+brave;['brave'];VOS;VOV
+brawl;['brawl'];VOS;VOV
+breach;['breach'];VOS;VOV
+break;['break'];VOS;VOV
+breakfast;['breakfast'];VOS;VOV
+breast-feed;['breast-feed'];VOS;VOV
+breathalyse ;['breathalyse '];VOS;VOV
+breathalyze;['breathalyze'];VOS;VOV
+breathe;['breathe'];VOS;VOV
+breed;['breed'];VOS;VOV
+breeze;['breeze'];VOS;VOV
+brew;['brew'];VOS;VOV
+bribe;['bribe'];VOS;VOV
+brick in;['brick in'];VOS;VOV
+brick off;['brick off'];VOS;VOV
+brick up;['brick up'];VOS;VOV
+bridge;['bridge'];VOS;VOV
+bridle;['bridle'];VOS;VOV
+brief;['brief'];VOS;VOV
+brighten;['brighten'];VOS;VOV
+brim;['brim'];VOS;VOV
+bring;['bring'];VOS;VOV
+bristle;['bristle'];VOS;VOV
+broach;['broach'];VOS;VOV
+broadcast;['broadcast'];VOS;VOV
+broaden;['broaden'];VOS;VOV
+broil;['broil'];VOS;VOV
+bronze;['bronze'];VOS;VOV
+brood;['brood'];VOS;VOV
+browbeat;['browbeat'];VOS;VOV
+brown;['brown'];VOS;VOV
+browse;['browse'];VOS;VOV
+bruise;['bruise'];VOS;VOV
+brush;['brush'];VOS;VOV
+brutalize ;['brutalize '];VOS;VOV
+brutalise ;['brutalise '];VOS;VOV
+bubble;['bubble'];VOS;VOV
+buck;['buck'];VOS;VOV
+buckle;['buckle'];VOS;VOV
+bud;['bud'];VOS;VOV
+budge;['budge'];VOS;VOV
+budget;['budget'];VOS;VOV
+buffer;['buffer'];VOS;VOV
+bug;['bug'];VOS;VOV
+build;['build'];VOS;VOV
+bulge;['bulge'];VOS;VOV
+bulk up;['bulk up'];VOS;VOV
+bulldoze;['bulldoze'];VOS;VOV
+bully;['bully'];VOS;VOV
+bum;['bum'];VOS;VOV
+bump;['bump'];VOS;VOV
+bunch;['bunch'];VOS;VOV
+bundle;['bundle'];VOS;VOV
+bungle;['bungle'];VOS;VOV
+bunk;['bunk'];VOS;VOV
+buoy;['buoy'];VOS;VOV
+burble;['burble'];VOS;VOV
+burden;['burden'];VOS;VOV
+burgeon;['burgeon'];VOS;VOV
+burglarize ;['burglarize '];VOS;VOV
+burglarise ;['burglarise '];VOS;VOV
+burgle;['burgle'];VOS;VOV
+burn ;['burn '];VOS;VOV
+burn ;['burn '];VOS;VOV
+burnish;['burnish'];VOS;VOV
+burp;['burp'];VOS;VOV
+burrow;['burrow'];VOS;VOV
+burst ;['burst '];VOS;VOV
+burst ;['burst '];VOS;VOV
+bury;['bury'];VOS;VOV
+bus;['bus'];VOS;VOV
+busk;['busk'];VOS;VOV
+bust ;['bust '];VOS;VOV
+bust ;['bust '];VOS;VOV
+bustle;['bustle'];VOS;VOV
+busy;['busy'];VOS;VOV
+butcher;['butcher'];VOS;VOV
+butt;['butt'];VOS;VOV
+butter;['butter'];VOS;VOV
+button;['button'];VOS;VOV
+buttress;['buttress'];VOS;VOV
+buy;['buy'];VOS;VOV
+buzz;['buzz'];VOS;VOV
+bypass;['bypass'];VOS;VOV
+cable;['cable'];VOS;VOV
+cache;['cache'];VOS;VOV
+cackle;['cackle'];VOS;VOV
+cage;['cage'];VOS;VOV
+cajole;['cajole'];VOS;VOV
+calculate;['calculate'];VOS;VOV
+calibrate;['calibrate'];VOS;VOV
+calk;['calk'];VOS;VOV
+call;['call'];VOS;VOV
+calm down;['calm down'];VOS;VOV
+camp;['camp'];VOS;VOV
+can ;['can '];VOS;VOV
+can food ;['can food '];VOS;VOV
+canalize ;['canalize '];VOS;VOV
+canalise ;['canalise '];VOS;VOV
+cancel ;['cancel '];VOS;VOV
+cancel ;['cancel '];VOS;VOV
+cane;['cane'];VOS;VOV
+cannibalize ;['cannibalize '];VOS;VOV
+cannibalise ;['cannibalise '];VOS;VOV
+canonize ;['canonize '];VOS;VOV
+canonise ;['canonise '];VOS;VOV
+cant;['cant'];VOS;VOV
+canvass;['canvass'];VOS;VOV
+cap;['cap'];VOS;VOV
+caper;['caper'];VOS;VOV
+capitalize ;['capitalize '];VOS;VOV
+capitalise ;['capitalise '];VOS;VOV
+capitulate;['capitulate'];VOS;VOV
+capsize ;['capsize '];VOS;VOV
+capsise ;['capsise '];VOS;VOV
+captain;['captain'];VOS;VOV
+caption;['caption'];VOS;VOV
+captivate;['captivate'];VOS;VOV
+capture;['capture'];VOS;VOV
+care;['care'];VOS;VOV
+career;['career'];VOS;VOV
+carp;['carp'];VOS;VOV
+carpet;['carpet'];VOS;VOV
+carry;['carry'];VOS;VOV
+cart;['cart'];VOS;VOV
+carve;['carve'];VOS;VOV
+cascade;['cascade'];VOS;VOV
+case;['case'];VOS;VOV
+cash;['cash'];VOS;VOV
+cast;['cast'];VOS;VOV
+castigate;['castigate'];VOS;VOV
+castrate;['castrate'];VOS;VOV
+catapult;['catapult'];VOS;VOV
+catch;['catch'];VOS;VOV
+categorize ;['categorize '];VOS;VOV
+categorise ;['categorise '];VOS;VOV
+cater;['cater'];VOS;VOV
+catnap;['catnap'];VOS;VOV
+cause;['cause'];VOS;VOV
+cauterize ;['cauterize '];VOS;VOV
+cauterise ;['cauterise '];VOS;VOV
+caution;['caution'];VOS;VOV
+cave;['cave'];VOS;VOV
+cavil;['cavil'];VOS;VOV
+cavort;['cavort'];VOS;VOV
+cease;['cease'];VOS;VOV
+celebrate;['celebrate'];VOS;VOV
+cement;['cement'];VOS;VOV
+censor;['censor'];VOS;VOV
+censure;['censure'];VOS;VOV
+center;['center'];VOS;VOV
+centralize ;['centralize '];VOS;VOV
+centralise ;['centralise '];VOS;VOV
+centre;['centre'];VOS;VOV
+certify;['certify'];VOS;VOV
+chain;['chain'];VOS;VOV
+chain-smoke;['chain-smoke'];VOS;VOV
+chair;['chair'];VOS;VOV
+chalk;['chalk'];VOS;VOV
+challenge;['challenge'];VOS;VOV
+champion;['champion'];VOS;VOV
+chance;['chance'];VOS;VOV
+change;['change'];VOS;VOV
+channel;['channel'];VOS;VOV
+chant;['chant'];VOS;VOV
+char;['char'];VOS;VOV
+charge;['charge'];VOS;VOV
+charm;['charm'];VOS;VOV
+chart;['chart'];VOS;VOV
+charter;['charter'];VOS;VOV
+chase;['chase'];VOS;VOV
+chasten;['chasten'];VOS;VOV
+chastise;['chastise'];VOS;VOV
+chat;['chat'];VOS;VOV
+chatter;['chatter'];VOS;VOV
+cheapen;['cheapen'];VOS;VOV
+cheat;['cheat'];VOS;VOV
+check;['check'];VOS;VOV
+checkmate;['checkmate'];VOS;VOV
+cheek;['cheek'];VOS;VOV
+cheep;['cheep'];VOS;VOV
+cheer;['cheer'];VOS;VOV
+chequer ;['chequer '];VOS;VOV
+checker ;['checker '];VOS;VOV
+cherish;['cherish'];VOS;VOV
+chevy;['chevy'];VOS;VOV
+chew;['chew'];VOS;VOV
+chide;['chide'];VOS;VOV
+chill;['chill'];VOS;VOV
+chime;['chime'];VOS;VOV
+chip;['chip'];VOS;VOV
+chirp;['chirp'];VOS;VOV
+chisel;['chisel'];VOS;VOV
+chivy fam ;['chivy fam '];VOS;VOV
+chivvy fam ;['chivvy fam '];VOS;VOV
+choke;['choke'];VOS;VOV
+chomp;['chomp'];VOS;VOV
+choose;['choose'];VOS;VOV
+chop;['chop'];VOS;VOV
+chortle;['chortle'];VOS;VOV
+chorus;['chorus'];VOS;VOV
+christen;['christen'];VOS;VOV
+chronicle;['chronicle'];VOS;VOV
+chuck;['chuck'];VOS;VOV
+chuckle;['chuckle'];VOS;VOV
+chug;['chug'];VOS;VOV
+churn;['churn'];VOS;VOV
+cipher;['cipher'];VOS;VOV
+circle;['circle'];VOS;VOV
+circulate;['circulate'];VOS;VOV
+circumcise;['circumcise'];VOS;VOV
+circumnavigate;['circumnavigate'];VOS;VOV
+circumscribe;['circumscribe'];VOS;VOV
+circumvent;['circumvent'];VOS;VOV
+cite;['cite'];VOS;VOV
+civilize ;['civilize '];VOS;VOV
+civilise ;['civilise '];VOS;VOV
+clack;['clack'];VOS;VOV
+claim;['claim'];VOS;VOV
+clamber;['clamber'];VOS;VOV
+clamour ;['clamour '];VOS;VOV
+clamor ;['clamor '];VOS;VOV
+clamp;['clamp'];VOS;VOV
+clank;['clank'];VOS;VOV
+clap;['clap'];VOS;VOV
+clarify;['clarify'];VOS;VOV
+clash;['clash'];VOS;VOV
+clasp;['clasp'];VOS;VOV
+class;['class'];VOS;VOV
+classify;['classify'];VOS;VOV
+clatter;['clatter'];VOS;VOV
+claw;['claw'];VOS;VOV
+clean;['clean'];VOS;VOV
+cleanse;['cleanse'];VOS;VOV
+clear;['clear'];VOS;VOV
+cleave;['cleave'];VOS;VOV
+clench;['clench'];VOS;VOV
+clerk;['clerk'];VOS;VOV
+click;['click'];VOS;VOV
+climb;['climb'];VOS;VOV
+cling to;['cling to'];VOS;VOV
+clink;['clink'];VOS;VOV
+clip;['clip'];VOS;VOV
+clobber;['clobber'];VOS;VOV
+clock;['clock'];VOS;VOV
+clog;['clog'];VOS;VOV
+clone;['clone'];VOS;VOV
+close;['close'];VOS;VOV
+clot;['clot'];VOS;VOV
+clothe;['clothe'];VOS;VOV
+cloud;['cloud'];VOS;VOV
+clout;['clout'];VOS;VOV
+clown about;['clown about'];VOS;VOV
+clown around;['clown around'];VOS;VOV
+club;['club'];VOS;VOV
+clump;['clump'];VOS;VOV
+cluster;['cluster'];VOS;VOV
+clutch;['clutch'];VOS;VOV
+clutter;['clutter'];VOS;VOV
+co-star;['co-star'];VOS;VOV
+coach;['coach'];VOS;VOV
+coagulate;['coagulate'];VOS;VOV
+coalesce;['coalesce'];VOS;VOV
+coarsen;['coarsen'];VOS;VOV
+coast;['coast'];VOS;VOV
+coat;['coat'];VOS;VOV
+coax;['coax'];VOS;VOV
+cobble;['cobble'];VOS;VOV
+cocoon;['cocoon'];VOS;VOV
+coddle;['coddle'];VOS;VOV
+code;['code'];VOS;VOV
+codify;['codify'];VOS;VOV
+coerce;['coerce'];VOS;VOV
+coexist;['coexist'];VOS;VOV
+cogitate;['cogitate'];VOS;VOV
+cohabit;['cohabit'];VOS;VOV
+coil;['coil'];VOS;VOV
+coin;['coin'];VOS;VOV
+coincide;['coincide'];VOS;VOV
+cold-shoulder someone;['cold-shoulder someone'];VOS;VOV
+collaborate;['collaborate'];VOS;VOV
+collapse;['collapse'];VOS;VOV
+collar;['collar'];VOS;VOV
+collate;['collate'];VOS;VOV
+collect;['collect'];VOS;VOV
+collide;['collide'];VOS;VOV
+colonize ;['colonize '];VOS;VOV
+colonise ;['colonise '];VOS;VOV
+colour ;['colour '];VOS;VOV
+color ;['color '];VOS;VOV
+comb;['comb'];VOS;VOV
+combat;['combat'];VOS;VOV
+combine with;['combine with'];VOS;VOV
+come;['come'];VOS;VOV
+comfort;['comfort'];VOS;VOV
+command;['command'];VOS;VOV
+commandeer;['commandeer'];VOS;VOV
+commemorate;['commemorate'];VOS;VOV
+commence;['commence'];VOS;VOV
+commend;['commend'];VOS;VOV
+comment;['comment'];VOS;VOV
+commercialize ;['commercialize '];VOS;VOV
+commercialise ;['commercialise '];VOS;VOV
+commiserate with;['commiserate with'];VOS;VOV
+commission;['commission'];VOS;VOV
+commit;['commit'];VOS;VOV
+commune with;['commune with'];VOS;VOV
+communicate;['communicate'];VOS;VOV
+commute;['commute'];VOS;VOV
+compact;['compact'];VOS;VOV
+compare;['compare'];VOS;VOV
+compartmentalize ;['compartmentalize '];VOS;VOV
+compartmentalise ;['compartmentalise '];VOS;VOV
+compel;['compel'];VOS;VOV
+compensate;['compensate'];VOS;VOV
+compete;['compete'];VOS;VOV
+compile;['compile'];VOS;VOV
+complain for of;['complain for of'];VOS;VOV
+complement;['complement'];VOS;VOV
+complete;['complete'];VOS;VOV
+complicate;['complicate'];VOS;VOV
+compliment;['compliment'];VOS;VOV
+comply;['comply'];VOS;VOV
+compose;['compose'];VOS;VOV
+compost;['compost'];VOS;VOV
+compound;['compound'];VOS;VOV
+comprehend;['comprehend'];VOS;VOV
+compress;['compress'];VOS;VOV
+comprise;['comprise'];VOS;VOV
+compromise;['compromise'];VOS;VOV
+compute;['compute'];VOS;VOV
+computerize ;['computerize '];VOS;VOV
+computerise ;['computerise '];VOS;VOV
+con;['con'];VOS;VOV
+concatenate;['concatenate'];VOS;VOV
+conceal;['conceal'];VOS;VOV
+concede;['concede'];VOS;VOV
+conceive;['conceive'];VOS;VOV
+concentrate;['concentrate'];VOS;VOV
+concern;['concern'];VOS;VOV
+concert;['concert'];VOS;VOV
+conciliate;['conciliate'];VOS;VOV
+conclude;['conclude'];VOS;VOV
+concoct;['concoct'];VOS;VOV
+concur;['concur'];VOS;VOV
+concuss;['concuss'];VOS;VOV
+condemn;['condemn'];VOS;VOV
+condense;['condense'];VOS;VOV
+condescend to;['condescend to'];VOS;VOV
+condition;['condition'];VOS;VOV
+condole with;['condole with'];VOS;VOV
+condone;['condone'];VOS;VOV
+conduce to;['conduce to'];VOS;VOV
+conduct;['conduct'];VOS;VOV
+confederate;['confederate'];VOS;VOV
+confer;['confer'];VOS;VOV
+confess;['confess'];VOS;VOV
+confide;['confide'];VOS;VOV
+configure;['configure'];VOS;VOV
+confine;['confine'];VOS;VOV
+confirm;['confirm'];VOS;VOV
+confiscate;['confiscate'];VOS;VOV
+conflict avec;['conflict avec'];VOS;VOV
+conform;['conform'];VOS;VOV
+confound;['confound'];VOS;VOV
+confront;['confront'];VOS;VOV
+confuse;['confuse'];VOS;VOV
+congeal;['congeal'];VOS;VOV
+congest;['congest'];VOS;VOV
+conglomerate;['conglomerate'];VOS;VOV
+congratulate on;['congratulate on'];VOS;VOV
+congregate;['congregate'];VOS;VOV
+conjecture;['conjecture'];VOS;VOV
+conjugate;['conjugate'];VOS;VOV
+conjure;['conjure'];VOS;VOV
+connect;['connect'];VOS;VOV
+connive with;['connive with'];VOS;VOV
+connote;['connote'];VOS;VOV
+conquer;['conquer'];VOS;VOV
+conscript;['conscript'];VOS;VOV
+consecrate;['consecrate'];VOS;VOV
+consent to;['consent to'];VOS;VOV
+conserve;['conserve'];VOS;VOV
+consider;['consider'];VOS;VOV
+consign;['consign'];VOS;VOV
+consist of;['consist of'];VOS;VOV
+console;['console'];VOS;VOV
+consolidate;['consolidate'];VOS;VOV
+consort with;['consort with'];VOS;VOV
+conspire;['conspire'];VOS;VOV
+constipate;['constipate'];VOS;VOV
+constitute;['constitute'];VOS;VOV
+constrain;['constrain'];VOS;VOV
+constrict;['constrict'];VOS;VOV
+construct;['construct'];VOS;VOV
+construe;['construe'];VOS;VOV
+consult;['consult'];VOS;VOV
+consume;['consume'];VOS;VOV
+consummate;['consummate'];VOS;VOV
+contact;['contact'];VOS;VOV
+contain;['contain'];VOS;VOV
+contaminate;['contaminate'];VOS;VOV
+contemplate;['contemplate'];VOS;VOV
+contend;['contend'];VOS;VOV
+content with;['content with'];VOS;VOV
+contest;['contest'];VOS;VOV
+continue;['continue'];VOS;VOV
+contort;['contort'];VOS;VOV
+contract;['contract'];VOS;VOV
+contradict;['contradict'];VOS;VOV
+contrast;['contrast'];VOS;VOV
+contravene;['contravene'];VOS;VOV
+contribute;['contribute'];VOS;VOV
+contrive;['contrive'];VOS;VOV
+control;['control'];VOS;VOV
+convalesce;['convalesce'];VOS;VOV
+convene;['convene'];VOS;VOV
+converge;['converge'];VOS;VOV
+converse;['converse'];VOS;VOV
+convert;['convert'];VOS;VOV
+convey;['convey'];VOS;VOV
+convict of;['convict of'];VOS;VOV
+convince of;['convince of'];VOS;VOV
+convoke;['convoke'];VOS;VOV
+convoy;['convoy'];VOS;VOV
+convulse;['convulse'];VOS;VOV
+coo;['coo'];VOS;VOV
+cook;['cook'];VOS;VOV
+cool;['cool'];VOS;VOV
+coop up;['coop up'];VOS;VOV
+cooperate;['cooperate'];VOS;VOV
+coopt;['coopt'];VOS;VOV
+coordinate;['coordinate'];VOS;VOV
+cop;['cop'];VOS;VOV
+cope;['cope'];VOS;VOV
+copulate;['copulate'];VOS;VOV
+copy;['copy'];VOS;VOV
+copyright;['copyright'];VOS;VOV
+cordon off;['cordon off'];VOS;VOV
+corner;['corner'];VOS;VOV
+correct;['correct'];VOS;VOV
+correlate;['correlate'];VOS;VOV
+correspond;['correspond'];VOS;VOV
+corroborate;['corroborate'];VOS;VOV
+corrode;['corrode'];VOS;VOV
+corrupt;['corrupt'];VOS;VOV
+cosh;['cosh'];VOS;VOV
+cosset;['cosset'];VOS;VOV
+cost ;['cost '];VOS;VOV
+cost ;['cost '];VOS;VOV
+couch;['couch'];VOS;VOV
+cough;['cough'];VOS;VOV
+counsel ;['counsel '];VOS;VOV
+counsel ;['counsel '];VOS;VOV
+count;['count'];VOS;VOV
+counter;['counter'];VOS;VOV
+counteract;['counteract'];VOS;VOV
+counterbalance;['counterbalance'];VOS;VOV
+counterfeit;['counterfeit'];VOS;VOV
+countersign;['countersign'];VOS;VOV
+couple;['couple'];VOS;VOV
+court;['court'];VOS;VOV
+court-martial ;['court-martial '];VOS;VOV
+court-martial ;['court-martial '];VOS;VOV
+cover;['cover'];VOS;VOV
+covet;['covet'];VOS;VOV
+cow;['cow'];VOS;VOV
+cower;['cower'];VOS;VOV
+crack;['crack'];VOS;VOV
+crackle;['crackle'];VOS;VOV
+cradle;['cradle'];VOS;VOV
+cram;['cram'];VOS;VOV
+crane one's neck;['crane one's neck'];VOS;VOV
+crash;['crash'];VOS;VOV
+crave;['crave'];VOS;VOV
+crawl;['crawl'];VOS;VOV
+creak;['creak'];VOS;VOV
+cream;['cream'];VOS;VOV
+crease;['crease'];VOS;VOV
+create;['create'];VOS;VOV
+credit;['credit'];VOS;VOV
+creep;['creep'];VOS;VOV
+cremate;['cremate'];VOS;VOV
+crew;['crew'];VOS;VOV
+crib from;['crib from'];VOS;VOV
+cringe;['cringe'];VOS;VOV
+crinkle;['crinkle'];VOS;VOV
+cripple;['cripple'];VOS;VOV
+crisscross ;['crisscross '];VOS;VOV
+criss-cross ;['criss-cross '];VOS;VOV
+criticize ;['criticize '];VOS;VOV
+criticise ;['criticise '];VOS;VOV
+croak;['croak'];VOS;VOV
+crook;['crook'];VOS;VOV
+croon;['croon'];VOS;VOV
+crop;['crop'];VOS;VOV
+cross;['cross'];VOS;VOV
+cross-check;['cross-check'];VOS;VOV
+cross-examine;['cross-examine'];VOS;VOV
+cross-question;['cross-question'];VOS;VOV
+cross-reference;['cross-reference'];VOS;VOV
+crossbreed;['crossbreed'];VOS;VOV
+crouch down;['crouch down'];VOS;VOV
+crow;['crow'];VOS;VOV
+crowd;['crowd'];VOS;VOV
+crown;['crown'];VOS;VOV
+crucify;['crucify'];VOS;VOV
+cruise;['cruise'];VOS;VOV
+crumble;['crumble'];VOS;VOV
+crumple;['crumple'];VOS;VOV
+crunch;['crunch'];VOS;VOV
+crusade;['crusade'];VOS;VOV
+crush;['crush'];VOS;VOV
+crust;['crust'];VOS;VOV
+cry;['cry'];VOS;VOV
+crystallize ;['crystallize '];VOS;VOV
+crystallise ;['crystallise '];VOS;VOV
+cube;['cube'];VOS;VOV
+cuddle;['cuddle'];VOS;VOV
+cuff;['cuff'];VOS;VOV
+culminate in;['culminate in'];VOS;VOV
+cultivate;['cultivate'];VOS;VOV
+cup one's hands;['cup one's hands'];VOS;VOV
+curb;['curb'];VOS;VOV
+curdle;['curdle'];VOS;VOV
+cure of;['cure of'];VOS;VOV
+curl;['curl'];VOS;VOV
+curse;['curse'];VOS;VOV
+curtail;['curtail'];VOS;VOV
+curve;['curve'];VOS;VOV
+cushion;['cushion'];VOS;VOV
+customize ;['customize '];VOS;VOV
+customise ;['customise '];VOS;VOV
+cut;['cut'];VOS;VOV
+cycle;['cycle'];VOS;VOV
+dab;['dab'];VOS;VOV
+dabble;['dabble'];VOS;VOV
+dam;['dam'];VOS;VOV
+damage;['damage'];VOS;VOV
+damn;['damn'];VOS;VOV
+damp;['damp'];VOS;VOV
+dampen;['dampen'];VOS;VOV
+dance;['dance'];VOS;VOV
+dangle;['dangle'];VOS;VOV
+dapple;['dapple'];VOS;VOV
+dare;['dare'];VOS;VOV
+darken;['darken'];VOS;VOV
+darn;['darn'];VOS;VOV
+dart;['dart'];VOS;VOV
+dash;['dash'];VOS;VOV
+date;['date'];VOS;VOV
+daub;['daub'];VOS;VOV
+daunt;['daunt'];VOS;VOV
+dawn;['dawn'];VOS;VOV
+daydream ;['daydream '];VOS;VOV
+daydream ;['daydream '];VOS;VOV
+daze;['daze'];VOS;VOV
+dazzle;['dazzle'];VOS;VOV
+deactivate;['deactivate'];VOS;VOV
+deaden;['deaden'];VOS;VOV
+deafen;['deafen'];VOS;VOV
+deal;['deal'];VOS;VOV
+debar;['debar'];VOS;VOV
+debase;['debase'];VOS;VOV
+debate;['debate'];VOS;VOV
+debauch;['debauch'];VOS;VOV
+debit;['debit'];VOS;VOV
+debrief;['debrief'];VOS;VOV
+debug;['debug'];VOS;VOV
+debunk;['debunk'];VOS;VOV
+decamp;['decamp'];VOS;VOV
+decant;['decant'];VOS;VOV
+decapitate;['decapitate'];VOS;VOV
+decay;['decay'];VOS;VOV
+decease;['decease'];VOS;VOV
+deceive;['deceive'];VOS;VOV
+decelerate;['decelerate'];VOS;VOV
+decentralize ;['decentralize '];VOS;VOV
+decentralise ;['decentralise '];VOS;VOV
+decide;['decide'];VOS;VOV
+decimate;['decimate'];VOS;VOV
+decipher;['decipher'];VOS;VOV
+declaim;['declaim'];VOS;VOV
+declare;['declare'];VOS;VOV
+declassify;['declassify'];VOS;VOV
+decline;['decline'];VOS;VOV
+declutch;['declutch'];VOS;VOV
+decode;['decode'];VOS;VOV
+decompose;['decompose'];VOS;VOV
+decontaminate;['decontaminate'];VOS;VOV
+decontrol;['decontrol'];VOS;VOV
+decorate;['decorate'];VOS;VOV
+decorticate;['decorticate'];VOS;VOV
+decoy;['decoy'];VOS;VOV
+decrease;['decrease'];VOS;VOV
+decree;['decree'];VOS;VOV
+decry;['decry'];VOS;VOV
+dedicate;['dedicate'];VOS;VOV
+deduce;['deduce'];VOS;VOV
+deduct;['deduct'];VOS;VOV
+deepen;['deepen'];VOS;VOV
+deface;['deface'];VOS;VOV
+defame;['defame'];VOS;VOV
+default;['default'];VOS;VOV
+defeat;['defeat'];VOS;VOV
+defect;['defect'];VOS;VOV
+defend;['defend'];VOS;VOV
+defer;['defer'];VOS;VOV
+defile;['defile'];VOS;VOV
+define;['define'];VOS;VOV
+deflate;['deflate'];VOS;VOV
+deflect;['deflect'];VOS;VOV
+deflower;['deflower'];VOS;VOV
+defoliate;['defoliate'];VOS;VOV
+deforest;['deforest'];VOS;VOV
+deform;['deform'];VOS;VOV
+defraud;['defraud'];VOS;VOV
+defray;['defray'];VOS;VOV
+defreeze;['defreeze'];VOS;VOV
+defrost;['defrost'];VOS;VOV
+defuse;['defuse'];VOS;VOV
+defy;['defy'];VOS;VOV
+degenerate;['degenerate'];VOS;VOV
+degrade;['degrade'];VOS;VOV
+dehumanize ;['dehumanize '];VOS;VOV
+dehumanise ;['dehumanise '];VOS;VOV
+dehydrate;['dehydrate'];VOS;VOV
+deify;['deify'];VOS;VOV
+deign;['deign'];VOS;VOV
+deject;['deject'];VOS;VOV
+delay;['delay'];VOS;VOV
+delegate;['delegate'];VOS;VOV
+delete;['delete'];VOS;VOV
+deliberate;['deliberate'];VOS;VOV
+delight;['delight'];VOS;VOV
+delimit;['delimit'];VOS;VOV
+delineate;['delineate'];VOS;VOV
+deliver;['deliver'];VOS;VOV
+delude;['delude'];VOS;VOV
+delve into;['delve into'];VOS;VOV
+demagnetize ;['demagnetize '];VOS;VOV
+demagnetise ;['demagnetise '];VOS;VOV
+demand;['demand'];VOS;VOV
+demilitarise ;['demilitarise '];VOS;VOV
+demilitarize ;['demilitarize '];VOS;VOV
+demist;['demist'];VOS;VOV
+demobilize ;['demobilize '];VOS;VOV
+demobilise ;['demobilise '];VOS;VOV
+democratize ;['democratize '];VOS;VOV
+democratise ;['democratise '];VOS;VOV
+demolish;['demolish'];VOS;VOV
+demonstrate;['demonstrate'];VOS;VOV
+demoralize ;['demoralize '];VOS;VOV
+demoralise ;['demoralise '];VOS;VOV
+demote;['demote'];VOS;VOV
+demur;['demur'];VOS;VOV
+denationalize ;['denationalize '];VOS;VOV
+denationalise ;['denationalise '];VOS;VOV
+denature;['denature'];VOS;VOV
+denigrate;['denigrate'];VOS;VOV
+denominate;['denominate'];VOS;VOV
+denote;['denote'];VOS;VOV
+denounce;['denounce'];VOS;VOV
+dent;['dent'];VOS;VOV
+denude;['denude'];VOS;VOV
+deny;['deny'];VOS;VOV
+deodorize ;['deodorize '];VOS;VOV
+deodorise ;['deodorise '];VOS;VOV
+depart;['depart'];VOS;VOV
+depend on;['depend on'];VOS;VOV
+depict;['depict'];VOS;VOV
+deplete;['deplete'];VOS;VOV
+deplore;['deplore'];VOS;VOV
+deploy;['deploy'];VOS;VOV
+depopulate;['depopulate'];VOS;VOV
+deport;['deport'];VOS;VOV
+depose;['depose'];VOS;VOV
+deposit;['deposit'];VOS;VOV
+deprave;['deprave'];VOS;VOV
+deprecate;['deprecate'];VOS;VOV
+depreciate;['depreciate'];VOS;VOV
+depress;['depress'];VOS;VOV
+deprive of;['deprive of'];VOS;VOV
+depute;['depute'];VOS;VOV
+deputize for ;['deputize for '];VOS;VOV
+deputise for ;['deputise for '];VOS;VOV
+derail;['derail'];VOS;VOV
+deride;['deride'];VOS;VOV
+derive from;['derive from'];VOS;VOV
+derogate;['derogate'];VOS;VOV
+descend;['descend'];VOS;VOV
+describe;['describe'];VOS;VOV
+desecrate;['desecrate'];VOS;VOV
+desegregate;['desegregate'];VOS;VOV
+desensitize ;['desensitize '];VOS;VOV
+desensitise ;['desensitise '];VOS;VOV
+desert;['desert'];VOS;VOV
+deserve;['deserve'];VOS;VOV
+design;['design'];VOS;VOV
+designate;['designate'];VOS;VOV
+desire;['desire'];VOS;VOV
+despair;['despair'];VOS;VOV
+despatch;['despatch'];VOS;VOV
+despise;['despise'];VOS;VOV
+destine;['destine'];VOS;VOV
+destroy;['destroy'];VOS;VOV
+destruct;['destruct'];VOS;VOV
+detach;['detach'];VOS;VOV
+detail;['detail'];VOS;VOV
+detain;['detain'];VOS;VOV
+detect;['detect'];VOS;VOV
+deter;['deter'];VOS;VOV
+deteriorate;['deteriorate'];VOS;VOV
+determine;['determine'];VOS;VOV
+detest;['detest'];VOS;VOV
+dethrone;['dethrone'];VOS;VOV
+detonate;['detonate'];VOS;VOV
+devalue;['devalue'];VOS;VOV
+devastate;['devastate'];VOS;VOV
+develop;['develop'];VOS;VOV
+deviate from;['deviate from'];VOS;VOV
+devise;['devise'];VOS;VOV
+devitalize ;['devitalize '];VOS;VOV
+devitalise ;['devitalise '];VOS;VOV
+devolve;['devolve'];VOS;VOV
+devote to;['devote to'];VOS;VOV
+devour;['devour'];VOS;VOV
+diagnose;['diagnose'];VOS;VOV
+dial ;['dial '];VOS;VOV
+dial ;['dial '];VOS;VOV
+dictate;['dictate'];VOS;VOV
+die;['die'];VOS;VOV
+diet;['diet'];VOS;VOV
+differ;['differ'];VOS;VOV
+differentiate;['differentiate'];VOS;VOV
+diffuse;['diffuse'];VOS;VOV
+dig;['dig'];VOS;VOV
+digest;['digest'];VOS;VOV
+digitize ;['digitize '];VOS;VOV
+digitise ;['digitise '];VOS;VOV
+dignify;['dignify'];VOS;VOV
+digress;['digress'];VOS;VOV
+dilate;['dilate'];VOS;VOV
+dillydally;['dillydally'];VOS;VOV
+dilute;['dilute'];VOS;VOV
+dim;['dim'];VOS;VOV
+diminish;['diminish'];VOS;VOV
+dine;['dine'];VOS;VOV
+dip;['dip'];VOS;VOV
+direct;['direct'];VOS;VOV
+dirty;['dirty'];VOS;VOV
+disable;['disable'];VOS;VOV
+disabuse;['disabuse'];VOS;VOV
+disadvantage;['disadvantage'];VOS;VOV
+disagree;['disagree'];VOS;VOV
+disappear;['disappear'];VOS;VOV
+disappoint;['disappoint'];VOS;VOV
+disapprove of;['disapprove of'];VOS;VOV
+disarm;['disarm'];VOS;VOV
+disarrange;['disarrange'];VOS;VOV
+disassemble;['disassemble'];VOS;VOV
+disavow;['disavow'];VOS;VOV
+disband;['disband'];VOS;VOV
+disbelieve;['disbelieve'];VOS;VOV
+disburse;['disburse'];VOS;VOV
+discard;['discard'];VOS;VOV
+discern;['discern'];VOS;VOV
+discharge;['discharge'];VOS;VOV
+discipline;['discipline'];VOS;VOV
+disclaim;['disclaim'];VOS;VOV
+disclose;['disclose'];VOS;VOV
+discolour ;['discolour '];VOS;VOV
+discolor ;['discolor '];VOS;VOV
+discomfit;['discomfit'];VOS;VOV
+disconnect;['disconnect'];VOS;VOV
+discontinue;['discontinue'];VOS;VOV
+discount;['discount'];VOS;VOV
+discourage;['discourage'];VOS;VOV
+discover;['discover'];VOS;VOV
+discredit;['discredit'];VOS;VOV
+discriminate;['discriminate'];VOS;VOV
+discuss;['discuss'];VOS;VOV
+disdain;['disdain'];VOS;VOV
+disembark;['disembark'];VOS;VOV
+disengage;['disengage'];VOS;VOV
+disentangle;['disentangle'];VOS;VOV
+disfigure;['disfigure'];VOS;VOV
+disgorge;['disgorge'];VOS;VOV
+disgrace;['disgrace'];VOS;VOV
+disguise;['disguise'];VOS;VOV
+disgust;['disgust'];VOS;VOV
+dish;['dish'];VOS;VOV
+dishonour ;['dishonour '];VOS;VOV
+dishonor ;['dishonor '];VOS;VOV
+disillusion;['disillusion'];VOS;VOV
+disinfect;['disinfect'];VOS;VOV
+disinherit;['disinherit'];VOS;VOV
+disintegrate;['disintegrate'];VOS;VOV
+disinter;['disinter'];VOS;VOV
+dislike;['dislike'];VOS;VOV
+dislocate;['dislocate'];VOS;VOV
+dislodge;['dislodge'];VOS;VOV
+dismantle;['dismantle'];VOS;VOV
+dismast;['dismast'];VOS;VOV
+dismay;['dismay'];VOS;VOV
+dismember;['dismember'];VOS;VOV
+dismiss;['dismiss'];VOS;VOV
+dismount;['dismount'];VOS;VOV
+disobey;['disobey'];VOS;VOV
+disorder;['disorder'];VOS;VOV
+disorganize ;['disorganize '];VOS;VOV
+disorganise ;['disorganise '];VOS;VOV
+disorientate;['disorientate'];VOS;VOV
+disown;['disown'];VOS;VOV
+disparage;['disparage'];VOS;VOV
+dispatch;['dispatch'];VOS;VOV
+dispel;['dispel'];VOS;VOV
+dispense;['dispense'];VOS;VOV
+disperse;['disperse'];VOS;VOV
+dispirit;['dispirit'];VOS;VOV
+displace;['displace'];VOS;VOV
+display;['display'];VOS;VOV
+displease;['displease'];VOS;VOV
+dispose;['dispose'];VOS;VOV
+dispossess;['dispossess'];VOS;VOV
+disprove;['disprove'];VOS;VOV
+dispute;['dispute'];VOS;VOV
+disqualify;['disqualify'];VOS;VOV
+disregard;['disregard'];VOS;VOV
+disrobe;['disrobe'];VOS;VOV
+disrupt;['disrupt'];VOS;VOV
+dissatisfy;['dissatisfy'];VOS;VOV
+dissect;['dissect'];VOS;VOV
+dissemble;['dissemble'];VOS;VOV
+disseminate;['disseminate'];VOS;VOV
+dissent from;['dissent from'];VOS;VOV
+dissimulate;['dissimulate'];VOS;VOV
+dissociate;['dissociate'];VOS;VOV
+dissolve;['dissolve'];VOS;VOV
+dissuade from;['dissuade from'];VOS;VOV
+distance;['distance'];VOS;VOV
+distil ;['distil '];VOS;VOV
+distill ;['distill '];VOS;VOV
+distinguish;['distinguish'];VOS;VOV
+distort;['distort'];VOS;VOV
+distract;['distract'];VOS;VOV
+distress;['distress'];VOS;VOV
+distribute;['distribute'];VOS;VOV
+distrust;['distrust'];VOS;VOV
+disturb;['disturb'];VOS;VOV
+disunite;['disunite'];VOS;VOV
+ditch;['ditch'];VOS;VOV
+dither;['dither'];VOS;VOV
+dive ;['dive '];VOS;VOV
+dive ;['dive '];VOS;VOV
+diverge;['diverge'];VOS;VOV
+diversify;['diversify'];VOS;VOV
+divert;['divert'];VOS;VOV
+divide;['divide'];VOS;VOV
+divorce;['divorce'];VOS;VOV
+divulge;['divulge'];VOS;VOV
+do;['do'];VOS;VOV
+dock;['dock'];VOS;VOV
+doctor;['doctor'];VOS;VOV
+document;['document'];VOS;VOV
+dodge;['dodge'];VOS;VOV
+dog;['dog'];VOS;VOV
+dole out;['dole out'];VOS;VOV
+doll up;['doll up'];VOS;VOV
+domesticate;['domesticate'];VOS;VOV
+domicile;['domicile'];VOS;VOV
+dominate;['dominate'];VOS;VOV
+don;['don'];VOS;VOV
+donate;['donate'];VOS;VOV
+doodle;['doodle'];VOS;VOV
+doom;['doom'];VOS;VOV
+dope;['dope'];VOS;VOV
+dot;['dot'];VOS;VOV
+dote;['dote'];VOS;VOV
+double;['double'];VOS;VOV
+doubt;['doubt'];VOS;VOV
+douse;['douse'];VOS;VOV
+down;['down'];VOS;VOV
+downgrade;['downgrade'];VOS;VOV
+download;['download'];VOS;VOV
+dowse;['dowse'];VOS;VOV
+doze;['doze'];VOS;VOV
+draft;['draft'];VOS;VOV
+drag;['drag'];VOS;VOV
+dragoon;['dragoon'];VOS;VOV
+drain;['drain'];VOS;VOV
+dramatize ;['dramatize '];VOS;VOV
+dramatise ;['dramatise '];VOS;VOV
+draw;['draw'];VOS;VOV
+drawl;['drawl'];VOS;VOV
+dread;['dread'];VOS;VOV
+dream ;['dream '];VOS;VOV
+dream ;['dream '];VOS;VOV
+drench;['drench'];VOS;VOV
+dress;['dress'];VOS;VOV
+dribble;['dribble'];VOS;VOV
+drift;['drift'];VOS;VOV
+drill;['drill'];VOS;VOV
+drink;['drink'];VOS;VOV
+drip;['drip'];VOS;VOV
+drive;['drive'];VOS;VOV
+drizzle;['drizzle'];VOS;VOV
+drone;['drone'];VOS;VOV
+droop;['droop'];VOS;VOV
+drop;['drop'];VOS;VOV
+drown;['drown'];VOS;VOV
+drowse;['drowse'];VOS;VOV
+drug;['drug'];VOS;VOV
+drum;['drum'];VOS;VOV
+dry;['dry'];VOS;VOV
+dry-clean;['dry-clean'];VOS;VOV
+dub;['dub'];VOS;VOV
+duck;['duck'];VOS;VOV
+dull;['dull'];VOS;VOV
+dumbfound;['dumbfound'];VOS;VOV
+dump;['dump'];VOS;VOV
+dunk;['dunk'];VOS;VOV
+dupe;['dupe'];VOS;VOV
+duplicate;['duplicate'];VOS;VOV
+dust;['dust'];VOS;VOV
+dwarf;['dwarf'];VOS;VOV
+dwell;['dwell'];VOS;VOV
+dwindle;['dwindle'];VOS;VOV
+dye;['dye'];VOS;VOV
+dynamite;['dynamite'];VOS;VOV
+earmark for;['earmark for'];VOS;VOV
+earn;['earn'];VOS;VOV
+ease;['ease'];VOS;VOV
+eat;['eat'];VOS;VOV
+eavesdrop;['eavesdrop'];VOS;VOV
+ebb;['ebb'];VOS;VOV
+echo;['echo'];VOS;VOV
+eclipse;['eclipse'];VOS;VOV
+economize ;['economize '];VOS;VOV
+economise ;['economise '];VOS;VOV
+edge;['edge'];VOS;VOV
+edit;['edit'];VOS;VOV
+educate;['educate'];VOS;VOV
+effect;['effect'];VOS;VOV
+egg on;['egg on'];VOS;VOV
+ejaculate;['ejaculate'];VOS;VOV
+eject;['eject'];VOS;VOV
+elaborate;['elaborate'];VOS;VOV
+elapse;['elapse'];VOS;VOV
+elate;['elate'];VOS;VOV
+elbow;['elbow'];VOS;VOV
+elect;['elect'];VOS;VOV
+electrify;['electrify'];VOS;VOV
+electrocute;['electrocute'];VOS;VOV
+elevate;['elevate'];VOS;VOV
+elicit;['elicit'];VOS;VOV
+eliminate;['eliminate'];VOS;VOV
+elucidate;['elucidate'];VOS;VOV
+elude;['elude'];VOS;VOV
+emanate from;['emanate from'];VOS;VOV
+emancipate;['emancipate'];VOS;VOV
+emasculate;['emasculate'];VOS;VOV
+embalm;['embalm'];VOS;VOV
+embark;['embark'];VOS;VOV
+embarrass;['embarrass'];VOS;VOV
+embed;['embed'];VOS;VOV
+embellish;['embellish'];VOS;VOV
+embezzle;['embezzle'];VOS;VOV
+embitter;['embitter'];VOS;VOV
+embody;['embody'];VOS;VOV
+embolden;['embolden'];VOS;VOV
+embrace;['embrace'];VOS;VOV
+embroider;['embroider'];VOS;VOV
+emerge;['emerge'];VOS;VOV
+emigrate;['emigrate'];VOS;VOV
+emit;['emit'];VOS;VOV
+empathize with ;['empathize with '];VOS;VOV
+empathise with ;['empathise with '];VOS;VOV
+emphasize ;['emphasize '];VOS;VOV
+emphasise ;['emphasise '];VOS;VOV
+employ;['employ'];VOS;VOV
+empower;['empower'];VOS;VOV
+empty;['empty'];VOS;VOV
+emulate;['emulate'];VOS;VOV
+enable;['enable'];VOS;VOV
+enact;['enact'];VOS;VOV
+enamel ;['enamel '];VOS;VOV
+enamel ;['enamel '];VOS;VOV
+encash;['encash'];VOS;VOV
+enchant;['enchant'];VOS;VOV
+enclose;['enclose'];VOS;VOV
+encode;['encode'];VOS;VOV
+encompass;['encompass'];VOS;VOV
+encore;['encore'];VOS;VOV
+encounter;['encounter'];VOS;VOV
+encourage;['encourage'];VOS;VOV
+encumber;['encumber'];VOS;VOV
+end;['end'];VOS;VOV
+endanger;['endanger'];VOS;VOV
+endear;['endear'];VOS;VOV
+endeavour ;['endeavour '];VOS;VOV
+endeavor ;['endeavor '];VOS;VOV
+endorse;['endorse'];VOS;VOV
+endow;['endow'];VOS;VOV
+endure;['endure'];VOS;VOV
+energize ;['energize '];VOS;VOV
+energise ;['energise '];VOS;VOV
+enervate;['enervate'];VOS;VOV
+enfold;['enfold'];VOS;VOV
+enforce;['enforce'];VOS;VOV
+engage;['engage'];VOS;VOV
+engender;['engender'];VOS;VOV
+engineer;['engineer'];VOS;VOV
+engrave;['engrave'];VOS;VOV
+engulf;['engulf'];VOS;VOV
+enjoin;['enjoin'];VOS;VOV
+enjoy;['enjoy'];VOS;VOV
+enlarge;['enlarge'];VOS;VOV
+enlighten;['enlighten'];VOS;VOV
+enlist;['enlist'];VOS;VOV
+enliven;['enliven'];VOS;VOV
+ennoble;['ennoble'];VOS;VOV
+enquire;['enquire'];VOS;VOV
+enrage;['enrage'];VOS;VOV
+enrich;['enrich'];VOS;VOV
+enrol ;['enrol '];VOS;VOV
+enroll ;['enroll '];VOS;VOV
+enshrine;['enshrine'];VOS;VOV
+enslave;['enslave'];VOS;VOV
+ensue;['ensue'];VOS;VOV
+ensure;['ensure'];VOS;VOV
+entail;['entail'];VOS;VOV
+entangle;['entangle'];VOS;VOV
+enter;['enter'];VOS;VOV
+entertain;['entertain'];VOS;VOV
+enthral ;['enthral '];VOS;VOV
+enthrall ;['enthrall '];VOS;VOV
+enthuse;['enthuse'];VOS;VOV
+entice;['entice'];VOS;VOV
+entitle;['entitle'];VOS;VOV
+entrap;['entrap'];VOS;VOV
+entreat;['entreat'];VOS;VOV
+entrust with;['entrust with'];VOS;VOV
+entwine;['entwine'];VOS;VOV
+enumerate;['enumerate'];VOS;VOV
+enunciate;['enunciate'];VOS;VOV
+envelop;['envelop'];VOS;VOV
+envenom;['envenom'];VOS;VOV
+envisage;['envisage'];VOS;VOV
+envy;['envy'];VOS;VOV
+epitomize ;['epitomize '];VOS;VOV
+epitomise ;['epitomise '];VOS;VOV
+equal ;['equal '];VOS;VOV
+equal ;['equal '];VOS;VOV
+equalize ;['equalize '];VOS;VOV
+equalise ;['equalise '];VOS;VOV
+equate;['equate'];VOS;VOV
+equilibrate;['equilibrate'];VOS;VOV
+equip;['equip'];VOS;VOV
+equivocate;['equivocate'];VOS;VOV
+eradicate;['eradicate'];VOS;VOV
+erase;['erase'];VOS;VOV
+erect;['erect'];VOS;VOV
+erode;['erode'];VOS;VOV
+err;['err'];VOS;VOV
+erupt;['erupt'];VOS;VOV
+escalate;['escalate'];VOS;VOV
+escape;['escape'];VOS;VOV
+escort;['escort'];VOS;VOV
+establish;['establish'];VOS;VOV
+esteem;['esteem'];VOS;VOV
+estimate;['estimate'];VOS;VOV
+eulogize ;['eulogize '];VOS;VOV
+eulogise ;['eulogise '];VOS;VOV
+evacuate;['evacuate'];VOS;VOV
+evade;['evade'];VOS;VOV
+evaluate;['evaluate'];VOS;VOV
+evangelize ;['evangelize '];VOS;VOV
+evangelise ;['evangelise '];VOS;VOV
+evaporate;['evaporate'];VOS;VOV
+even;['even'];VOS;VOV
+evict;['evict'];VOS;VOV
+evince;['evince'];VOS;VOV
+evoke;['evoke'];VOS;VOV
+evolve;['evolve'];VOS;VOV
+exacerbate;['exacerbate'];VOS;VOV
+exact;['exact'];VOS;VOV
+exaggerate;['exaggerate'];VOS;VOV
+exalt;['exalt'];VOS;VOV
+examine;['examine'];VOS;VOV
+exasperate;['exasperate'];VOS;VOV
+excavate;['excavate'];VOS;VOV
+exceed;['exceed'];VOS;VOV
+excel;['excel'];VOS;VOV
+except;['except'];VOS;VOV
+excite;['excite'];VOS;VOV
+exclaim;['exclaim'];VOS;VOV
+exclude;['exclude'];VOS;VOV
+excommunicate;['excommunicate'];VOS;VOV
+excrete;['excrete'];VOS;VOV
+exculpate;['exculpate'];VOS;VOV
+excuse;['excuse'];VOS;VOV
+execrate;['execrate'];VOS;VOV
+execute;['execute'];VOS;VOV
+exemplify;['exemplify'];VOS;VOV
+exempt;['exempt'];VOS;VOV
+exercise;['exercise'];VOS;VOV
+exert;['exert'];VOS;VOV
+exhale;['exhale'];VOS;VOV
+exhaust;['exhaust'];VOS;VOV
+exhibit;['exhibit'];VOS;VOV
+exhort;['exhort'];VOS;VOV
+exhume;['exhume'];VOS;VOV
+exile;['exile'];VOS;VOV
+exist;['exist'];VOS;VOV
+exit;['exit'];VOS;VOV
+exonerate;['exonerate'];VOS;VOV
+exorcise;['exorcise'];VOS;VOV
+expand;['expand'];VOS;VOV
+expatiate;['expatiate'];VOS;VOV
+expatriate;['expatriate'];VOS;VOV
+expect;['expect'];VOS;VOV
+expel;['expel'];VOS;VOV
+experience;['experience'];VOS;VOV
+experiment;['experiment'];VOS;VOV
+expiate;['expiate'];VOS;VOV
+expire;['expire'];VOS;VOV
+explain;['explain'];VOS;VOV
+explode;['explode'];VOS;VOV
+exploit;['exploit'];VOS;VOV
+explore;['explore'];VOS;VOV
+export;['export'];VOS;VOV
+expose;['expose'];VOS;VOV
+expostulate;['expostulate'];VOS;VOV
+express;['express'];VOS;VOV
+expropriate;['expropriate'];VOS;VOV
+expurgate;['expurgate'];VOS;VOV
+extemporize ;['extemporize '];VOS;VOV
+extemporise ;['extemporise '];VOS;VOV
+extend;['extend'];VOS;VOV
+extenuate;['extenuate'];VOS;VOV
+exteriorize ;['exteriorize '];VOS;VOV
+exteriorise ;['exteriorise '];VOS;VOV
+exterminate;['exterminate'];VOS;VOV
+externalize ;['externalize '];VOS;VOV
+externalise ;['externalise '];VOS;VOV
+extinguish;['extinguish'];VOS;VOV
+extirpate;['extirpate'];VOS;VOV
+extol;['extol'];VOS;VOV
+extort;['extort'];VOS;VOV
+extract;['extract'];VOS;VOV
+extradite;['extradite'];VOS;VOV
+extrapolate;['extrapolate'];VOS;VOV
+extricate;['extricate'];VOS;VOV
+exult;['exult'];VOS;VOV
+eye;['eye'];VOS;VOV
+fabricate;['fabricate'];VOS;VOV
+face;['face'];VOS;VOV
+facilitate;['facilitate'];VOS;VOV
+fade;['fade'];VOS;VOV
+fail;['fail'];VOS;VOV
+faint;['faint'];VOS;VOV
+fake;['fake'];VOS;VOV
+fall;['fall'];VOS;VOV
+falsify;['falsify'];VOS;VOV
+falter;['falter'];VOS;VOV
+familiarize ;['familiarize '];VOS;VOV
+familiarise ;['familiarise '];VOS;VOV
+fan;['fan'];VOS;VOV
+fancy;['fancy'];VOS;VOV
+fantasize ;['fantasize '];VOS;VOV
+fantasise ;['fantasise '];VOS;VOV
+fare;['fare'];VOS;VOV
+farm;['farm'];VOS;VOV
+fart;['fart'];VOS;VOV
+fascinate;['fascinate'];VOS;VOV
+fast;['fast'];VOS;VOV
+fasten;['fasten'];VOS;VOV
+father;['father'];VOS;VOV
+fathom;['fathom'];VOS;VOV
+fatten;['fatten'];VOS;VOV
+fault;['fault'];VOS;VOV
+favour ;['favour '];VOS;VOV
+favor ;['favor '];VOS;VOV
+fax;['fax'];VOS;VOV
+fear;['fear'];VOS;VOV
+feast;['feast'];VOS;VOV
+feature;['feature'];VOS;VOV
+federate;['federate'];VOS;VOV
+feed;['feed'];VOS;VOV
+feel;['feel'];VOS;VOV
+feign;['feign'];VOS;VOV
+fell;['fell'];VOS;VOV
+feminize ;['feminize '];VOS;VOV
+feminise ;['feminise '];VOS;VOV
+fence;['fence'];VOS;VOV
+fend for;['fend for'];VOS;VOV
+ferment;['ferment'];VOS;VOV
+ferry;['ferry'];VOS;VOV
+fertilize ;['fertilize '];VOS;VOV
+fertilise ;['fertilise '];VOS;VOV
+fester;['fester'];VOS;VOV
+fetch;['fetch'];VOS;VOV
+fte;['fte'];VOS;VOV
+fetter;['fetter'];VOS;VOV
+feud with;['feud with'];VOS;VOV
+fib;['fib'];VOS;VOV
+fictionalize ;['fictionalize '];VOS;VOV
+fictionalise ;['fictionalise '];VOS;VOV
+fiddle;['fiddle'];VOS;VOV
+fidget;['fidget'];VOS;VOV
+field;['field'];VOS;VOV
+fight;['fight'];VOS;VOV
+figure;['figure'];VOS;VOV
+file;['file'];VOS;VOV
+filibuster;['filibuster'];VOS;VOV
+fill;['fill'];VOS;VOV
+film;['film'];VOS;VOV
+filter;['filter'];VOS;VOV
+finalize ;['finalize '];VOS;VOV
+finalise ;['finalise '];VOS;VOV
+finance;['finance'];VOS;VOV
+find;['find'];VOS;VOV
+fine;['fine'];VOS;VOV
+fine-tune;['fine-tune'];VOS;VOV
+finger;['finger'];VOS;VOV
+finish;['finish'];VOS;VOV
+fire;['fire'];VOS;VOV
+fish;['fish'];VOS;VOV
+fissure;['fissure'];VOS;VOV
+fit;['fit'];VOS;VOV
+fix;['fix'];VOS;VOV
+fizz;['fizz'];VOS;VOV
+fizzle;['fizzle'];VOS;VOV
+flabbergast;['flabbergast'];VOS;VOV
+flag;['flag'];VOS;VOV
+flagellate;['flagellate'];VOS;VOV
+flake;['flake'];VOS;VOV
+flame;['flame'];VOS;VOV
+flank;['flank'];VOS;VOV
+flap;['flap'];VOS;VOV
+flare;['flare'];VOS;VOV
+flash;['flash'];VOS;VOV
+flatten;['flatten'];VOS;VOV
+flatter;['flatter'];VOS;VOV
+flavour ;['flavour '];VOS;VOV
+flavor ;['flavor '];VOS;VOV
+fleck;['fleck'];VOS;VOV
+flee;['flee'];VOS;VOV
+flesh;['flesh'];VOS;VOV
+flex;['flex'];VOS;VOV
+flick;['flick'];VOS;VOV
+flicker;['flicker'];VOS;VOV
+flinch;['flinch'];VOS;VOV
+fling;['fling'];VOS;VOV
+flip;['flip'];VOS;VOV
+flirt;['flirt'];VOS;VOV
+flit;['flit'];VOS;VOV
+float;['float'];VOS;VOV
+flock;['flock'];VOS;VOV
+flog;['flog'];VOS;VOV
+flood;['flood'];VOS;VOV
+floodlight;['floodlight'];VOS;VOV
+flop;['flop'];VOS;VOV
+flounder;['flounder'];VOS;VOV
+flourish;['flourish'];VOS;VOV
+flout;['flout'];VOS;VOV
+flow;['flow'];VOS;VOV
+flower;['flower'];VOS;VOV
+fluctuate;['fluctuate'];VOS;VOV
+flunk;['flunk'];VOS;VOV
+flush;['flush'];VOS;VOV
+fluster;['fluster'];VOS;VOV
+flutter;['flutter'];VOS;VOV
+fly;['fly'];VOS;VOV
+foam;['foam'];VOS;VOV
+focus;['focus'];VOS;VOV
+fog;['fog'];VOS;VOV
+foil;['foil'];VOS;VOV
+fold;['fold'];VOS;VOV
+follow;['follow'];VOS;VOV
+foment;['foment'];VOS;VOV
+fondle;['fondle'];VOS;VOV
+fool;['fool'];VOS;VOV
+forage;['forage'];VOS;VOV
+foray;['foray'];VOS;VOV
+forbear;['forbear'];VOS;VOV
+forbid;['forbid'];VOS;VOV
+force;['force'];VOS;VOV
+force-feed;['force-feed'];VOS;VOV
+ford;['ford'];VOS;VOV
+forebode;['forebode'];VOS;VOV
+forecast;['forecast'];VOS;VOV
+foresee;['foresee'];VOS;VOV
+foreshadow;['foreshadow'];VOS;VOV
+forestall;['forestall'];VOS;VOV
+foretell;['foretell'];VOS;VOV
+forewarn;['forewarn'];VOS;VOV
+forgather ;['forgather '];VOS;VOV
+foregather ;['foregather '];VOS;VOV
+forge;['forge'];VOS;VOV
+forget;['forget'];VOS;VOV
+forgive;['forgive'];VOS;VOV
+forgo ;['forgo '];VOS;VOV
+forego ;['forego '];VOS;VOV
+fork;['fork'];VOS;VOV
+form;['form'];VOS;VOV
+formalize ;['formalize '];VOS;VOV
+formalise ;['formalise '];VOS;VOV
+format;['format'];VOS;VOV
+formulate;['formulate'];VOS;VOV
+fornicate;['fornicate'];VOS;VOV
+forsake;['forsake'];VOS;VOV
+forswear;['forswear'];VOS;VOV
+fortify;['fortify'];VOS;VOV
+forward;['forward'];VOS;VOV
+fossilize ;['fossilize '];VOS;VOV
+fossilise ;['fossilise '];VOS;VOV
+foster;['foster'];VOS;VOV
+foul;['foul'];VOS;VOV
+found;['found'];VOS;VOV
+fox;['fox'];VOS;VOV
+fracture;['fracture'];VOS;VOV
+fragment;['fragment'];VOS;VOV
+frame;['frame'];VOS;VOV
+frank;['frank'];VOS;VOV
+fraternize ;['fraternize '];VOS;VOV
+fraternise ;['fraternise '];VOS;VOV
+freak out;['freak out'];VOS;VOV
+freckle;['freckle'];VOS;VOV
+free;['free'];VOS;VOV
+freeze;['freeze'];VOS;VOV
+freight;['freight'];VOS;VOV
+Frenchify;['Frenchify'];VOS;VOV
+frequent;['frequent'];VOS;VOV
+freshen;['freshen'];VOS;VOV
+fret;['fret'];VOS;VOV
+frighten;['frighten'];VOS;VOV
+fringe;['fringe'];VOS;VOV
+frisk;['frisk'];VOS;VOV
+frizz;['frizz'];VOS;VOV
+frizzle;['frizzle'];VOS;VOV
+frolic;['frolic'];VOS;VOV
+frost;['frost'];VOS;VOV
+froth;['froth'];VOS;VOV
+frown;['frown'];VOS;VOV
+fructify;['fructify'];VOS;VOV
+frustrate;['frustrate'];VOS;VOV
+fry;['fry'];VOS;VOV
+fuck fam vulg;['fuck fam vulg'];VOS;VOV
+fudge;['fudge'];VOS;VOV
+fuel ;['fuel '];VOS;VOV
+fuel ;['fuel '];VOS;VOV
+fulfil;['fulfil'];VOS;VOV
+fulminate;['fulminate'];VOS;VOV
+fumble;['fumble'];VOS;VOV
+fume;['fume'];VOS;VOV
+function;['function'];VOS;VOV
+fund;['fund'];VOS;VOV
+funnel;['funnel'];VOS;VOV
+furbish;['furbish'];VOS;VOV
+furnish;['furnish'];VOS;VOV
+further;['further'];VOS;VOV
+fuse;['fuse'];VOS;VOV
+fuss;['fuss'];VOS;VOV
+gab;['gab'];VOS;VOV
+gabble;['gabble'];VOS;VOV
+gag;['gag'];VOS;VOV
+gain;['gain'];VOS;VOV
+gainsay;['gainsay'];VOS;VOV
+gall;['gall'];VOS;VOV
+gallop;['gallop'];VOS;VOV
+galvanize ;['galvanize '];VOS;VOV
+galvanise ;['galvanise '];VOS;VOV
+gamble;['gamble'];VOS;VOV
+gambol ;['gambol '];VOS;VOV
+gambol ;['gambol '];VOS;VOV
+gaol;['gaol'];VOS;VOV
+gape;['gape'];VOS;VOV
+garble;['garble'];VOS;VOV
+garden;['garden'];VOS;VOV
+gargle;['gargle'];VOS;VOV
+garland;['garland'];VOS;VOV
+garner;['garner'];VOS;VOV
+garnish;['garnish'];VOS;VOV
+garrotte;['garrotte'];VOS;VOV
+gas ;['gas '];VOS;VOV
+gas ;['gas '];VOS;VOV
+gash;['gash'];VOS;VOV
+gasify;['gasify'];VOS;VOV
+gasp;['gasp'];VOS;VOV
+gather;['gather'];VOS;VOV
+gauge;['gauge'];VOS;VOV
+gawk;['gawk'];VOS;VOV
+gawp;['gawp'];VOS;VOV
+gaze;['gaze'];VOS;VOV
+gear;['gear'];VOS;VOV
+generalize ;['generalize '];VOS;VOV
+generalise ;['generalise '];VOS;VOV
+generate;['generate'];VOS;VOV
+germinate;['germinate'];VOS;VOV
+gesticulate;['gesticulate'];VOS;VOV
+get ;['get '];VOS;VOV
+get ;['get '];VOS;VOV
+ghost;['ghost'];VOS;VOV
+ghost-write;['ghost-write'];VOS;VOV
+gibber;['gibber'];VOS;VOV
+gibe at;['gibe at'];VOS;VOV
+giggle;['giggle'];VOS;VOV
+gild;['gild'];VOS;VOV
+ginger up;['ginger up'];VOS;VOV
+give;['give'];VOS;VOV
+gladden;['gladden'];VOS;VOV
+glamorize ;['glamorize '];VOS;VOV
+glamorise ;['glamorise '];VOS;VOV
+glance;['glance'];VOS;VOV
+glare;['glare'];VOS;VOV
+glaze;['glaze'];VOS;VOV
+gleam;['gleam'];VOS;VOV
+glean;['glean'];VOS;VOV
+glide;['glide'];VOS;VOV
+glimmer;['glimmer'];VOS;VOV
+glimpse;['glimpse'];VOS;VOV
+glint;['glint'];VOS;VOV
+glisten;['glisten'];VOS;VOV
+glitter;['glitter'];VOS;VOV
+gloat;['gloat'];VOS;VOV
+glorify to;['glorify to'];VOS;VOV
+gloss;['gloss'];VOS;VOV
+glow with;['glow with'];VOS;VOV
+glower at;['glower at'];VOS;VOV
+glue;['glue'];VOS;VOV
+glut;['glut'];VOS;VOV
+gnaw;['gnaw'];VOS;VOV
+go;['go'];VOS;VOV
+goad;['goad'];VOS;VOV
+gobble;['gobble'];VOS;VOV
+goggle at;['goggle at'];VOS;VOV
+goof;['goof'];VOS;VOV
+google;['google'];VOS;VOV
+gore;['gore'];VOS;VOV
+gorge on;['gorge on'];VOS;VOV
+gormandize;['gormandize'];VOS;VOV
+gormandise ;['gormandise '];VOS;VOV
+gossip;['gossip'];VOS;VOV
+govern;['govern'];VOS;VOV
+grab;['grab'];VOS;VOV
+grace with;['grace with'];VOS;VOV
+gradate;['gradate'];VOS;VOV
+grade;['grade'];VOS;VOV
+graduate;['graduate'];VOS;VOV
+graft;['graft'];VOS;VOV
+grant;['grant'];VOS;VOV
+grapple;['grapple'];VOS;VOV
+grasp;['grasp'];VOS;VOV
+grate;['grate'];VOS;VOV
+gratify;['gratify'];VOS;VOV
+grave;['grave'];VOS;VOV
+gravel ;['gravel '];VOS;VOV
+gravel ;['gravel '];VOS;VOV
+gravitate;['gravitate'];VOS;VOV
+graze;['graze'];VOS;VOV
+grease;['grease'];VOS;VOV
+greet;['greet'];VOS;VOV
+grey;['grey'];VOS;VOV
+grieve;['grieve'];VOS;VOV
+grill;['grill'];VOS;VOV
+grimace;['grimace'];VOS;VOV
+grin;['grin'];VOS;VOV
+grind;['grind'];VOS;VOV
+grip;['grip'];VOS;VOV
+grizzle;['grizzle'];VOS;VOV
+groan;['groan'];VOS;VOV
+groom;['groom'];VOS;VOV
+grope;['grope'];VOS;VOV
+grouch;['grouch'];VOS;VOV
+ground;['ground'];VOS;VOV
+group;['group'];VOS;VOV
+grouse;['grouse'];VOS;VOV
+grovel ;['grovel '];VOS;VOV
+grovel ;['grovel '];VOS;VOV
+grow;['grow'];VOS;VOV
+growl;['growl'];VOS;VOV
+grub;['grub'];VOS;VOV
+grudge;['grudge'];VOS;VOV
+grumble;['grumble'];VOS;VOV
+grunt;['grunt'];VOS;VOV
+guarantee;['guarantee'];VOS;VOV
+guard;['guard'];VOS;VOV
+guess;['guess'];VOS;VOV
+guffaw;['guffaw'];VOS;VOV
+guide;['guide'];VOS;VOV
+guillotine;['guillotine'];VOS;VOV
+gulp;['gulp'];VOS;VOV
+gum;['gum'];VOS;VOV
+gun down;['gun down'];VOS;VOV
+gurgle;['gurgle'];VOS;VOV
+gush;['gush'];VOS;VOV
+gut;['gut'];VOS;VOV
+guy;['guy'];VOS;VOV
+guzzle;['guzzle'];VOS;VOV
+gyrate;['gyrate'];VOS;VOV
+habituate;['habituate'];VOS;VOV
+hack;['hack'];VOS;VOV
+haggle;['haggle'];VOS;VOV
+hail;['hail'];VOS;VOV
+hallucinate;['hallucinate'];VOS;VOV
+halt;['halt'];VOS;VOV
+halve;['halve'];VOS;VOV
+hammer;['hammer'];VOS;VOV
+hamper;['hamper'];VOS;VOV
+hamstring;['hamstring'];VOS;VOV
+hand;['hand'];VOS;VOV
+handicap;['handicap'];VOS;VOV
+handle;['handle'];VOS;VOV
+hang;['hang'];VOS;VOV
+hanker;['hanker'];VOS;VOV
+happen;['happen'];VOS;VOV
+harangue;['harangue'];VOS;VOV
+harass;['harass'];VOS;VOV
+harbour ;['harbour '];VOS;VOV
+harbor ;['harbor '];VOS;VOV
+harden;['harden'];VOS;VOV
+hare;['hare'];VOS;VOV
+hark;['hark'];VOS;VOV
+harm;['harm'];VOS;VOV
+harmonize ;['harmonize '];VOS;VOV
+harmonise ;['harmonise '];VOS;VOV
+harness;['harness'];VOS;VOV
+harp;['harp'];VOS;VOV
+harpoon;['harpoon'];VOS;VOV
+harry;['harry'];VOS;VOV
+harvest;['harvest'];VOS;VOV
+hash;['hash'];VOS;VOV
+hasten;['hasten'];VOS;VOV
+hatch;['hatch'];VOS;VOV
+hate;['hate'];VOS;VOV
+haul;['haul'];VOS;VOV
+haunt;['haunt'];VOS;VOV
+have;['have'];VOS;VOV
+hawk;['hawk'];VOS;VOV
+hazard;['hazard'];VOS;VOV
+haze;['haze'];VOS;VOV
+head;['head'];VOS;VOV
+headline;['headline'];VOS;VOV
+heal;['heal'];VOS;VOV
+heap;['heap'];VOS;VOV
+hear;['hear'];VOS;VOV
+hearten;['hearten'];VOS;VOV
+heat;['heat'];VOS;VOV
+heave;['heave'];VOS;VOV
+heckle;['heckle'];VOS;VOV
+hector;['hector'];VOS;VOV
+hedge;['hedge'];VOS;VOV
+heed;['heed'];VOS;VOV
+heighten;['heighten'];VOS;VOV
+help;['help'];VOS;VOV
+herald;['herald'];VOS;VOV
+herd;['herd'];VOS;VOV
+hesitate;['hesitate'];VOS;VOV
+hew;['hew'];VOS;VOV
+hibernate;['hibernate'];VOS;VOV
+hiccup;['hiccup'];VOS;VOV
+hide;['hide'];VOS;VOV
+highlight;['highlight'];VOS;VOV
+hijack;['hijack'];VOS;VOV
+hike;['hike'];VOS;VOV
+hinder;['hinder'];VOS;VOV
+hinge on;['hinge on'];VOS;VOV
+hint;['hint'];VOS;VOV
+hire;['hire'];VOS;VOV
+hiss;['hiss'];VOS;VOV
+hit;['hit'];VOS;VOV
+hitch;['hitch'];VOS;VOV
+hitch-hike;['hitch-hike'];VOS;VOV
+hive;['hive'];VOS;VOV
+hoard;['hoard'];VOS;VOV
+hoax;['hoax'];VOS;VOV
+hobble;['hobble'];VOS;VOV
+hobnob with;['hobnob with'];VOS;VOV
+hog;['hog'];VOS;VOV
+hoist;['hoist'];VOS;VOV
+hold;['hold'];VOS;VOV
+hole;['hole'];VOS;VOV
+holiday;['holiday'];VOS;VOV
+hollow out;['hollow out'];VOS;VOV
+home;['home'];VOS;VOV
+homogenise ;['homogenise '];VOS;VOV
+homogenize ;['homogenize '];VOS;VOV
+hone;['hone'];VOS;VOV
+honeymoon;['honeymoon'];VOS;VOV
+honour ;['honour '];VOS;VOV
+honor ;['honor '];VOS;VOV
+hoodwink;['hoodwink'];VOS;VOV
+hook;['hook'];VOS;VOV
+hoot;['hoot'];VOS;VOV
+hoover ;['hoover '];VOS;VOV
+hop;['hop'];VOS;VOV
+hope;['hope'];VOS;VOV
+horrify;['horrify'];VOS;VOV
+hose;['hose'];VOS;VOV
+hospitalise ;['hospitalise '];VOS;VOV
+hospitalize ;['hospitalize '];VOS;VOV
+hound;['hound'];VOS;VOV
+house;['house'];VOS;VOV
+hover;['hover'];VOS;VOV
+howl;['howl'];VOS;VOV
+huddle;['huddle'];VOS;VOV
+hug;['hug'];VOS;VOV
+hum;['hum'];VOS;VOV
+humanise ;['humanise '];VOS;VOV
+humanize ;['humanize '];VOS;VOV
+humble;['humble'];VOS;VOV
+humidify;['humidify'];VOS;VOV
+humiliate;['humiliate'];VOS;VOV
+humour ;['humour '];VOS;VOV
+humor ;['humor '];VOS;VOV
+hunt;['hunt'];VOS;VOV
+hurl;['hurl'];VOS;VOV
+hurry;['hurry'];VOS;VOV
+hurt;['hurt'];VOS;VOV
+hurtle;['hurtle'];VOS;VOV
+husband;['husband'];VOS;VOV
+hush;['hush'];VOS;VOV
+hustle;['hustle'];VOS;VOV
+hybridise ;['hybridise '];VOS;VOV
+hybridize ;['hybridize '];VOS;VOV
+hydrate;['hydrate'];VOS;VOV
+hype;['hype'];VOS;VOV
+hypnotise ;['hypnotise '];VOS;VOV
+hypnotize ;['hypnotize '];VOS;VOV
+hypothecate;['hypothecate'];VOS;VOV
+hypothesise ;['hypothesise '];VOS;VOV
+hypothesize ;['hypothesize '];VOS;VOV
+ice;['ice'];VOS;VOV
+ice-skate;['ice-skate'];VOS;VOV
+idealize ;['idealize '];VOS;VOV
+idealise ;['idealise '];VOS;VOV
+identify;['identify'];VOS;VOV
+idle;['idle'];VOS;VOV
+idolize M ;['idolize M '];VOS;VOV
+idolise ;['idolise '];VOS;VOV
+ignite;['ignite'];VOS;VOV
+ignore;['ignore'];VOS;VOV
+illuminate;['illuminate'];VOS;VOV
+illustrate;['illustrate'];VOS;VOV
+imagine;['imagine'];VOS;VOV
+imbibe;['imbibe'];VOS;VOV
+imitate;['imitate'];VOS;VOV
+immense;['immense'];VOS;VOV
+immigrate;['immigrate'];VOS;VOV
+immobilize ;['immobilize '];VOS;VOV
+immobilise ;['immobilise '];VOS;VOV
+immolate;['immolate'];VOS;VOV
+immortalize ;['immortalize '];VOS;VOV
+immortalise ;['immortalise '];VOS;VOV
+immunize ;['immunize '];VOS;VOV
+immunise ;['immunise '];VOS;VOV
+immure;['immure'];VOS;VOV
+impair;['impair'];VOS;VOV
+impale;['impale'];VOS;VOV
+impart;['impart'];VOS;VOV
+impeach;['impeach'];VOS;VOV
+impede;['impede'];VOS;VOV
+impel;['impel'];VOS;VOV
+imperil ;['imperil '];VOS;VOV
+imperil ;['imperil '];VOS;VOV
+impersonate;['impersonate'];VOS;VOV
+impinge on;['impinge on'];VOS;VOV
+implant;['implant'];VOS;VOV
+implement;['implement'];VOS;VOV
+impllicate;['impllicate'];VOS;VOV
+implode;['implode'];VOS;VOV
+implore;['implore'];VOS;VOV
+imply;['imply'];VOS;VOV
+import;['import'];VOS;VOV
+importune;['importune'];VOS;VOV
+impose;['impose'];VOS;VOV
+impoverish;['impoverish'];VOS;VOV
+impregnate;['impregnate'];VOS;VOV
+impress;['impress'];VOS;VOV
+imprint;['imprint'];VOS;VOV
+imprison;['imprison'];VOS;VOV
+improve;['improve'];VOS;VOV
+improvise;['improvise'];VOS;VOV
+impute;['impute'];VOS;VOV
+inaugurate;['inaugurate'];VOS;VOV
+incapacitate;['incapacitate'];VOS;VOV
+incarcerate;['incarcerate'];VOS;VOV
+incarnate;['incarnate'];VOS;VOV
+incense;['incense'];VOS;VOV
+inch;['inch'];VOS;VOV
+incinerate;['incinerate'];VOS;VOV
+incite;['incite'];VOS;VOV
+incline;['incline'];VOS;VOV
+include;['include'];VOS;VOV
+inconvenience;['inconvenience'];VOS;VOV
+incorporate;['incorporate'];VOS;VOV
+increase;['increase'];VOS;VOV
+increment;['increment'];VOS;VOV
+incubate;['incubate'];VOS;VOV
+inculcate;['inculcate'];VOS;VOV
+incur;['incur'];VOS;VOV
+indemnify;['indemnify'];VOS;VOV
+index;['index'];VOS;VOV
+indicate;['indicate'];VOS;VOV
+indict;['indict'];VOS;VOV
+individualize ;['individualize '];VOS;VOV
+individualise ;['individualise '];VOS;VOV
+indoctrinate;['indoctrinate'];VOS;VOV
+induce;['induce'];VOS;VOV
+indulge;['indulge'];VOS;VOV
+industrialize ;['industrialize '];VOS;VOV
+industrialise ;['industrialise '];VOS;VOV
+inebriate;['inebriate'];VOS;VOV
+infect;['infect'];VOS;VOV
+infer;['infer'];VOS;VOV
+infest;['infest'];VOS;VOV
+infiltrate;['infiltrate'];VOS;VOV
+inflame;['inflame'];VOS;VOV
+inflate;['inflate'];VOS;VOV
+inflect;['inflect'];VOS;VOV
+inflict;['inflict'];VOS;VOV
+influence;['influence'];VOS;VOV
+inform;['inform'];VOS;VOV
+infringe;['infringe'];VOS;VOV
+infuriate;['infuriate'];VOS;VOV
+infuse;['infuse'];VOS;VOV
+ingest;['ingest'];VOS;VOV
+ingratiate oneself with;['ingratiate oneself with'];VOS;VOV
+inhabit;['inhabit'];VOS;VOV
+inhale;['inhale'];VOS;VOV
+inherit;['inherit'];VOS;VOV
+inhibit;['inhibit'];VOS;VOV
+initial ;['initial '];VOS;VOV
+initial ;['initial '];VOS;VOV
+initialize ;['initialize '];VOS;VOV
+initialise ;['initialise '];VOS;VOV
+initiate;['initiate'];VOS;VOV
+inject;['inject'];VOS;VOV
+injure;['injure'];VOS;VOV
+ink;['ink'];VOS;VOV
+inlay;['inlay'];VOS;VOV
+innovate;['innovate'];VOS;VOV
+inoculate with;['inoculate with'];VOS;VOV
+input;['input'];VOS;VOV
+inquire;['inquire'];VOS;VOV
+inscribe;['inscribe'];VOS;VOV
+inseminate;['inseminate'];VOS;VOV
+insert;['insert'];VOS;VOV
+inset;['inset'];VOS;VOV
+insinuate;['insinuate'];VOS;VOV
+insist;['insist'];VOS;VOV
+inspect;['inspect'];VOS;VOV
+inspire;['inspire'];VOS;VOV
+install;['install'];VOS;VOV
+instigate;['instigate'];VOS;VOV
+instil;['instil'];VOS;VOV
+institute;['institute'];VOS;VOV
+institutionalize ;['institutionalize '];VOS;VOV
+institutionalise ;['institutionalise '];VOS;VOV
+instruct;['instruct'];VOS;VOV
+instrument;['instrument'];VOS;VOV
+insulate;['insulate'];VOS;VOV
+insult;['insult'];VOS;VOV
+insure;['insure'];VOS;VOV
+integrate;['integrate'];VOS;VOV
+intend;['intend'];VOS;VOV
+intensify;['intensify'];VOS;VOV
+inter;['inter'];VOS;VOV
+interact;['interact'];VOS;VOV
+interbreed;['interbreed'];VOS;VOV
+intercalate;['intercalate'];VOS;VOV
+intercede with;['intercede with'];VOS;VOV
+intercept;['intercept'];VOS;VOV
+interchange;['interchange'];VOS;VOV
+intercommunicate;['intercommunicate'];VOS;VOV
+interconnect;['interconnect'];VOS;VOV
+interest in;['interest in'];VOS;VOV
+interface;['interface'];VOS;VOV
+interfere;['interfere'];VOS;VOV
+interject;['interject'];VOS;VOV
+interlock;['interlock'];VOS;VOV
+intermediate;['intermediate'];VOS;VOV
+intermingle;['intermingle'];VOS;VOV
+intern;['intern'];VOS;VOV
+internalize ;['internalize '];VOS;VOV
+internalise ;['internalise '];VOS;VOV
+internationalize ;['internationalize '];VOS;VOV
+internationalise ;['internationalise '];VOS;VOV
+interpolate;['interpolate'];VOS;VOV
+interpose;['interpose'];VOS;VOV
+interpret;['interpret'];VOS;VOV
+interrogate;['interrogate'];VOS;VOV
+interrupt;['interrupt'];VOS;VOV
+intersect;['intersect'];VOS;VOV
+intersperse;['intersperse'];VOS;VOV
+intertwine;['intertwine'];VOS;VOV
+intervene;['intervene'];VOS;VOV
+interview;['interview'];VOS;VOV
+interweave;['interweave'];VOS;VOV
+intimate;['intimate'];VOS;VOV
+intimidate;['intimidate'];VOS;VOV
+intone;['intone'];VOS;VOV
+intoxicate;['intoxicate'];VOS;VOV
+intrigue;['intrigue'];VOS;VOV
+introduce;['introduce'];VOS;VOV
+intrude;['intrude'];VOS;VOV
+inundate;['inundate'];VOS;VOV
+inure;['inure'];VOS;VOV
+invade;['invade'];VOS;VOV
+invalidate;['invalidate'];VOS;VOV
+inveigh against;['inveigh against'];VOS;VOV
+inveigle;['inveigle'];VOS;VOV
+invent;['invent'];VOS;VOV
+invert;['invert'];VOS;VOV
+invest;['invest'];VOS;VOV
+investigate;['investigate'];VOS;VOV
+invigorate;['invigorate'];VOS;VOV
+invite;['invite'];VOS;VOV
+invoice;['invoice'];VOS;VOV
+invoke;['invoke'];VOS;VOV
+involve;['involve'];VOS;VOV
+irk;['irk'];VOS;VOV
+iron;['iron'];VOS;VOV
+irradiate;['irradiate'];VOS;VOV
+irrigate;['irrigate'];VOS;VOV
+irritate;['irritate'];VOS;VOV
+isolate;['isolate'];VOS;VOV
+issue;['issue'];VOS;VOV
+itch;['itch'];VOS;VOV
+itemize ;['itemize '];VOS;VOV
+itemise ;['itemise '];VOS;VOV
+iterate;['iterate'];VOS;VOV
+jab;['jab'];VOS;VOV
+jabber;['jabber'];VOS;VOV
+jam;['jam'];VOS;VOV
+jangle;['jangle'];VOS;VOV
+jar;['jar'];VOS;VOV
+jeer;['jeer'];VOS;VOV
+jell;['jell'];VOS;VOV
+jeopardize ;['jeopardize '];VOS;VOV
+jeopardise ;['jeopardise '];VOS;VOV
+jerk;['jerk'];VOS;VOV
+jest;['jest'];VOS;VOV
+jet;['jet'];VOS;VOV
+jettison;['jettison'];VOS;VOV
+jib;['jib'];VOS;VOV
+jibe;['jibe'];VOS;VOV
+jig;['jig'];VOS;VOV
+jiggle;['jiggle'];VOS;VOV
+jilt;['jilt'];VOS;VOV
+jingle;['jingle'];VOS;VOV
+jockey;['jockey'];VOS;VOV
+jog;['jog'];VOS;VOV
+joggle;['joggle'];VOS;VOV
+join;['join'];VOS;VOV
+joke;['joke'];VOS;VOV
+jolly;['jolly'];VOS;VOV
+jolt;['jolt'];VOS;VOV
+josh;['josh'];VOS;VOV
+jostle;['jostle'];VOS;VOV
+jot down;['jot down'];VOS;VOV
+journey;['journey'];VOS;VOV
+judge;['judge'];VOS;VOV
+juggle;['juggle'];VOS;VOV
+jumble up;['jumble up'];VOS;VOV
+jump;['jump'];VOS;VOV
+junk;['junk'];VOS;VOV
+justify;['justify'];VOS;VOV
+jut;['jut'];VOS;VOV
+juxtapose;['juxtapose'];VOS;VOV
+keel over;['keel over'];VOS;VOV
+keep;['keep'];VOS;VOV
+key in;['key in'];VOS;VOV
+keyboard;['keyboard'];VOS;VOV
+kick;['kick'];VOS;VOV
+kid;['kid'];VOS;VOV
+kidnap;['kidnap'];VOS;VOV
+kill;['kill'];VOS;VOV
+kindle;['kindle'];VOS;VOV
+kiss;['kiss'];VOS;VOV
+kit;['kit'];VOS;VOV
+knead;['knead'];VOS;VOV
+kneel ;['kneel '];VOS;VOV
+kneel ;['kneel '];VOS;VOV
+knife;['knife'];VOS;VOV
+knight;['knight'];VOS;VOV
+knit;['knit'];VOS;VOV
+knock;['knock'];VOS;VOV
+knot;['knot'];VOS;VOV
+know;['know'];VOS;VOV
+knuckle down to;['knuckle down to'];VOS;VOV
+kowtow to;['kowtow to'];VOS;VOV
+label ;['label '];VOS;VOV
+label ;['label '];VOS;VOV
+labour ;['labour '];VOS;VOV
+labor ;['labor '];VOS;VOV
+lace up;['lace up'];VOS;VOV
+lacerate;['lacerate'];VOS;VOV
+lack;['lack'];VOS;VOV
+lacquer;['lacquer'];VOS;VOV
+lactate;['lactate'];VOS;VOV
+lade;['lade'];VOS;VOV
+ladle out;['ladle out'];VOS;VOV
+lag;['lag'];VOS;VOV
+lam;['lam'];VOS;VOV
+lambast ;['lambast '];VOS;VOV
+lambaste ;['lambaste '];VOS;VOV
+lame;['lame'];VOS;VOV
+lament;['lament'];VOS;VOV
+laminate;['laminate'];VOS;VOV
+lampoon;['lampoon'];VOS;VOV
+land;['land'];VOS;VOV
+languish;['languish'];VOS;VOV
+lapse;['lapse'];VOS;VOV
+lard;['lard'];VOS;VOV
+lark;['lark'];VOS;VOV
+lash;['lash'];VOS;VOV
+last;['last'];VOS;VOV
+latch;['latch'];VOS;VOV
+laud;['laud'];VOS;VOV
+laugh;['laugh'];VOS;VOV
+launch;['launch'];VOS;VOV
+launder;['launder'];VOS;VOV
+lash;['lash'];VOS;VOV
+lay;['lay'];VOS;VOV
+layer;['layer'];VOS;VOV
+laze about;['laze about'];VOS;VOV
+lead;['lead'];VOS;VOV
+leaf through;['leaf through'];VOS;VOV
+league;['league'];VOS;VOV
+leak;['leak'];VOS;VOV
+lean ;['lean '];VOS;VOV
+lean ;['lean '];VOS;VOV
+leap ;['leap '];VOS;VOV
+leap ;['leap '];VOS;VOV
+learn ;['learn '];VOS;VOV
+learn ;['learn '];VOS;VOV
+lease;['lease'];VOS;VOV
+leash;['leash'];VOS;VOV
+leave;['leave'];VOS;VOV
+lecture;['lecture'];VOS;VOV
+leer at;['leer at'];VOS;VOV
+legalize ;['legalize '];VOS;VOV
+legalise ;['legalise '];VOS;VOV
+legislate;['legislate'];VOS;VOV
+legitimate;['legitimate'];VOS;VOV
+lend;['lend'];VOS;VOV
+lengthen;['lengthen'];VOS;VOV
+lessen;['lessen'];VOS;VOV
+let;['let'];VOS;VOV
+letter;['letter'];VOS;VOV
+level ;['level '];VOS;VOV
+level ;['level '];VOS;VOV
+lever;['lever'];VOS;VOV
+levitate;['levitate'];VOS;VOV
+levy;['levy'];VOS;VOV
+libel ;['libel '];VOS;VOV
+libel ;['libel '];VOS;VOV
+liberate;['liberate'];VOS;VOV
+license;['license'];VOS;VOV
+lick;['lick'];VOS;VOV
+lie ;['lie '];VOS;VOV
+lie ;['lie '];VOS;VOV
+lift;['lift'];VOS;VOV
+light;['light'];VOS;VOV
+lighten;['lighten'];VOS;VOV
+like;['like'];VOS;VOV
+liken;['liken'];VOS;VOV
+limber up;['limber up'];VOS;VOV
+limit;['limit'];VOS;VOV
+limp;['limp'];VOS;VOV
+line;['line'];VOS;VOV
+linger;['linger'];VOS;VOV
+link;['link'];VOS;VOV
+lionize ;['lionize '];VOS;VOV
+lionise ;['lionise '];VOS;VOV
+liquefy;['liquefy'];VOS;VOV
+liquidate;['liquidate'];VOS;VOV
+liquidize ;['liquidize '];VOS;VOV
+liquidise ;['liquidise '];VOS;VOV
+lisp;['lisp'];VOS;VOV
+list;['list'];VOS;VOV
+listen;['listen'];VOS;VOV
+litigate;['litigate'];VOS;VOV
+litter;['litter'];VOS;VOV
+live;['live'];VOS;VOV
+liven up;['liven up'];VOS;VOV
+load up;['load up'];VOS;VOV
+loaf about;['loaf about'];VOS;VOV
+loan;['loan'];VOS;VOV
+loathe;['loathe'];VOS;VOV
+lob;['lob'];VOS;VOV
+lobby;['lobby'];VOS;VOV
+localize ;['localize '];VOS;VOV
+localise ;['localise '];VOS;VOV
+locate;['locate'];VOS;VOV
+lock up;['lock up'];VOS;VOV
+lodge;['lodge'];VOS;VOV
+log;['log'];VOS;VOV
+loiter;['loiter'];VOS;VOV
+loll;['loll'];VOS;VOV
+long for;['long for'];VOS;VOV
+look;['look'];VOS;VOV
+loom up;['loom up'];VOS;VOV
+loop;['loop'];VOS;VOV
+loosen;['loosen'];VOS;VOV
+loot;['loot'];VOS;VOV
+lose;['lose'];VOS;VOV
+lounge;['lounge'];VOS;VOV
+love;['love'];VOS;VOV
+low;['low'];VOS;VOV
+lower;['lower'];VOS;VOV
+lubricate;['lubricate'];VOS;VOV
+lug;['lug'];VOS;VOV
+lull;['lull'];VOS;VOV
+lumber;['lumber'];VOS;VOV
+lump;['lump'];VOS;VOV
+lunch;['lunch'];VOS;VOV
+lurch;['lurch'];VOS;VOV
+lure;['lure'];VOS;VOV
+lurk;['lurk'];VOS;VOV
+lust after for;['lust after for'];VOS;VOV
+lynch;['lynch'];VOS;VOV
+macerate;['macerate'];VOS;VOV
+machine;['machine'];VOS;VOV
+madden;['madden'];VOS;VOV
+magnetize ;['magnetize '];VOS;VOV
+magnetise ;['magnetise '];VOS;VOV
+magnify;['magnify'];VOS;VOV
+mail;['mail'];VOS;VOV
+maim;['maim'];VOS;VOV
+maintain;['maintain'];VOS;VOV
+major;['major'];VOS;VOV
+make;['make'];VOS;VOV
+malign;['malign'];VOS;VOV
+malinger;['malinger'];VOS;VOV
+maltreat;['maltreat'];VOS;VOV
+man;['man'];VOS;VOV
+manacle;['manacle'];VOS;VOV
+manage;['manage'];VOS;VOV
+mangle;['mangle'];VOS;VOV
+manhandle;['manhandle'];VOS;VOV
+manicure;['manicure'];VOS;VOV
+manifest;['manifest'];VOS;VOV
+manipulate;['manipulate'];VOS;VOV
+maneuver ;['maneuver '];VOS;VOV
+manufacture;['manufacture'];VOS;VOV
+map;['map'];VOS;VOV
+mar;['mar'];VOS;VOV
+maraud;['maraud'];VOS;VOV
+march;['march'];VOS;VOV
+mark;['mark'];VOS;VOV
+market;['market'];VOS;VOV
+maroon;['maroon'];VOS;VOV
+marry;['marry'];VOS;VOV
+martyr;['martyr'];VOS;VOV
+martyrize ;['martyrize '];VOS;VOV
+martyrise ;['martyrise '];VOS;VOV
+marvel at ;['marvel at '];VOS;VOV
+marvel at ;['marvel at '];VOS;VOV
+mash;['mash'];VOS;VOV
+mask;['mask'];VOS;VOV
+masquerade as;['masquerade as'];VOS;VOV
+massacre;['massacre'];VOS;VOV
+massage;['massage'];VOS;VOV
+master;['master'];VOS;VOV
+mastermind;['mastermind'];VOS;VOV
+masturbate;['masturbate'];VOS;VOV
+mat;['mat'];VOS;VOV
+match;['match'];VOS;VOV
+mate;['mate'];VOS;VOV
+materialize ;['materialize '];VOS;VOV
+materialise ;['materialise '];VOS;VOV
+matriculate;['matriculate'];VOS;VOV
+matter;['matter'];VOS;VOV
+mature;['mature'];VOS;VOV
+maul;['maul'];VOS;VOV
+maunder;['maunder'];VOS;VOV
+maximize ;['maximize '];VOS;VOV
+maximise ;['maximise '];VOS;VOV
+may;['may'];VOS;VOV
+mean;['mean'];VOS;VOV
+measure;['measure'];VOS;VOV
+mechanize ;['mechanize '];VOS;VOV
+mechanise ;['mechanise '];VOS;VOV
+meddle in;['meddle in'];VOS;VOV
+meddle with;['meddle with'];VOS;VOV
+mediate;['mediate'];VOS;VOV
+medicate;['medicate'];VOS;VOV
+meditate;['meditate'];VOS;VOV
+meet;['meet'];VOS;VOV
+mellow;['mellow'];VOS;VOV
+melt;['melt'];VOS;VOV
+memorize ;['memorize '];VOS;VOV
+memorise ;['memorise '];VOS;VOV
+menace;['menace'];VOS;VOV
+mend;['mend'];VOS;VOV
+menstruate;['menstruate'];VOS;VOV
+mention;['mention'];VOS;VOV
+merchandise;['merchandise'];VOS;VOV
+merge;['merge'];VOS;VOV
+merit;['merit'];VOS;VOV
+mesh;['mesh'];VOS;VOV
+mesmerize ;['mesmerize '];VOS;VOV
+mesmerise ;['mesmerise '];VOS;VOV
+mess;['mess'];VOS;VOV
+metal ;['metal '];VOS;VOV
+metal ;['metal '];VOS;VOV
+metallize ;['metallize '];VOS;VOV
+metallise ;['metallise '];VOS;VOV
+metamorphose;['metamorphose'];VOS;VOV
+mew;['mew'];VOS;VOV
+miaow;['miaow'];VOS;VOV
+microfilm;['microfilm'];VOS;VOV
+migrate;['migrate'];VOS;VOV
+mildew;['mildew'];VOS;VOV
+militarize ;['militarize '];VOS;VOV
+militarise ;['militarise '];VOS;VOV
+militate;['militate'];VOS;VOV
+milk;['milk'];VOS;VOV
+mime;['mime'];VOS;VOV
+mimic;['mimic'];VOS;VOV
+mince;['mince'];VOS;VOV
+mind;['mind'];VOS;VOV
+mine;['mine'];VOS;VOV
+mingle;['mingle'];VOS;VOV
+miniaturize ;['miniaturize '];VOS;VOV
+miniaturise ;['miniaturise '];VOS;VOV
+minimize ;['minimize '];VOS;VOV
+c ;['c '];VOS;VOV
+minister to;['minister to'];VOS;VOV
+minor;['minor'];VOS;VOV
+mint;['mint'];VOS;VOV
+mirror;['mirror'];VOS;VOV
+misapply;['misapply'];VOS;VOV
+misapprehend;['misapprehend'];VOS;VOV
+misappropriate;['misappropriate'];VOS;VOV
+misbehave;['misbehave'];VOS;VOV
+miscalculate;['miscalculate'];VOS;VOV
+miscarry;['miscarry'];VOS;VOV
+miscast;['miscast'];VOS;VOV
+misconduct;['misconduct'];VOS;VOV
+miscount;['miscount'];VOS;VOV
+misdeal;['misdeal'];VOS;VOV
+misdirect;['misdirect'];VOS;VOV
+misfire;['misfire'];VOS;VOV
+misgovern;['misgovern'];VOS;VOV
+mishandle;['mishandle'];VOS;VOV
+mishear;['mishear'];VOS;VOV
+misinform;['misinform'];VOS;VOV
+misinterpret;['misinterpret'];VOS;VOV
+misjudge;['misjudge'];VOS;VOV
+mislay;['mislay'];VOS;VOV
+mislead;['mislead'];VOS;VOV
+mismanage;['mismanage'];VOS;VOV
+misplace;['misplace'];VOS;VOV
+mispronounce;['mispronounce'];VOS;VOV
+misquote;['misquote'];VOS;VOV
+misread;['misread'];VOS;VOV
+misrepresent;['misrepresent'];VOS;VOV
+miss;['miss'];VOS;VOV
+misspell;['misspell'];VOS;VOV
+misspend;['misspend'];VOS;VOV
+mist;['mist'];VOS;VOV
+mistake;['mistake'];VOS;VOV
+mistime;['mistime'];VOS;VOV
+mistranslate;['mistranslate'];VOS;VOV
+mistreat;['mistreat'];VOS;VOV
+mistrust;['mistrust'];VOS;VOV
+misunderstand;['misunderstand'];VOS;VOV
+misuse;['misuse'];VOS;VOV
+mitigate;['mitigate'];VOS;VOV
+mix;['mix'];VOS;VOV
+moan;['moan'];VOS;VOV
+mob;['mob'];VOS;VOV
+mobilize ;['mobilize '];VOS;VOV
+mobilise ;['mobilise '];VOS;VOV
+mock;['mock'];VOS;VOV
+model ;['model '];VOS;VOV
+model ;['model '];VOS;VOV
+moderate;['moderate'];VOS;VOV
+modernize ;['modernize '];VOS;VOV
+modernise ;['modernise '];VOS;VOV
+modify ie;['modify ie'];VOS;VOV
+modulate;['modulate'];VOS;VOV
+moisten;['moisten'];VOS;VOV
+moisturize ;['moisturize '];VOS;VOV
+moisturise ;['moisturise '];VOS;VOV
+molest;['molest'];VOS;VOV
+mollify;['mollify'];VOS;VOV
+mollycoddle;['mollycoddle'];VOS;VOV
+monitor;['monitor'];VOS;VOV
+monopolize ;['monopolize '];VOS;VOV
+monopolise ;['monopolise '];VOS;VOV
+moo;['moo'];VOS;VOV
+mooch es;['mooch es'];VOS;VOV
+moon;['moon'];VOS;VOV
+moonlight;['moonlight'];VOS;VOV
+moor;['moor'];VOS;VOV
+moot;['moot'];VOS;VOV
+mop;['mop'];VOS;VOV
+mope;['mope'];VOS;VOV
+moralize ;['moralize '];VOS;VOV
+moralise ;['moralise '];VOS;VOV
+mortgage;['mortgage'];VOS;VOV
+mortify;['mortify'];VOS;VOV
+mother;['mother'];VOS;VOV
+motion;['motion'];VOS;VOV
+motivate;['motivate'];VOS;VOV
+motor;['motor'];VOS;VOV
+motorize ;['motorize '];VOS;VOV
+motorise ;['motorise '];VOS;VOV
+mould ;['mould '];VOS;VOV
+mold ;['mold '];VOS;VOV
+moulder ;['moulder '];VOS;VOV
+molder ;['molder '];VOS;VOV
+mount;['mount'];VOS;VOV
+mountaineer;['mountaineer'];VOS;VOV
+mourn;['mourn'];VOS;VOV
+mouth;['mouth'];VOS;VOV
+move;['move'];VOS;VOV
+mow;['mow'];VOS;VOV
+muddle;['muddle'];VOS;VOV
+muddy;['muddy'];VOS;VOV
+muffle;['muffle'];VOS;VOV
+mug;['mug'];VOS;VOV
+multiply;['multiply'];VOS;VOV
+mumble;['mumble'];VOS;VOV
+mummify;['mummify'];VOS;VOV
+munch;['munch'];VOS;VOV
+murder;['murder'];VOS;VOV
+murmur;['murmur'];VOS;VOV
+muscle in;['muscle in'];VOS;VOV
+muse;['muse'];VOS;VOV
+mushroom;['mushroom'];VOS;VOV
+must;['must'];VOS;VOV
+muster;['muster'];VOS;VOV
+mutate;['mutate'];VOS;VOV
+mute;['mute'];VOS;VOV
+mutilate;['mutilate'];VOS;VOV
+mutiny;['mutiny'];VOS;VOV
+mutter;['mutter'];VOS;VOV
+muzzle;['muzzle'];VOS;VOV
+mystify;['mystify'];VOS;VOV
+nab;['nab'];VOS;VOV
+nag;['nag'];VOS;VOV
+nail;['nail'];VOS;VOV
+nap;['nap'];VOS;VOV
+nark;['nark'];VOS;VOV
+narrate;['narrate'];VOS;VOV
+narrow;['narrow'];VOS;VOV
+nationalize ;['nationalize '];VOS;VOV
+nationalise ;['nationalise '];VOS;VOV
+natter;['natter'];VOS;VOV
+c ;['c '];VOS;VOV
+naturalise ;['naturalise '];VOS;VOV
+nauseate;['nauseate'];VOS;VOV
+navigate;['navigate'];VOS;VOV
+near;['near'];VOS;VOV
+neaten;['neaten'];VOS;VOV
+necessitate;['necessitate'];VOS;VOV
+neck;['neck'];VOS;VOV
+need;['need'];VOS;VOV
+needle;['needle'];VOS;VOV
+negative;['negative'];VOS;VOV
+neglect;['neglect'];VOS;VOV
+negotiate;['negotiate'];VOS;VOV
+neigh;['neigh'];VOS;VOV
+nerve;['nerve'];VOS;VOV
+nest;['nest'];VOS;VOV
+nestle;['nestle'];VOS;VOV
+net;['net'];VOS;VOV
+nettle;['nettle'];VOS;VOV
+neuter;['neuter'];VOS;VOV
+neutralize ;['neutralize '];VOS;VOV
+neutralise ;['neutralise '];VOS;VOV
+nibble on;['nibble on'];VOS;VOV
+nibble at;['nibble at'];VOS;VOV
+nick;['nick'];VOS;VOV
+nickname;['nickname'];VOS;VOV
+niggle;['niggle'];VOS;VOV
+nip;['nip'];VOS;VOV
+nobble;['nobble'];VOS;VOV
+nod;['nod'];VOS;VOV
+nominate;['nominate'];VOS;VOV
+nonplus;['nonplus'];VOS;VOV
+normalize ;['normalize '];VOS;VOV
+normalise ;['normalise '];VOS;VOV
+nose;['nose'];VOS;VOV
+nosh;['nosh'];VOS;VOV
+notarize ;['notarize '];VOS;VOV
+notarise ;['notarise '];VOS;VOV
+notch;['notch'];VOS;VOV
+note;['note'];VOS;VOV
+notice;['notice'];VOS;VOV
+notify;['notify'];VOS;VOV
+nourish;['nourish'];VOS;VOV
+nudge;['nudge'];VOS;VOV
+nullify;['nullify'];VOS;VOV
+numb;['numb'];VOS;VOV
+number;['number'];VOS;VOV
+nurse;['nurse'];VOS;VOV
+nurture;['nurture'];VOS;VOV
+nuzzle up against;['nuzzle up against'];VOS;VOV
+obey;['obey'];VOS;VOV
+object;['object'];VOS;VOV
+oblige;['oblige'];VOS;VOV
+obliterate;['obliterate'];VOS;VOV
+obscure;['obscure'];VOS;VOV
+observe;['observe'];VOS;VOV
+obsess;['obsess'];VOS;VOV
+obstruct;['obstruct'];VOS;VOV
+obtain;['obtain'];VOS;VOV
+obtrude;['obtrude'];VOS;VOV
+obviate;['obviate'];VOS;VOV
+occasion;['occasion'];VOS;VOV
+occlude;['occlude'];VOS;VOV
+occupy;['occupy'];VOS;VOV
+occur;['occur'];VOS;VOV
+offend;['offend'];VOS;VOV
+offer;['offer'];VOS;VOV
+officiate;['officiate'];VOS;VOV
+offset;['offset'];VOS;VOV
+ogle at;['ogle at'];VOS;VOV
+oil;['oil'];VOS;VOV
+okay;['okay'];VOS;VOV
+omen;['omen'];VOS;VOV
+omit;['omit'];VOS;VOV
+ooze;['ooze'];VOS;VOV
+open;['open'];VOS;VOV
+operate;['operate'];VOS;VOV
+oppose;['oppose'];VOS;VOV
+oppress;['oppress'];VOS;VOV
+opt;['opt'];VOS;VOV
+orbit;['orbit'];VOS;VOV
+orchestrate;['orchestrate'];VOS;VOV
+ordain;['ordain'];VOS;VOV
+order;['order'];VOS;VOV
+organize ;['organize '];VOS;VOV
+organise ;['organise '];VOS;VOV
+orientate;['orientate'];VOS;VOV
+originate;['originate'];VOS;VOV
+ornament;['ornament'];VOS;VOV
+orphan;['orphan'];VOS;VOV
+oscillate;['oscillate'];VOS;VOV
+ossify;['ossify'];VOS;VOV
+ostracize ;['ostracize '];VOS;VOV
+ostracise ;['ostracise '];VOS;VOV
+ought to;['ought to'];VOS;VOV
+oust;['oust'];VOS;VOV
+out;['out'];VOS;VOV
+outbid;['outbid'];VOS;VOV
+outclass;['outclass'];VOS;VOV
+outdistance;['outdistance'];VOS;VOV
+outdo;['outdo'];VOS;VOV
+outfit;['outfit'];VOS;VOV
+outfox;['outfox'];VOS;VOV
+outgrow;['outgrow'];VOS;VOV
+outguess;['outguess'];VOS;VOV
+outlast;['outlast'];VOS;VOV
+outlaw;['outlaw'];VOS;VOV
+outline;['outline'];VOS;VOV
+outmaneuver ;['outmaneuver '];VOS;VOV
+outmatch;['outmatch'];VOS;VOV
+outnumber;['outnumber'];VOS;VOV
+outpace;['outpace'];VOS;VOV
+outplay;['outplay'];VOS;VOV
+output;['output'];VOS;VOV
+outrage;['outrage'];VOS;VOV
+outrank;['outrank'];VOS;VOV
+outrival ;['outrival '];VOS;VOV
+outrival ;['outrival '];VOS;VOV
+outrun;['outrun'];VOS;VOV
+outsell;['outsell'];VOS;VOV
+outshine;['outshine'];VOS;VOV
+outsmart;['outsmart'];VOS;VOV
+outstand;['outstand'];VOS;VOV
+outstay;['outstay'];VOS;VOV
+outstrip;['outstrip'];VOS;VOV
+outvote;['outvote'];VOS;VOV
+outwear;['outwear'];VOS;VOV
+outweigh;['outweigh'];VOS;VOV
+outwit;['outwit'];VOS;VOV
+overachieve;['overachieve'];VOS;VOV
+overact;['overact'];VOS;VOV
+overbalance;['overbalance'];VOS;VOV
+overbid;['overbid'];VOS;VOV
+overbook;['overbook'];VOS;VOV
+overburden;['overburden'];VOS;VOV
+overcharge;['overcharge'];VOS;VOV
+overcome;['overcome'];VOS;VOV
+overcrowd;['overcrowd'];VOS;VOV
+overdo;['overdo'];VOS;VOV
+overdraw;['overdraw'];VOS;VOV
+overeat;['overeat'];VOS;VOV
+overestimate;['overestimate'];VOS;VOV
+overexcite;['overexcite'];VOS;VOV
+overexert;['overexert'];VOS;VOV
+overfeed;['overfeed'];VOS;VOV
+overflow;['overflow'];VOS;VOV
+overfly;['overfly'];VOS;VOV
+overhang;['overhang'];VOS;VOV
+overhaul;['overhaul'];VOS;VOV
+overhear;['overhear'];VOS;VOV
+overheat;['overheat'];VOS;VOV
+overindulge;['overindulge'];VOS;VOV
+overlap;['overlap'];VOS;VOV
+overlay;['overlay'];VOS;VOV
+overlie;['overlie'];VOS;VOV
+overload;['overload'];VOS;VOV
+overlook;['overlook'];VOS;VOV
+overpay;['overpay'];VOS;VOV
+overpower;['overpower'];VOS;VOV
+overprice;['overprice'];VOS;VOV
+overproduce;['overproduce'];VOS;VOV
+overrate;['overrate'];VOS;VOV
+override;['override'];VOS;VOV
+overrule;['overrule'];VOS;VOV
+overrun;['overrun'];VOS;VOV
+oversee;['oversee'];VOS;VOV
+oversell;['oversell'];VOS;VOV
+overshadow;['overshadow'];VOS;VOV
+overshoot;['overshoot'];VOS;VOV
+oversleep;['oversleep'];VOS;VOV
+overspend;['overspend'];VOS;VOV
+overstate;['overstate'];VOS;VOV
+overstay;['overstay'];VOS;VOV
+oversteer;['oversteer'];VOS;VOV
+overstep;['overstep'];VOS;VOV
+overstock;['overstock'];VOS;VOV
+overtake;['overtake'];VOS;VOV
+overtax as;['overtax as'];VOS;VOV
+overthrow;['overthrow'];VOS;VOV
+overtop;['overtop'];VOS;VOV
+overturn;['overturn'];VOS;VOV
+overvalue;['overvalue'];VOS;VOV
+overwhelm;['overwhelm'];VOS;VOV
+overwork;['overwork'];VOS;VOV
+overwrite;['overwrite'];VOS;VOV
+owe to;['owe to'];VOS;VOV
+own;['own'];VOS;VOV
+oxidize ;['oxidize '];VOS;VOV
+oxidise ;['oxidise '];VOS;VOV
+oxygenate;['oxygenate'];VOS;VOV
+pace;['pace'];VOS;VOV
+pacify;['pacify'];VOS;VOV
+pack;['pack'];VOS;VOV
+package;['package'];VOS;VOV
+pad;['pad'];VOS;VOV
+paddle;['paddle'];VOS;VOV
+padlock;['padlock'];VOS;VOV
+page;['page'];VOS;VOV
+pain;['pain'];VOS;VOV
+paint;['paint'];VOS;VOV
+pair;['pair'];VOS;VOV
+pal up with;['pal up with'];VOS;VOV
+palaver;['palaver'];VOS;VOV
+pale;['pale'];VOS;VOV
+pall;['pall'];VOS;VOV
+palliate;['palliate'];VOS;VOV
+palpate;['palpate'];VOS;VOV
+palpitate;['palpitate'];VOS;VOV
+pamper;['pamper'];VOS;VOV
+pan;['pan'];VOS;VOV
+panel ;['panel '];VOS;VOV
+panel ;['panel '];VOS;VOV
+panhandle;['panhandle'];VOS;VOV
+panic;['panic'];VOS;VOV
+pant;['pant'];VOS;VOV
+paper;['paper'];VOS;VOV
+parachute;['parachute'];VOS;VOV
+parade;['parade'];VOS;VOV
+parallel;['parallel'];VOS;VOV
+paralyse ;['paralyse '];VOS;VOV
+paralyze ;['paralyze '];VOS;VOV
+paraphrase;['paraphrase'];VOS;VOV
+parcel ;['parcel '];VOS;VOV
+parcel ;['parcel '];VOS;VOV
+parch;['parch'];VOS;VOV
+pardon;['pardon'];VOS;VOV
+pare;['pare'];VOS;VOV
+park;['park'];VOS;VOV
+parley;['parley'];VOS;VOV
+parody;['parody'];VOS;VOV
+parole;['parole'];VOS;VOV
+parse gram;['parse gram'];VOS;VOV
+part;['part'];VOS;VOV
+partake in;['partake in'];VOS;VOV
+partake of;['partake of'];VOS;VOV
+participate in;['participate in'];VOS;VOV
+particularize ;['particularize '];VOS;VOV
+particularise ;['particularise '];VOS;VOV
+partition;['partition'];VOS;VOV
+partner;['partner'];VOS;VOV
+pass;['pass'];VOS;VOV
+paste;['paste'];VOS;VOV
+pasteurize ;['pasteurize '];VOS;VOV
+pasteurise ;['pasteurise '];VOS;VOV
+pasture;['pasture'];VOS;VOV
+pat;['pat'];VOS;VOV
+patch;['patch'];VOS;VOV
+patent;['patent'];VOS;VOV
+patrol;['patrol'];VOS;VOV
+patronize;['patronize'];VOS;VOV
+patter;['patter'];VOS;VOV
+pattern;['pattern'];VOS;VOV
+pause;['pause'];VOS;VOV
+pave;['pave'];VOS;VOV
+paw;['paw'];VOS;VOV
+pawn;['pawn'];VOS;VOV
+pay;['pay'];VOS;VOV
+peak;['peak'];VOS;VOV
+peal;['peal'];VOS;VOV
+pearl;['pearl'];VOS;VOV
+peck;['peck'];VOS;VOV
+peculate;['peculate'];VOS;VOV
+pedal ;['pedal '];VOS;VOV
+pedal ;['pedal '];VOS;VOV
+peddle;['peddle'];VOS;VOV
+pee;['pee'];VOS;VOV
+peek;['peek'];VOS;VOV
+peel;['peel'];VOS;VOV
+peep;['peep'];VOS;VOV
+peer;['peer'];VOS;VOV
+peeve;['peeve'];VOS;VOV
+pelt;['pelt'];VOS;VOV
+pen;['pen'];VOS;VOV
+penalize ;['penalize '];VOS;VOV
+penalise ;['penalise '];VOS;VOV
+pencil;['pencil'];VOS;VOV
+penetrate;['penetrate'];VOS;VOV
+pension;['pension'];VOS;VOV
+people;['people'];VOS;VOV
+pep up;['pep up'];VOS;VOV
+pepper;['pepper'];VOS;VOV
+perambulate;['perambulate'];VOS;VOV
+perceive;['perceive'];VOS;VOV
+perch;['perch'];VOS;VOV
+percolate;['percolate'];VOS;VOV
+perfect;['perfect'];VOS;VOV
+perforate;['perforate'];VOS;VOV
+perform;['perform'];VOS;VOV
+perfume;['perfume'];VOS;VOV
+perish;['perish'];VOS;VOV
+perjure;['perjure'];VOS;VOV
+perk;['perk'];VOS;VOV
+permeate;['permeate'];VOS;VOV
+permit;['permit'];VOS;VOV
+permute;['permute'];VOS;VOV
+perorate;['perorate'];VOS;VOV
+perpetrate;['perpetrate'];VOS;VOV
+perpetuate;['perpetuate'];VOS;VOV
+perplex;['perplex'];VOS;VOV
+persecute;['persecute'];VOS;VOV
+persevere;['persevere'];VOS;VOV
+persist;['persist'];VOS;VOV
+personalize ;['personalize '];VOS;VOV
+personalise ;['personalise '];VOS;VOV
+personify;['personify'];VOS;VOV
+perspire;['perspire'];VOS;VOV
+persuade;['persuade'];VOS;VOV
+pertain to;['pertain to'];VOS;VOV
+perturb;['perturb'];VOS;VOV
+peruse;['peruse'];VOS;VOV
+pervade;['pervade'];VOS;VOV
+pervert;['pervert'];VOS;VOV
+pester;['pester'];VOS;VOV
+pet;['pet'];VOS;VOV
+peter out;['peter out'];VOS;VOV
+petition;['petition'];VOS;VOV
+petrify;['petrify'];VOS;VOV
+phase;['phase'];VOS;VOV
+philander;['philander'];VOS;VOV
+philosophize ;['philosophize '];VOS;VOV
+philosophise ;['philosophise '];VOS;VOV
+phone;['phone'];VOS;VOV
+photograph;['photograph'];VOS;VOV
+phrase;['phrase'];VOS;VOV
+pick;['pick'];VOS;VOV
+picket;['picket'];VOS;VOV
+picnic;['picnic'];VOS;VOV
+picture;['picture'];VOS;VOV
+piddle;['piddle'];VOS;VOV
+piece;['piece'];VOS;VOV
+pierce;['pierce'];VOS;VOV
+pigment;['pigment'];VOS;VOV
+pile;['pile'];VOS;VOV
+pilfer;['pilfer'];VOS;VOV
+pillage;['pillage'];VOS;VOV
+pillory;['pillory'];VOS;VOV
+pilot;['pilot'];VOS;VOV
+pin;['pin'];VOS;VOV
+pinch;['pinch'];VOS;VOV
+pine;['pine'];VOS;VOV
+pinion;['pinion'];VOS;VOV
+pioneer;['pioneer'];VOS;VOV
+pipe;['pipe'];VOS;VOV
+pique;['pique'];VOS;VOV
+pirate;['pirate'];VOS;VOV
+pirouette;['pirouette'];VOS;VOV
+piss;['piss'];VOS;VOV
+pit;['pit'];VOS;VOV
+pitch;['pitch'];VOS;VOV
+pity;['pity'];VOS;VOV
+pivot;['pivot'];VOS;VOV
+placate;['placate'];VOS;VOV
+place;['place'];VOS;VOV
+plagiarize;['plagiarize'];VOS;VOV
+plague;['plague'];VOS;VOV
+plan;['plan'];VOS;VOV
+plane;['plane'];VOS;VOV
+plant;['plant'];VOS;VOV
+plaster;['plaster'];VOS;VOV
+plate;['plate'];VOS;VOV
+platitudinize ;['platitudinize '];VOS;VOV
+platitudinise ;['platitudinise '];VOS;VOV
+play;['play'];VOS;VOV
+plead ;['plead '];VOS;VOV
+plead ;['plead '];VOS;VOV
+please;['please'];VOS;VOV
+pledge;['pledge'];VOS;VOV
+plod;['plod'];VOS;VOV
+plonk;['plonk'];VOS;VOV
+plop;['plop'];VOS;VOV
+plot;['plot'];VOS;VOV
+plough ;['plough '];VOS;VOV
+plow ;['plow '];VOS;VOV
+pluck;['pluck'];VOS;VOV
+plug;['plug'];VOS;VOV
+plummet;['plummet'];VOS;VOV
+plump;['plump'];VOS;VOV
+plunder;['plunder'];VOS;VOV
+plunge;['plunge'];VOS;VOV
+plunk;['plunk'];VOS;VOV
+ply;['ply'];VOS;VOV
+poach;['poach'];VOS;VOV
+pocket;['pocket'];VOS;VOV
+point at;['point at'];VOS;VOV
+poise;['poise'];VOS;VOV
+poison;['poison'];VOS;VOV
+poke;['poke'];VOS;VOV
+polarize;['polarize'];VOS;VOV
+police;['police'];VOS;VOV
+polish;['polish'];VOS;VOV
+poll;['poll'];VOS;VOV
+pollinate;['pollinate'];VOS;VOV
+pollute;['pollute'];VOS;VOV
+pommel ;['pommel '];VOS;VOV
+pommel ;['pommel '];VOS;VOV
+ponder;['ponder'];VOS;VOV
+pong;['pong'];VOS;VOV
+pontificate;['pontificate'];VOS;VOV
+pooh-pooh;['pooh-pooh'];VOS;VOV
+pool;['pool'];VOS;VOV
+pop;['pop'];VOS;VOV
+popularize ;['popularize '];VOS;VOV
+popularise ;['popularise '];VOS;VOV
+populate;['populate'];VOS;VOV
+pore over;['pore over'];VOS;VOV
+portend;['portend'];VOS;VOV
+portion out;['portion out'];VOS;VOV
+portray;['portray'];VOS;VOV
+pose;['pose'];VOS;VOV
+position;['position'];VOS;VOV
+possess;['possess'];VOS;VOV
+post;['post'];VOS;VOV
+postdate;['postdate'];VOS;VOV
+postpone;['postpone'];VOS;VOV
+postulate;['postulate'];VOS;VOV
+posture;['posture'];VOS;VOV
+pot;['pot'];VOS;VOV
+potter ;['potter '];VOS;VOV
+putter about ;['putter about '];VOS;VOV
+pounce;['pounce'];VOS;VOV
+pound;['pound'];VOS;VOV
+pour;['pour'];VOS;VOV
+pout;['pout'];VOS;VOV
+pow-wow;['pow-wow'];VOS;VOV
+powder;['powder'];VOS;VOV
+power;['power'];VOS;VOV
+practise ;['practise '];VOS;VOV
+practice ;['practice '];VOS;VOV
+praise;['praise'];VOS;VOV
+prate;['prate'];VOS;VOV
+prattle;['prattle'];VOS;VOV
+pray;['pray'];VOS;VOV
+pre-empt;['pre-empt'];VOS;VOV
+preach;['preach'];VOS;VOV
+prearrange;['prearrange'];VOS;VOV
+precede;['precede'];VOS;VOV
+precipitate;['precipitate'];VOS;VOV
+preclude;['preclude'];VOS;VOV
+preconceive;['preconceive'];VOS;VOV
+precondition;['precondition'];VOS;VOV
+predate;['predate'];VOS;VOV
+predestine;['predestine'];VOS;VOV
+predetermine;['predetermine'];VOS;VOV
+predict;['predict'];VOS;VOV
+predispose;['predispose'];VOS;VOV
+predominate;['predominate'];VOS;VOV
+prefabricate;['prefabricate'];VOS;VOV
+preface;['preface'];VOS;VOV
+prefer;['prefer'];VOS;VOV
+prefigure;['prefigure'];VOS;VOV
+prefix;['prefix'];VOS;VOV
+preheat;['preheat'];VOS;VOV
+prejudge;['prejudge'];VOS;VOV
+prejudice against;['prejudice against'];VOS;VOV
+prelude;['prelude'];VOS;VOV
+premeditate;['premeditate'];VOS;VOV
+premise;['premise'];VOS;VOV
+preoccupy;['preoccupy'];VOS;VOV
+preordain;['preordain'];VOS;VOV
+prepack;['prepack'];VOS;VOV
+prepare;['prepare'];VOS;VOV
+prepay;['prepay'];VOS;VOV
+preponderate over;['preponderate over'];VOS;VOV
+prepossess;['prepossess'];VOS;VOV
+prerecord;['prerecord'];VOS;VOV
+presage;['presage'];VOS;VOV
+prescribe;['prescribe'];VOS;VOV
+present;['present'];VOS;VOV
+preserve;['preserve'];VOS;VOV
+preside;['preside'];VOS;VOV
+press;['press'];VOS;VOV
+pressure;['pressure'];VOS;VOV
+pressurize;['pressurize'];VOS;VOV
+presume;['presume'];VOS;VOV
+presuppose;['presuppose'];VOS;VOV
+pretend;['pretend'];VOS;VOV
+prettify;['prettify'];VOS;VOV
+prevail;['prevail'];VOS;VOV
+prevaricate;['prevaricate'];VOS;VOV
+prevent from;['prevent from'];VOS;VOV
+prey on;['prey on'];VOS;VOV
+price;['price'];VOS;VOV
+prick;['prick'];VOS;VOV
+prickle;['prickle'];VOS;VOV
+pride of;['pride of'];VOS;VOV
+primp;['primp'];VOS;VOV
+print;['print'];VOS;VOV
+privilege;['privilege'];VOS;VOV
+prize;['prize'];VOS;VOV
+probe;['probe'];VOS;VOV
+proceed;['proceed'];VOS;VOV
+process;['process'];VOS;VOV
+proclaim;['proclaim'];VOS;VOV
+procrastinate;['procrastinate'];VOS;VOV
+procreate;['procreate'];VOS;VOV
+procure;['procure'];VOS;VOV
+prod;['prod'];VOS;VOV
+produce;['produce'];VOS;VOV
+profane;['profane'];VOS;VOV
+profess;['profess'];VOS;VOV
+proffer;['proffer'];VOS;VOV
+profile;['profile'];VOS;VOV
+profit;['profit'];VOS;VOV
+profiteer;['profiteer'];VOS;VOV
+prognosticate;['prognosticate'];VOS;VOV
+program ;['program '];VOS;VOV
+program ;['program '];VOS;VOV
+progress;['progress'];VOS;VOV
+prohibit;['prohibit'];VOS;VOV
+project;['project'];VOS;VOV
+proletarianise ;['proletarianise '];VOS;VOV
+proletarianize ;['proletarianize '];VOS;VOV
+proliferate;['proliferate'];VOS;VOV
+prolong;['prolong'];VOS;VOV
+promise;['promise'];VOS;VOV
+promote;['promote'];VOS;VOV
+prompt;['prompt'];VOS;VOV
+promulgate;['promulgate'];VOS;VOV
+pronounce;['pronounce'];VOS;VOV
+proof;['proof'];VOS;VOV
+prop;['prop'];VOS;VOV
+propagate;['propagate'];VOS;VOV
+propel;['propel'];VOS;VOV
+prophesy;['prophesy'];VOS;VOV
+propitiate;['propitiate'];VOS;VOV
+proportion;['proportion'];VOS;VOV
+propose;['propose'];VOS;VOV
+proposition;['proposition'];VOS;VOV
+propound;['propound'];VOS;VOV
+prorogue;['prorogue'];VOS;VOV
+proscribe;['proscribe'];VOS;VOV
+prosecute;['prosecute'];VOS;VOV
+proselytize;['proselytize'];VOS;VOV
+prospect;['prospect'];VOS;VOV
+prosper;['prosper'];VOS;VOV
+prostitute;['prostitute'];VOS;VOV
+prostrate;['prostrate'];VOS;VOV
+protect;['protect'];VOS;VOV
+protest;['protest'];VOS;VOV
+protract;['protract'];VOS;VOV
+protrude;['protrude'];VOS;VOV
+prove;['prove'];VOS;VOV
+provide;['provide'];VOS;VOV
+provision;['provision'];VOS;VOV
+provoke;['provoke'];VOS;VOV
+prowl;['prowl'];VOS;VOV
+prune;['prune'];VOS;VOV
+pry;['pry'];VOS;VOV
+psalmodize ;['psalmodize '];VOS;VOV
+psalmodise ;['psalmodise '];VOS;VOV
+psychoanalize ;['psychoanalize '];VOS;VOV
+psychoanalise ;['psychoanalise '];VOS;VOV
+publicize ;['publicize '];VOS;VOV
+publicise ;['publicise '];VOS;VOV
+publish;['publish'];VOS;VOV
+puff;['puff'];VOS;VOV
+puke;['puke'];VOS;VOV
+pull;['pull'];VOS;VOV
+pullulate;['pullulate'];VOS;VOV
+pulsate;['pulsate'];VOS;VOV
+pulse;['pulse'];VOS;VOV
+pulverize ;['pulverize '];VOS;VOV
+pulverise ;['pulverise '];VOS;VOV
+pummel ;['pummel '];VOS;VOV
+pummel ;['pummel '];VOS;VOV
+pump;['pump'];VOS;VOV
+pun;['pun'];VOS;VOV
+punch;['punch'];VOS;VOV
+punctuate;['punctuate'];VOS;VOV
+puncture;['puncture'];VOS;VOV
+punish;['punish'];VOS;VOV
+purchase;['purchase'];VOS;VOV
+purge;['purge'];VOS;VOV
+purify;['purify'];VOS;VOV
+purloin;['purloin'];VOS;VOV
+purport;['purport'];VOS;VOV
+purr;['purr'];VOS;VOV
+pursue;['pursue'];VOS;VOV
+purvey;['purvey'];VOS;VOV
+push;['push'];VOS;VOV
+put;['put'];VOS;VOV
+putrefy;['putrefy'];VOS;VOV
+putt;['putt'];VOS;VOV
+puzzle;['puzzle'];VOS;VOV
+quack;['quack'];VOS;VOV
+quadrate;['quadrate'];VOS;VOV
+quadruple;['quadruple'];VOS;VOV
+quake;['quake'];VOS;VOV
+qualify;['qualify'];VOS;VOV
+quarantine;['quarantine'];VOS;VOV
+quarrel ;['quarrel '];VOS;VOV
+quarrel ;['quarrel '];VOS;VOV
+quash;['quash'];VOS;VOV
+quaver;['quaver'];VOS;VOV
+quell;['quell'];VOS;VOV
+quench;['quench'];VOS;VOV
+query;['query'];VOS;VOV
+question;['question'];VOS;VOV
+queue;['queue'];VOS;VOV
+quibble;['quibble'];VOS;VOV
+quicken;['quicken'];VOS;VOV
+quieten;['quieten'];VOS;VOV
+quintuple;['quintuple'];VOS;VOV
+quip;['quip'];VOS;VOV
+quit;['quit'];VOS;VOV
+quiver;['quiver'];VOS;VOV
+quiz;['quiz'];VOS;VOV
+quote;['quote'];VOS;VOV
+race;['race'];VOS;VOV
+rack;['rack'];VOS;VOV
+radiate;['radiate'];VOS;VOV
+radio;['radio'];VOS;VOV
+raffle;['raffle'];VOS;VOV
+rag;['rag'];VOS;VOV
+rage;['rage'];VOS;VOV
+raid;['raid'];VOS;VOV
+rail against at;['rail against at'];VOS;VOV
+railroad;['railroad'];VOS;VOV
+rain imp;['rain imp'];VOS;VOV
+rainproof;['rainproof'];VOS;VOV
+raise;['raise'];VOS;VOV
+rake;['rake'];VOS;VOV
+rally;['rally'];VOS;VOV
+ram;['ram'];VOS;VOV
+ramble;['ramble'];VOS;VOV
+ramify;['ramify'];VOS;VOV
+rampage;['rampage'];VOS;VOV
+ranch;['ranch'];VOS;VOV
+range;['range'];VOS;VOV
+rank;['rank'];VOS;VOV
+rankle;['rankle'];VOS;VOV
+ransack;['ransack'];VOS;VOV
+ransom;['ransom'];VOS;VOV
+rant;['rant'];VOS;VOV
+rap;['rap'];VOS;VOV
+rape;['rape'];VOS;VOV
+rarefy;['rarefy'];VOS;VOV
+rasp;['rasp'];VOS;VOV
+rat;['rat'];VOS;VOV
+rate;['rate'];VOS;VOV
+ratify;['ratify'];VOS;VOV
+ration;['ration'];VOS;VOV
+rationalize ;['rationalize '];VOS;VOV
+rationalise ;['rationalise '];VOS;VOV
+rattle;['rattle'];VOS;VOV
+ravage;['ravage'];VOS;VOV
+rave;['rave'];VOS;VOV
+ravish;['ravish'];VOS;VOV
+raze ;['raze '];VOS;VOV
+rase ;['rase '];VOS;VOV
+razz;['razz'];VOS;VOV
+reach;['reach'];VOS;VOV
+react;['react'];VOS;VOV
+read;['read'];VOS;VOV
+readjust;['readjust'];VOS;VOV
+ready;['ready'];VOS;VOV
+realize ;['realize '];VOS;VOV
+realise ;['realise '];VOS;VOV
+reanimate;['reanimate'];VOS;VOV
+reap;['reap'];VOS;VOV
+reappear;['reappear'];VOS;VOV
+reapply;['reapply'];VOS;VOV
+reappoint;['reappoint'];VOS;VOV
+rear;['rear'];VOS;VOV
+rearm;['rearm'];VOS;VOV
+rearrange;['rearrange'];VOS;VOV
+reason;['reason'];VOS;VOV
+reassemble;['reassemble'];VOS;VOV
+reassert;['reassert'];VOS;VOV
+reassess;['reassess'];VOS;VOV
+reassign;['reassign'];VOS;VOV
+reassume;['reassume'];VOS;VOV
+reassure;['reassure'];VOS;VOV
+reawaken;['reawaken'];VOS;VOV
+rebel;['rebel'];VOS;VOV
+reboot;['reboot'];VOS;VOV
+rebound;['rebound'];VOS;VOV
+rebuff;['rebuff'];VOS;VOV
+rebuild;['rebuild'];VOS;VOV
+rebuke;['rebuke'];VOS;VOV
+recall;['recall'];VOS;VOV
+recant;['recant'];VOS;VOV
+recap;['recap'];VOS;VOV
+recapitulate;['recapitulate'];VOS;VOV
+recapture;['recapture'];VOS;VOV
+recast;['recast'];VOS;VOV
+recede;['recede'];VOS;VOV
+receipt;['receipt'];VOS;VOV
+receive;['receive'];VOS;VOV
+recess;['recess'];VOS;VOV
+recharge;['recharge'];VOS;VOV
+reciprocate;['reciprocate'];VOS;VOV
+recite;['recite'];VOS;VOV
+reckon;['reckon'];VOS;VOV
+reclaim;['reclaim'];VOS;VOV
+recline;['recline'];VOS;VOV
+recognize;['recognize'];VOS;VOV
+recoil;['recoil'];VOS;VOV
+recollect;['recollect'];VOS;VOV
+recommend;['recommend'];VOS;VOV
+recompense;['recompense'];VOS;VOV
+reconcile;['reconcile'];VOS;VOV
+recondition;['recondition'];VOS;VOV
+reconsider;['reconsider'];VOS;VOV
+reconstitute;['reconstitute'];VOS;VOV
+reconstruct;['reconstruct'];VOS;VOV
+record;['record'];VOS;VOV
+recount;['recount'];VOS;VOV
+recoup;['recoup'];VOS;VOV
+recover;['recover'];VOS;VOV
+recreate;['recreate'];VOS;VOV
+recruit;['recruit'];VOS;VOV
+rectify;['rectify'];VOS;VOV
+recuperate;['recuperate'];VOS;VOV
+recur;['recur'];VOS;VOV
+redden;['redden'];VOS;VOV
+redeem;['redeem'];VOS;VOV
+redo;['redo'];VOS;VOV
+redraft;['redraft'];VOS;VOV
+redress;['redress'];VOS;VOV
+reduce;['reduce'];VOS;VOV
+reek;['reek'];VOS;VOV
+reel;['reel'];VOS;VOV
+refer;['refer'];VOS;VOV
+referee;['referee'];VOS;VOV
+refill;['refill'];VOS;VOV
+refine;['refine'];VOS;VOV
+refit;['refit'];VOS;VOV
+reflate;['reflate'];VOS;VOV
+reflect;['reflect'];VOS;VOV
+refloat;['refloat'];VOS;VOV
+reforest;['reforest'];VOS;VOV
+reform;['reform'];VOS;VOV
+refract;['refract'];VOS;VOV
+refrain;['refrain'];VOS;VOV
+refresh;['refresh'];VOS;VOV
+refurbish;['refurbish'];VOS;VOV
+regain;['regain'];VOS;VOV
+regale;['regale'];VOS;VOV
+regard;['regard'];VOS;VOV
+regenerate;['regenerate'];VOS;VOV
+regiment;['regiment'];VOS;VOV
+register;['register'];VOS;VOV
+regrade;['regrade'];VOS;VOV
+regress;['regress'];VOS;VOV
+regret;['regret'];VOS;VOV
+regroup;['regroup'];VOS;VOV
+regularize ;['regularize '];VOS;VOV
+regularise ;['regularise '];VOS;VOV
+regulate;['regulate'];VOS;VOV
+rehash;['rehash'];VOS;VOV
+rehear;['rehear'];VOS;VOV
+rehearse;['rehearse'];VOS;VOV
+reign;['reign'];VOS;VOV
+reinstate;['reinstate'];VOS;VOV
+reject;['reject'];VOS;VOV
+rejoice at in;['rejoice at in'];VOS;VOV
+rejoin;['rejoin'];VOS;VOV
+rejuvenate;['rejuvenate'];VOS;VOV
+rekindle;['rekindle'];VOS;VOV
+relapse;['relapse'];VOS;VOV
+relate;['relate'];VOS;VOV
+relax;['relax'];VOS;VOV
+relay;['relay'];VOS;VOV
+release;['release'];VOS;VOV
+relegate;['relegate'];VOS;VOV
+relent;['relent'];VOS;VOV
+relieve;['relieve'];VOS;VOV
+relinquish;['relinquish'];VOS;VOV
+relish;['relish'];VOS;VOV
+relocate;['relocate'];VOS;VOV
+rely on;['rely on'];VOS;VOV
+remain;['remain'];VOS;VOV
+remake;['remake'];VOS;VOV
+remark;['remark'];VOS;VOV
+remedy;['remedy'];VOS;VOV
+remember;['remember'];VOS;VOV
+remind of;['remind of'];VOS;VOV
+reminisce;['reminisce'];VOS;VOV
+remit;['remit'];VOS;VOV
+remodel ;['remodel '];VOS;VOV
+remodel ;['remodel '];VOS;VOV
+remonstrate;['remonstrate'];VOS;VOV
+remove;['remove'];VOS;VOV
+remunerate;['remunerate'];VOS;VOV
+rename;['rename'];VOS;VOV
+rend;['rend'];VOS;VOV
+render;['render'];VOS;VOV
+rendezvous;['rendezvous'];VOS;VOV
+renege on;['renege on'];VOS;VOV
+renew;['renew'];VOS;VOV
+renounce;['renounce'];VOS;VOV
+renovate;['renovate'];VOS;VOV
+rent;['rent'];VOS;VOV
+repair;['repair'];VOS;VOV
+repaper;['repaper'];VOS;VOV
+repatriate;['repatriate'];VOS;VOV
+repay;['repay'];VOS;VOV
+repeal;['repeal'];VOS;VOV
+repeat;['repeat'];VOS;VOV
+repel ;['repel '];VOS;VOV
+repel ;['repel '];VOS;VOV
+repent;['repent'];VOS;VOV
+replace;['replace'];VOS;VOV
+replenish;['replenish'];VOS;VOV
+replicate;['replicate'];VOS;VOV
+reply;['reply'];VOS;VOV
+report;['report'];VOS;VOV
+repose;['repose'];VOS;VOV
+represent;['represent'];VOS;VOV
+repress;['repress'];VOS;VOV
+reprieve;['reprieve'];VOS;VOV
+reprimand;['reprimand'];VOS;VOV
+reproach for;['reproach for'];VOS;VOV
+reproach with;['reproach with'];VOS;VOV
+reproduce;['reproduce'];VOS;VOV
+reprove;['reprove'];VOS;VOV
+repudiate;['repudiate'];VOS;VOV
+repulse;['repulse'];VOS;VOV
+request;['request'];VOS;VOV
+require;['require'];VOS;VOV
+requisition;['requisition'];VOS;VOV
+reread;['reread'];VOS;VOV
+rerun;['rerun'];VOS;VOV
+rescind;['rescind'];VOS;VOV
+rescue;['rescue'];VOS;VOV
+research;['research'];VOS;VOV
+resell;['resell'];VOS;VOV
+resemble;['resemble'];VOS;VOV
+resent;['resent'];VOS;VOV
+reserve;['reserve'];VOS;VOV
+reset;['reset'];VOS;VOV
+reshuffle;['reshuffle'];VOS;VOV
+reside;['reside'];VOS;VOV
+resign;['resign'];VOS;VOV
+resist;['resist'];VOS;VOV
+resit;['resit'];VOS;VOV
+resolve;['resolve'];VOS;VOV
+resort to;['resort to'];VOS;VOV
+resound;['resound'];VOS;VOV
+respect;['respect'];VOS;VOV
+respond to;['respond to'];VOS;VOV
+rest;['rest'];VOS;VOV
+restore;['restore'];VOS;VOV
+restrain;['restrain'];VOS;VOV
+restrict;['restrict'];VOS;VOV
+result;['result'];VOS;VOV
+resume;['resume'];VOS;VOV
+resurrect;['resurrect'];VOS;VOV
+resuscitate;['resuscitate'];VOS;VOV
+retail;['retail'];VOS;VOV
+retain;['retain'];VOS;VOV
+retake;['retake'];VOS;VOV
+retaliate;['retaliate'];VOS;VOV
+retard;['retard'];VOS;VOV
+retch;['retch'];VOS;VOV
+retell;['retell'];VOS;VOV
+retire;['retire'];VOS;VOV
+retort;['retort'];VOS;VOV
+retouch;['retouch'];VOS;VOV
+retrace;['retrace'];VOS;VOV
+retract;['retract'];VOS;VOV
+retrain;['retrain'];VOS;VOV
+retreat;['retreat'];VOS;VOV
+retrench;['retrench'];VOS;VOV
+retrieve;['retrieve'];VOS;VOV
+retrogress;['retrogress'];VOS;VOV
+return;['return'];VOS;VOV
+reunite;['reunite'];VOS;VOV
+rev;['rev'];VOS;VOV
+revalue;['revalue'];VOS;VOV
+reveal;['reveal'];VOS;VOV
+revel ;['revel '];VOS;VOV
+revel ;['revel '];VOS;VOV
+revenge;['revenge'];VOS;VOV
+revere;['revere'];VOS;VOV
+reverse;['reverse'];VOS;VOV
+revert to;['revert to'];VOS;VOV
+review;['review'];VOS;VOV
+revile;['revile'];VOS;VOV
+revise;['revise'];VOS;VOV
+revitalize;['revitalize'];VOS;VOV
+revive;['revive'];VOS;VOV
+revoke;['revoke'];VOS;VOV
+revolt;['revolt'];VOS;VOV
+revolutionize;['revolutionize'];VOS;VOV
+revolve;['revolve'];VOS;VOV
+reward;['reward'];VOS;VOV
+rewind;['rewind'];VOS;VOV
+reword;['reword'];VOS;VOV
+rewrite;['rewrite'];VOS;VOV
+rhapsodize over ;['rhapsodize over '];VOS;VOV
+rhapsodise over ;['rhapsodise over '];VOS;VOV
+rhyme;['rhyme'];VOS;VOV
+rib;['rib'];VOS;VOV
+rick;['rick'];VOS;VOV
+ricochet;['ricochet'];VOS;VOV
+rid;['rid'];VOS;VOV
+ride;['ride'];VOS;VOV
+ridicule;['ridicule'];VOS;VOV
+riffle;['riffle'];VOS;VOV
+rifle;['rifle'];VOS;VOV
+rig;['rig'];VOS;VOV
+right;['right'];VOS;VOV
+rile;['rile'];VOS;VOV
+ring ;['ring '];VOS;VOV
+ring ;['ring '];VOS;VOV
+rinse;['rinse'];VOS;VOV
+riot;['riot'];VOS;VOV
+rip;['rip'];VOS;VOV
+ripen;['ripen'];VOS;VOV
+ripple;['ripple'];VOS;VOV
+rise;['rise'];VOS;VOV
+risk;['risk'];VOS;VOV
+rival;['rival'];VOS;VOV
+rive;['rive'];VOS;VOV
+roam;['roam'];VOS;VOV
+roar;['roar'];VOS;VOV
+roast;['roast'];VOS;VOV
+rob;['rob'];VOS;VOV
+rock;['rock'];VOS;VOV
+rocket;['rocket'];VOS;VOV
+roll;['roll'];VOS;VOV
+rollick;['rollick'];VOS;VOV
+romanticize ;['romanticize '];VOS;VOV
+romanticise ;['romanticise '];VOS;VOV
+romp;['romp'];VOS;VOV
+roof;['roof'];VOS;VOV
+rook;['rook'];VOS;VOV
+roost;['roost'];VOS;VOV
+root;['root'];VOS;VOV
+rot;['rot'];VOS;VOV
+rotate;['rotate'];VOS;VOV
+rouge;['rouge'];VOS;VOV
+round;['round'];VOS;VOV
+rouse;['rouse'];VOS;VOV
+rout;['rout'];VOS;VOV
+route;['route'];VOS;VOV
+rove;['rove'];VOS;VOV
+row;['row'];VOS;VOV
+rub;['rub'];VOS;VOV
+ruck;['ruck'];VOS;VOV
+ruffle;['ruffle'];VOS;VOV
+ruin;['ruin'];VOS;VOV
+rule;['rule'];VOS;VOV
+rumble;['rumble'];VOS;VOV
+ruminate;['ruminate'];VOS;VOV
+rummage about in;['rummage about in'];VOS;VOV
+rumple;['rumple'];VOS;VOV
+run;['run'];VOS;VOV
+rupture;['rupture'];VOS;VOV
+rush;['rush'];VOS;VOV
+rust;['rust'];VOS;VOV
+rusticate;['rusticate'];VOS;VOV
+rustle;['rustle'];VOS;VOV
+sabotage;['sabotage'];VOS;VOV
+sack;['sack'];VOS;VOV
+sacrifice;['sacrifice'];VOS;VOV
+sadden;['sadden'];VOS;VOV
+saddle;['saddle'];VOS;VOV
+safeguard;['safeguard'];VOS;VOV
+sag;['sag'];VOS;VOV
+sail;['sail'];VOS;VOV
+salivate;['salivate'];VOS;VOV
+salt;['salt'];VOS;VOV
+salute;['salute'];VOS;VOV
+salvage;['salvage'];VOS;VOV
+salve;['salve'];VOS;VOV
+sample;['sample'];VOS;VOV
+sanctify;['sanctify'];VOS;VOV
+sanction;['sanction'];VOS;VOV
+sand;['sand'];VOS;VOV
+sandbag;['sandbag'];VOS;VOV
+sandwich;['sandwich'];VOS;VOV
+sanitize ;['sanitize '];VOS;VOV
+sanitise ;['sanitise '];VOS;VOV
+sate;['sate'];VOS;VOV
+satiate;['satiate'];VOS;VOV
+satirize ;['satirize '];VOS;VOV
+satirise ;['satirise '];VOS;VOV
+satisfy;['satisfy'];VOS;VOV
+saturate;['saturate'];VOS;VOV
+saunter;['saunter'];VOS;VOV
+save;['save'];VOS;VOV
+savour ;['savour '];VOS;VOV
+savor ;['savor '];VOS;VOV
+savvy;['savvy'];VOS;VOV
+saw;['saw'];VOS;VOV
+say;['say'];VOS;VOV
+scald;['scald'];VOS;VOV
+scale;['scale'];VOS;VOV
+scamp;['scamp'];VOS;VOV
+scamper;['scamper'];VOS;VOV
+scan;['scan'];VOS;VOV
+scandalize ;['scandalize '];VOS;VOV
+scandalise ;['scandalise '];VOS;VOV
+scar;['scar'];VOS;VOV
+scare;['scare'];VOS;VOV
+scarper inf;['scarper inf'];VOS;VOV
+scatter;['scatter'];VOS;VOV
+scavenge;['scavenge'];VOS;VOV
+scent;['scent'];VOS;VOV
+schedule;['schedule'];VOS;VOV
+scheme;['scheme'];VOS;VOV
+school;['school'];VOS;VOV
+scintillate;['scintillate'];VOS;VOV
+scoff at;['scoff at'];VOS;VOV
+scold;['scold'];VOS;VOV
+scoop;['scoop'];VOS;VOV
+scoot away;['scoot away'];VOS;VOV
+scorch;['scorch'];VOS;VOV
+score;['score'];VOS;VOV
+scorn;['scorn'];VOS;VOV
+scotch;['scotch'];VOS;VOV
+scour;['scour'];VOS;VOV
+scourge;['scourge'];VOS;VOV
+scout;['scout'];VOS;VOV
+scowl;['scowl'];VOS;VOV
+scrabble;['scrabble'];VOS;VOV
+scram;['scram'];VOS;VOV
+scramble;['scramble'];VOS;VOV
+scrap;['scrap'];VOS;VOV
+scrape;['scrape'];VOS;VOV
+scratch;['scratch'];VOS;VOV
+scrawl;['scrawl'];VOS;VOV
+scream;['scream'];VOS;VOV
+screech;['screech'];VOS;VOV
+screen;['screen'];VOS;VOV
+screw;['screw'];VOS;VOV
+scribble;['scribble'];VOS;VOV
+scroll;['scroll'];VOS;VOV
+scrounge;['scrounge'];VOS;VOV
+scrub;['scrub'];VOS;VOV
+scrunch;['scrunch'];VOS;VOV
+scrutinize ;['scrutinize '];VOS;VOV
+scrutinise ;['scrutinise '];VOS;VOV
+scud;['scud'];VOS;VOV
+scuffle;['scuffle'];VOS;VOV
+sculpt;['sculpt'];VOS;VOV
+sculpture;['sculpture'];VOS;VOV
+scurry;['scurry'];VOS;VOV
+scuttle;['scuttle'];VOS;VOV
+seal;['seal'];VOS;VOV
+search;['search'];VOS;VOV
+season;['season'];VOS;VOV
+seat;['seat'];VOS;VOV
+secede;['secede'];VOS;VOV
+second;['second'];VOS;VOV
+secrete;['secrete'];VOS;VOV
+section;['section'];VOS;VOV
+secularize ;['secularize '];VOS;VOV
+secularise ;['secularise '];VOS;VOV
+secure;['secure'];VOS;VOV
+sedate;['sedate'];VOS;VOV
+seduce;['seduce'];VOS;VOV
+see;['see'];VOS;VOV
+seek;['seek'];VOS;VOV
+seem;['seem'];VOS;VOV
+seep;['seep'];VOS;VOV
+seethe;['seethe'];VOS;VOV
+segment;['segment'];VOS;VOV
+segregate;['segregate'];VOS;VOV
+seize;['seize'];VOS;VOV
+select;['select'];VOS;VOV
+sell;['sell'];VOS;VOV
+send;['send'];VOS;VOV
+sense;['sense'];VOS;VOV
+sensitize ;['sensitize '];VOS;VOV
+sensitise ;['sensitise '];VOS;VOV
+sentence;['sentence'];VOS;VOV
+sentimentalize ;['sentimentalize '];VOS;VOV
+sentimentalise ;['sentimentalise '];VOS;VOV
+separate;['separate'];VOS;VOV
+sequester;['sequester'];VOS;VOV
+sequestrate;['sequestrate'];VOS;VOV
+serenade;['serenade'];VOS;VOV
+serialize ;['serialize '];VOS;VOV
+serialise ;['serialise '];VOS;VOV
+sermonize ;['sermonize '];VOS;VOV
+sermonise ;['sermonise '];VOS;VOV
+serve;['serve'];VOS;VOV
+service;['service'];VOS;VOV
+set;['set'];VOS;VOV
+settle;['settle'];VOS;VOV
+sever;['sever'];VOS;VOV
+sew;['sew'];VOS;VOV
+shade;['shade'];VOS;VOV
+shadow;['shadow'];VOS;VOV
+shake;['shake'];VOS;VOV
+shall;['shall'];VOS;VOV
+sham;['sham'];VOS;VOV
+shame;['shame'];VOS;VOV
+shampoo;['shampoo'];VOS;VOV
+shape;['shape'];VOS;VOV
+share;['share'];VOS;VOV
+sharpen;['sharpen'];VOS;VOV
+shatter;['shatter'];VOS;VOV
+shave;['shave'];VOS;VOV
+shear;['shear'];VOS;VOV
+shed;['shed'];VOS;VOV
+shell;['shell'];VOS;VOV
+shelter;['shelter'];VOS;VOV
+shepherd;['shepherd'];VOS;VOV
+shield from;['shield from'];VOS;VOV
+shift;['shift'];VOS;VOV
+shimmer;['shimmer'];VOS;VOV
+shine;['shine'];VOS;VOV
+ship;['ship'];VOS;VOV
+shirk;['shirk'];VOS;VOV
+shit;['shit'];VOS;VOV
+shiver;['shiver'];VOS;VOV
+shock;['shock'];VOS;VOV
+shoe ;['shoe '];VOS;VOV
+shoe ;['shoe '];VOS;VOV
+shoot;['shoot'];VOS;VOV
+shop;['shop'];VOS;VOV
+shorten;['shorten'];VOS;VOV
+shoulder;['shoulder'];VOS;VOV
+shout;['shout'];VOS;VOV
+shove;['shove'];VOS;VOV
+shovel;['shovel'];VOS;VOV
+show;['show'];VOS;VOV
+shower;['shower'];VOS;VOV
+shred;['shred'];VOS;VOV
+shriek;['shriek'];VOS;VOV
+shrink ;['shrink '];VOS;VOV
+shrink ;['shrink '];VOS;VOV
+shrive;['shrive'];VOS;VOV
+shroud;['shroud'];VOS;VOV
+shrug;['shrug'];VOS;VOV
+shuffle;['shuffle'];VOS;VOV
+shun;['shun'];VOS;VOV
+shunt;['shunt'];VOS;VOV
+shush;['shush'];VOS;VOV
+shut;['shut'];VOS;VOV
+shuttle;['shuttle'];VOS;VOV
+sicken;['sicken'];VOS;VOV
+side with;['side with'];VOS;VOV
+sieve;['sieve'];VOS;VOV
+sift;['sift'];VOS;VOV
+sigh;['sigh'];VOS;VOV
+sight;['sight'];VOS;VOV
+sign;['sign'];VOS;VOV
+signal;['signal'];VOS;VOV
+signalize ;['signalize '];VOS;VOV
+signalise ;['signalise '];VOS;VOV
+signify;['signify'];VOS;VOV
+signpost;['signpost'];VOS;VOV
+silence;['silence'];VOS;VOV
+silhouette;['silhouette'];VOS;VOV
+simmer;['simmer'];VOS;VOV
+simper;['simper'];VOS;VOV
+simplify;['simplify'];VOS;VOV
+simulate;['simulate'];VOS;VOV
+sin;['sin'];VOS;VOV
+sing;['sing'];VOS;VOV
+singe;['singe'];VOS;VOV
+single out;['single out'];VOS;VOV
+sink;['sink'];VOS;VOV
+sip;['sip'];VOS;VOV
+sit;['sit'];VOS;VOV
+site;['site'];VOS;VOV
+situate;['situate'];VOS;VOV
+size;['size'];VOS;VOV
+sizzle;['sizzle'];VOS;VOV
+skate;['skate'];VOS;VOV
+sketch;['sketch'];VOS;VOV
+ski;['ski'];VOS;VOV
+skid;['skid'];VOS;VOV
+skim;['skim'];VOS;VOV
+skimp;['skimp'];VOS;VOV
+skin;['skin'];VOS;VOV
+skip;['skip'];VOS;VOV
+skirt;['skirt'];VOS;VOV
+skive;['skive'];VOS;VOV
+skulk;['skulk'];VOS;VOV
+skyjack;['skyjack'];VOS;VOV
+skype;['skype'];VOS;VOV
+skyrocket;['skyrocket'];VOS;VOV
+slack;['slack'];VOS;VOV
+slacken;['slacken'];VOS;VOV
+slag;['slag'];VOS;VOV
+slam;['slam'];VOS;VOV
+slander;['slander'];VOS;VOV
+slang;['slang'];VOS;VOV
+slant;['slant'];VOS;VOV
+slap;['slap'];VOS;VOV
+slash;['slash'];VOS;VOV
+slate;['slate'];VOS;VOV
+slaughter;['slaughter'];VOS;VOV
+slave;['slave'];VOS;VOV
+slay;['slay'];VOS;VOV
+sledge;['sledge'];VOS;VOV
+sleep;['sleep'];VOS;VOV
+slenderize ;['slenderize '];VOS;VOV
+slenderise ;['slenderise '];VOS;VOV
+slice;['slice'];VOS;VOV
+slide;['slide'];VOS;VOV
+slight;['slight'];VOS;VOV
+slim;['slim'];VOS;VOV
+sling;['sling'];VOS;VOV
+slink off away;['slink off away'];VOS;VOV
+slip;['slip'];VOS;VOV
+slit;['slit'];VOS;VOV
+slither;['slither'];VOS;VOV
+sliver;['sliver'];VOS;VOV
+slop;['slop'];VOS;VOV
+slope;['slope'];VOS;VOV
+slosh;['slosh'];VOS;VOV
+slot;['slot'];VOS;VOV
+slouch;['slouch'];VOS;VOV
+slow down up;['slow down up'];VOS;VOV
+slumber;['slumber'];VOS;VOV
+slump;['slump'];VOS;VOV
+slur;['slur'];VOS;VOV
+smack;['smack'];VOS;VOV
+smart;['smart'];VOS;VOV
+smarten up;['smarten up'];VOS;VOV
+smash;['smash'];VOS;VOV
+smear;['smear'];VOS;VOV
+smell ;['smell '];VOS;VOV
+smell ;['smell '];VOS;VOV
+smelt;['smelt'];VOS;VOV
+smile;['smile'];VOS;VOV
+smirch;['smirch'];VOS;VOV
+smirk;['smirk'];VOS;VOV
+smite;['smite'];VOS;VOV
+smoke;['smoke'];VOS;VOV
+smooch;['smooch'];VOS;VOV
+smooth;['smooth'];VOS;VOV
+smother;['smother'];VOS;VOV
+smoulder ;['smoulder '];VOS;VOV
+smolder ;['smolder '];VOS;VOV
+smudge;['smudge'];VOS;VOV
+smuggle;['smuggle'];VOS;VOV
+snaffle;['snaffle'];VOS;VOV
+snake;['snake'];VOS;VOV
+snap;['snap'];VOS;VOV
+snare;['snare'];VOS;VOV
+snarl;['snarl'];VOS;VOV
+snatch;['snatch'];VOS;VOV
+sneak;['sneak'];VOS;VOV
+sneer;['sneer'];VOS;VOV
+sneeze;['sneeze'];VOS;VOV
+sniff;['sniff'];VOS;VOV
+sniffle;['sniffle'];VOS;VOV
+snigger;['snigger'];VOS;VOV
+snip;['snip'];VOS;VOV
+snipe;['snipe'];VOS;VOV
+snitch;['snitch'];VOS;VOV
+snivel ;['snivel '];VOS;VOV
+snivel ;['snivel '];VOS;VOV
+snoop;['snoop'];VOS;VOV
+snooze;['snooze'];VOS;VOV
+snore;['snore'];VOS;VOV
+snort;['snort'];VOS;VOV
+snow;['snow'];VOS;VOV
+snowball;['snowball'];VOS;VOV
+snub;['snub'];VOS;VOV
+snuggle;['snuggle'];VOS;VOV
+soak;['soak'];VOS;VOV
+soap;['soap'];VOS;VOV
+soar;['soar'];VOS;VOV
+sob;['sob'];VOS;VOV
+sober;['sober'];VOS;VOV
+socialize ;['socialize '];VOS;VOV
+socialise ;['socialise '];VOS;VOV
+sock;['sock'];VOS;VOV
+soften;['soften'];VOS;VOV
+solace;['solace'];VOS;VOV
+solder;['solder'];VOS;VOV
+solicit;['solicit'];VOS;VOV
+solidify;['solidify'];VOS;VOV
+solve;['solve'];VOS;VOV
+soothe;['soothe'];VOS;VOV
+sort;['sort'];VOS;VOV
+sound;['sound'];VOS;VOV
+sour;['sour'];VOS;VOV
+sow;['sow'];VOS;VOV
+space;['space'];VOS;VOV
+span;['span'];VOS;VOV
+spangle;['spangle'];VOS;VOV
+spank;['spank'];VOS;VOV
+spar;['spar'];VOS;VOV
+spare;['spare'];VOS;VOV
+spark;['spark'];VOS;VOV
+sparkle;['sparkle'];VOS;VOV
+spatter;['spatter'];VOS;VOV
+spawn;['spawn'];VOS;VOV
+speak;['speak'];VOS;VOV
+specialize ;['specialize '];VOS;VOV
+specialise ;['specialise '];VOS;VOV
+specify;['specify'];VOS;VOV
+speculate;['speculate'];VOS;VOV
+speed ;['speed '];VOS;VOV
+spell ;['spell '];VOS;VOV
+spell ;['spell '];VOS;VOV
+spend;['spend'];VOS;VOV
+spew;['spew'];VOS;VOV
+spice;['spice'];VOS;VOV
+spiel;['spiel'];VOS;VOV
+spill ;['spill '];VOS;VOV
+spill ;['spill '];VOS;VOV
+spin;['spin'];VOS;VOV
+spiral ;['spiral '];VOS;VOV
+spiral ;['spiral '];VOS;VOV
+spirit away off;['spirit away off'];VOS;VOV
+spit ;['spit '];VOS;VOV
+spit ;['spit '];VOS;VOV
+spite;['spite'];VOS;VOV
+splash;['splash'];VOS;VOV
+splatter;['splatter'];VOS;VOV
+splinter;['splinter'];VOS;VOV
+split;['split'];VOS;VOV
+splodge;['splodge'];VOS;VOV
+splotch;['splotch'];VOS;VOV
+splurge;['splurge'];VOS;VOV
+splutter;['splutter'];VOS;VOV
+spoil;['spoil'];VOS;VOV
+sponge;['sponge'];VOS;VOV
+sponsor;['sponsor'];VOS;VOV
+spoon;['spoon'];VOS;VOV
+spoon-feed;['spoon-feed'];VOS;VOV
+sport;['sport'];VOS;VOV
+spot;['spot'];VOS;VOV
+spotlight;['spotlight'];VOS;VOV
+spout;['spout'];VOS;VOV
+sprain;['sprain'];VOS;VOV
+sprawl;['sprawl'];VOS;VOV
+spray;['spray'];VOS;VOV
+spread out;['spread out'];VOS;VOV
+spring;['spring'];VOS;VOV
+sprinkle;['sprinkle'];VOS;VOV
+sprout;['sprout'];VOS;VOV
+spruce up;['spruce up'];VOS;VOV
+spur on;['spur on'];VOS;VOV
+spurn;['spurn'];VOS;VOV
+spurt;['spurt'];VOS;VOV
+sputter;['sputter'];VOS;VOV
+spy;['spy'];VOS;VOV
+squabble;['squabble'];VOS;VOV
+squall;['squall'];VOS;VOV
+squander;['squander'];VOS;VOV
+square;['square'];VOS;VOV
+squash;['squash'];VOS;VOV
+squat;['squat'];VOS;VOV
+squawk;['squawk'];VOS;VOV
+squeak;['squeak'];VOS;VOV
+squeal;['squeal'];VOS;VOV
+squeeze;['squeeze'];VOS;VOV
+squelch;['squelch'];VOS;VOV
+squint;['squint'];VOS;VOV
+squire;['squire'];VOS;VOV
+squirm;['squirm'];VOS;VOV
+squirt;['squirt'];VOS;VOV
+stab;['stab'];VOS;VOV
+stabilize ;['stabilize '];VOS;VOV
+stabilise ;['stabilise '];VOS;VOV
+stack;['stack'];VOS;VOV
+staff;['staff'];VOS;VOV
+stage;['stage'];VOS;VOV
+stagger;['stagger'];VOS;VOV
+stagnate;['stagnate'];VOS;VOV
+stain;['stain'];VOS;VOV
+stake;['stake'];VOS;VOV
+stale;['stale'];VOS;VOV
+stalk;['stalk'];VOS;VOV
+stall;['stall'];VOS;VOV
+stammer;['stammer'];VOS;VOV
+stamp;['stamp'];VOS;VOV
+stampede;['stampede'];VOS;VOV
+stand;['stand'];VOS;VOV
+standardize ;['standardize '];VOS;VOV
+standardise ;['standardise '];VOS;VOV
+staple;['staple'];VOS;VOV
+star;['star'];VOS;VOV
+starch;['starch'];VOS;VOV
+stare;['stare'];VOS;VOV
+start;['start'];VOS;VOV
+startle;['startle'];VOS;VOV
+starve;['starve'];VOS;VOV
+stash;['stash'];VOS;VOV
+state;['state'];VOS;VOV
+station;['station'];VOS;VOV
+stave;['stave'];VOS;VOV
+stay;['stay'];VOS;VOV
+steady;['steady'];VOS;VOV
+steal;['steal'];VOS;VOV
+steam;['steam'];VOS;VOV
+steepen;['steepen'];VOS;VOV
+steer;['steer'];VOS;VOV
+stem;['stem'];VOS;VOV
+stencil ;['stencil '];VOS;VOV
+stencil ;['stencil '];VOS;VOV
+step;['step'];VOS;VOV
+stew;['stew'];VOS;VOV
+stick;['stick'];VOS;VOV
+stiffen;['stiffen'];VOS;VOV
+stifle;['stifle'];VOS;VOV
+still;['still'];VOS;VOV
+sting;['sting'];VOS;VOV
+stink;['stink'];VOS;VOV
+stint;['stint'];VOS;VOV
+stir;['stir'];VOS;VOV
+stitch;['stitch'];VOS;VOV
+stock;['stock'];VOS;VOV
+stockpile;['stockpile'];VOS;VOV
+stomach;['stomach'];VOS;VOV
+stomp;['stomp'];VOS;VOV
+stone;['stone'];VOS;VOV
+stonewall;['stonewall'];VOS;VOV
+stooge;['stooge'];VOS;VOV
+stoop;['stoop'];VOS;VOV
+stop;['stop'];VOS;VOV
+stopper;['stopper'];VOS;VOV
+store;['store'];VOS;VOV
+storm;['storm'];VOS;VOV
+stow;['stow'];VOS;VOV
+straddle;['straddle'];VOS;VOV
+strafe;['strafe'];VOS;VOV
+straggle;['straggle'];VOS;VOV
+straighten up;['straighten up'];VOS;VOV
+straighten out;['straighten out'];VOS;VOV
+strain;['strain'];VOS;VOV
+strand;['strand'];VOS;VOV
+strangle;['strangle'];VOS;VOV
+strap;['strap'];VOS;VOV
+stray;['stray'];VOS;VOV
+streak;['streak'];VOS;VOV
+stream;['stream'];VOS;VOV
+streamline;['streamline'];VOS;VOV
+strengthen;['strengthen'];VOS;VOV
+stress;['stress'];VOS;VOV
+stretch;['stretch'];VOS;VOV
+strew;['strew'];VOS;VOV
+stride;['stride'];VOS;VOV
+strike;['strike'];VOS;VOV
+string;['string'];VOS;VOV
+strip;['strip'];VOS;VOV
+strive;['strive'];VOS;VOV
+stroke;['stroke'];VOS;VOV
+stroll;['stroll'];VOS;VOV
+struggle;['struggle'];VOS;VOV
+strum;['strum'];VOS;VOV
+strut;['strut'];VOS;VOV
+study;['study'];VOS;VOV
+stuff;['stuff'];VOS;VOV
+stultify;['stultify'];VOS;VOV
+stumble;['stumble'];VOS;VOV
+stun;['stun'];VOS;VOV
+stunt;['stunt'];VOS;VOV
+stupefy;['stupefy'];VOS;VOV
+stutter;['stutter'];VOS;VOV
+style;['style'];VOS;VOV
+stymie ;['stymie '];VOS;VOV
+stymy ;['stymy '];VOS;VOV
+subcontract;['subcontract'];VOS;VOV
+subdue;['subdue'];VOS;VOV
+subject to;['subject to'];VOS;VOV
+sublet;['sublet'];VOS;VOV
+submit;['submit'];VOS;VOV
+subordinate;['subordinate'];VOS;VOV
+subpoena;['subpoena'];VOS;VOV
+subscribe;['subscribe'];VOS;VOV
+subside;['subside'];VOS;VOV
+subsidize ;['subsidize '];VOS;VOV
+subsidise ;['subsidise '];VOS;VOV
+substantiate;['substantiate'];VOS;VOV
+subtitle;['subtitle'];VOS;VOV
+subtract;['subtract'];VOS;VOV
+subvert;['subvert'];VOS;VOV
+suck;['suck'];VOS;VOV
+suckle;['suckle'];VOS;VOV
+sue;['sue'];VOS;VOV
+suffer;['suffer'];VOS;VOV
+suffice;['suffice'];VOS;VOV
+suffocate;['suffocate'];VOS;VOV
+sugar;['sugar'];VOS;VOV
+suggest;['suggest'];VOS;VOV
+suit;['suit'];VOS;VOV
+sulk;['sulk'];VOS;VOV
+sum;['sum'];VOS;VOV
+summarize;['summarize'];VOS;VOV
+summer;['summer'];VOS;VOV
+summon;['summon'];VOS;VOV
+summons;['summons'];VOS;VOV
+sunbathe;['sunbathe'];VOS;VOV
+superimpose;['superimpose'];VOS;VOV
+superintend;['superintend'];VOS;VOV
+superpose;['superpose'];VOS;VOV
+supersede;['supersede'];VOS;VOV
+supervene;['supervene'];VOS;VOV
+supplicate;['supplicate'];VOS;VOV
+supply;['supply'];VOS;VOV
+support;['support'];VOS;VOV
+surface;['surface'];VOS;VOV
+surfeit;['surfeit'];VOS;VOV
+surge;['surge'];VOS;VOV
+surmise;['surmise'];VOS;VOV
+surrender;['surrender'];VOS;VOV
+surround;['surround'];VOS;VOV
+survey;['survey'];VOS;VOV
+survive;['survive'];VOS;VOV
+suspect;['suspect'];VOS;VOV
+suss out fam;['suss out fam'];VOS;VOV
+sustain;['sustain'];VOS;VOV
+swagger;['swagger'];VOS;VOV
+swallow;['swallow'];VOS;VOV
+swamp;['swamp'];VOS;VOV
+swank;['swank'];VOS;VOV
+swap;['swap'];VOS;VOV
+swarm;['swarm'];VOS;VOV
+swat;['swat'];VOS;VOV
+sway;['sway'];VOS;VOV
+swear;['swear'];VOS;VOV
+sweat;['sweat'];VOS;VOV
+sweep;['sweep'];VOS;VOV
+sweeten;['sweeten'];VOS;VOV
+swell;['swell'];VOS;VOV
+swerve;['swerve'];VOS;VOV
+swig;['swig'];VOS;VOV
+swill;['swill'];VOS;VOV
+swim;['swim'];VOS;VOV
+swindle;['swindle'];VOS;VOV
+swing;['swing'];VOS;VOV
+swipe;['swipe'];VOS;VOV
+swirl;['swirl'];VOS;VOV
+swish;['swish'];VOS;VOV
+switch;['switch'];VOS;VOV
+swivel ;['swivel '];VOS;VOV
+swivel ;['swivel '];VOS;VOV
+swoon;['swoon'];VOS;VOV
+swoop;['swoop'];VOS;VOV
+swot;['swot'];VOS;VOV
+sympathize ;['sympathize '];VOS;VOV
+sympathise ;['sympathise '];VOS;VOV
+syncopate;['syncopate'];VOS;VOV
+syndicate;['syndicate'];VOS;VOV
+taboo;['taboo'];VOS;VOV
+tackle;['tackle'];VOS;VOV
+tag;['tag'];VOS;VOV
+tail;['tail'];VOS;VOV
+tailor;['tailor'];VOS;VOV
+taint;['taint'];VOS;VOV
+take;['take'];VOS;VOV
+talk;['talk'];VOS;VOV
+tally;['tally'];VOS;VOV
+tame;['tame'];VOS;VOV
+tamper with;['tamper with'];VOS;VOV
+tan;['tan'];VOS;VOV
+tangle;['tangle'];VOS;VOV
+tantalize ;['tantalize '];VOS;VOV
+tantalise ;['tantalise '];VOS;VOV
+tap;['tap'];VOS;VOV
+tape;['tape'];VOS;VOV
+taper;['taper'];VOS;VOV
+tar;['tar'];VOS;VOV
+target ;['target '];VOS;VOV
+target ;['target '];VOS;VOV
+tarnish;['tarnish'];VOS;VOV
+taste;['taste'];VOS;VOV
+tattle;['tattle'];VOS;VOV
+tattoo;['tattoo'];VOS;VOV
+tax;['tax'];VOS;VOV
+taxi;['taxi'];VOS;VOV
+teach;['teach'];VOS;VOV
+team up;['team up'];VOS;VOV
+tear;['tear'];VOS;VOV
+tease;['tease'];VOS;VOV
+teem;['teem'];VOS;VOV
+teeter;['teeter'];VOS;VOV
+tell;['tell'];VOS;VOV
+temper;['temper'];VOS;VOV
+tempt;['tempt'];VOS;VOV
+tend to;['tend to'];VOS;VOV
+tender;['tender'];VOS;VOV
+tense;['tense'];VOS;VOV
+term;['term'];VOS;VOV
+terminate;['terminate'];VOS;VOV
+test;['test'];VOS;VOV
+testify;['testify'];VOS;VOV
+thank;['thank'];VOS;VOV
+thatch;['thatch'];VOS;VOV
+thaw;['thaw'];VOS;VOV
+thicken;thicken;VOS;VOV
+thieve;thieve;VOS;VOV
+thin;thin;VOS;VOV
+think;think;VOS;VOV
+thrash;thrash;VOS;VOV
+thread;thread;VOS;VOV
+threaten;threaten;VOS;VOV
+thrill;thrill;VOS;VOV
+thrive;thrive;VOS;VOV
+throb;throb;VOS;VOV
+throng;throng;VOS;VOV
+throttle;throttle;VOS;VOV
+throw;throw;VOS;VOV
+thrust;thrust;VOS;VOV
+thud;thud;VOS;VOV
+thumb;thumb;VOS;VOV
+thump;thump;VOS;VOV
+thunder;thunder;VOS;VOV
+thwack;thwack;VOS;VOV
+tick;tick;VOS;VOV
+tickle;tickle;VOS;VOV
+tide over;tide over;VOS;VOV
+tidy up;tidy up;VOS;VOV
+tie;tie;VOS;VOV
+tighten up;tighten up;VOS;VOV
+tile;tile;VOS;VOV
+till;till;VOS;VOV
+tilt;tilt;VOS;VOV
+tin;tin;VOS;VOV
+ting;ting;VOS;VOV
+tinge;tinge;VOS;VOV
+tingle;tingle;VOS;VOV
+tinker with;tinker with;VOS;VOV
+tinkle;tinkle;VOS;VOV
+tint;tint;VOS;VOV
+tip;tip;VOS;VOV
+tipple;tipple;VOS;VOV
+tiptoe;tiptoe;VOS;VOV
+tire;tire;VOS;VOV
+titivate;titivate;VOS;VOV
+title;title;VOS;VOV
+titrate;titrate;VOS;VOV
+titter;titter;VOS;VOV
+tittle-tattle;tittle-tattle;VOS;VOV
+toady;toady;VOS;VOV
+toast;toast;VOS;VOV
+toddle;toddle;VOS;VOV
+toil;toil;VOS;VOV
+toll;toll;VOS;VOV
+tone;tone;VOS;VOV
+toot;toot;VOS;VOV
+tooth;tooth;VOS;VOV
+top;top;VOS;VOV
+topple;topple;VOS;VOV
+torment;torment;VOS;VOV
+torpedo;torpedo;VOS;VOV
+toss;toss;VOS;VOV
+total;total;VOS;VOV
+totalize ;totalize ;VOS;VOV
+totalise ;totalise ;VOS;VOV
+totter;totter;VOS;VOV
+touch;touch;VOS;VOV
+toughen;toughen;VOS;VOV
+tour to;tour to;VOS;VOV
+tousle;tousle;VOS;VOV
+tout;tout;VOS;VOV
+tow;tow;VOS;VOV
+towel ;towel ;VOS;VOV
+towel ;towel ;VOS;VOV
+tower;tower;VOS;VOV
+toy with;toy with;VOS;VOV
+trace;trace;VOS;VOV
+track;track;VOS;VOV
+trade;trade;VOS;VOV
+traffic;traffic;VOS;VOV
+trail;trail;VOS;VOV
+train;train;VOS;VOV
+traipse;traipse;VOS;VOV
+tramp;tramp;VOS;VOV
+trample;trample;VOS;VOV
+transact;transact;VOS;VOV
+transfer;transfer;VOS;VOV
+transfix;transfix;VOS;VOV
+tranship;tranship;VOS;VOV
+translate;translate;VOS;VOV
+transmit;transmit;VOS;VOV
+transmogrify;transmogrify;VOS;VOV
+transmute;transmute;VOS;VOV
+transpire;transpire;VOS;VOV
+transship;transship;VOS;VOV
+trap;trap;VOS;VOV
+travel ;travel ;VOS;VOV
+travel ;travel ;VOS;VOV
+travesty;travesty;VOS;VOV
+tread;tread;VOS;VOV
+treasure;treasure;VOS;VOV
+treat;treat;VOS;VOV
+treble;treble;VOS;VOV
+trek;trek;VOS;VOV
+tremble;tremble;VOS;VOV
+trend;trend;VOS;VOV
+trespass;trespass;VOS;VOV
+trick;trick;VOS;VOV
+trickle;trickle;VOS;VOV
+trifle;trifle;VOS;VOV
+trigger off;trigger off;VOS;VOV
+trim;trim;VOS;VOV
+trip;trip;VOS;VOV
+triple;triple;VOS;VOV
+troop;troop;VOS;VOV
+trouble;trouble;VOS;VOV
+trudge;trudge;VOS;VOV
+trump;trump;VOS;VOV
+truncate;truncate;VOS;VOV
+trundle;trundle;VOS;VOV
+trust;trust;VOS;VOV
+try;try;VOS;VOV
+tub out;tub out;VOS;VOV
+tuck;tuck;VOS;VOV
+tug;tug;VOS;VOV
+tumble;tumble;VOS;VOV
+tune;tune;VOS;VOV
+tunnel ;tunnel ;VOS;VOV
+tunnel ;tunnel ;VOS;VOV
+turn;turn;VOS;VOV
+tussle;tussle;VOS;VOV
+tutor;tutor;VOS;VOV
+twaddle;twaddle;VOS;VOV
+tweak;tweak;VOS;VOV
+tweet;tweet;VOS;VOV
+twiddle;twiddle;VOS;VOV
+twig;twig;VOS;VOV
+twin;twin;VOS;VOV
+twine;twine;VOS;VOV
+twinkle;twinkle;VOS;VOV
+twirl;twirl;VOS;VOV
+twist;twist;VOS;VOV
+twitch;twitch;VOS;VOV
+twitter;twitter;VOS;VOV
+type;type;VOS;VOV
+typify;typify;VOS;VOV
+umpire;umpire;VOS;VOV
+unbalance;unbalance;VOS;VOV
+unbend;unbend;VOS;VOV
+unbind;unbind;VOS;VOV
+underbid;underbid;VOS;VOV
+undercut;undercut;VOS;VOV
+underfeed;underfeed;VOS;VOV
+undergo;undergo;VOS;VOV
+underlie;underlie;VOS;VOV
+underline;underline;VOS;VOV
+undermine;undermine;VOS;VOV
+underpay;underpay;VOS;VOV
+underplay;underplay;VOS;VOV
+underrate;underrate;VOS;VOV
+underscore;underscore;VOS;VOV
+undersell;undersell;VOS;VOV
+understand;understand;VOS;VOV
+understate;understate;VOS;VOV
+undertake;undertake;VOS;VOV
+underwrite;underwrite;VOS;VOV
+undo;undo;VOS;VOV
+undress;undress;VOS;VOV
+undulate;undulate;VOS;VOV
+unearth;unearth;VOS;VOV
+unfreeze;unfreeze;VOS;VOV
+unify;unify;VOS;VOV
+unite;unite;VOS;VOV
+unlearn ;unlearn ;VOS;VOV
+unlearn ;unlearn ;VOS;VOV
+unnerve;unnerve;VOS;VOV
+unpack;unpack;VOS;VOV
+unplug;unplug;VOS;VOV
+unravel;unravel;VOS;VOV
+unsay;unsay;VOS;VOV
+unsettle;unsettle;VOS;VOV
+unstick;unstick;VOS;VOV
+unstop;unstop;VOS;VOV
+untangle;untangle;VOS;VOV
+unveil;unveil;VOS;VOV
+unwind;unwind;VOS;VOV
+up;up;VOS;VOV
+upbraid;upbraid;VOS;VOV
+update;update;VOS;VOV
+upgrade;upgrade;VOS;VOV
+uphold;uphold;VOS;VOV
+upholster;upholster;VOS;VOV
+uproot;uproot;VOS;VOV
+upset;upset;VOS;VOV
+upturn;upturn;VOS;VOV
+urge;urge;VOS;VOV
+use;use;VOS;VOV
+usher;usher;VOS;VOV
+utter;utter;VOS;VOV
+vacate;vacate;VOS;VOV
+vacuum;vacuum;VOS;VOV
+value;value;VOS;VOV
+vamoose fam;vamoose fam;VOS;VOV
+vandalize;vandalize;VOS;VOV
+vanish;vanish;VOS;VOV
+vanquish;vanquish;VOS;VOV
+vaunt;vaunt;VOS;VOV
+veer;veer;VOS;VOV
+veil;veil;VOS;VOV
+vent;vent;VOS;VOV
+venture;venture;VOS;VOV
+verge on;verge on;VOS;VOV
+vest;vest;VOS;VOV
+vet;vet;VOS;VOV
+veto;veto;VOS;VOV
+victimize ;victimize ;VOS;VOV
+victimise ;victimise ;VOS;VOV
+victual ;victual ;VOS;VOV
+victual ;victual ;VOS;VOV
+vie;vie;VOS;VOV
+view;view;VOS;VOV
+vilify;vilify;VOS;VOV
+vindicate;vindicate;VOS;VOV
+violate;violate;VOS;VOV
+vitiate;vitiate;VOS;VOV
+voice;voice;VOS;VOV
+volunteer;volunteer;VOS;VOV
+vomit;vomit;VOS;VOV
+vote;vote;VOS;VOV
+vouch;vouch;VOS;VOV
+vow;vow;VOS;VOV
+waddle;waddle;VOS;VOV
+wade;wade;VOS;VOV
+waffle fam;waffle fam;VOS;VOV
+wag;wag;VOS;VOV
+wager;wager;VOS;VOV
+waggle;waggle;VOS;VOV
+wail;wail;VOS;VOV
+wait;wait;VOS;VOV
+waive;waive;VOS;VOV
+wake up;wake up;VOS;VOV
+waken;waken;VOS;VOV
+walk;walk;VOS;VOV
+wall;wall;VOS;VOV
+wallop;wallop;VOS;VOV
+wallow;wallow;VOS;VOV
+waltz;waltz;VOS;VOV
+wander;wander;VOS;VOV
+wane;wane;VOS;VOV
+wangle;wangle;VOS;VOV
+want;want;VOS;VOV
+warble;warble;VOS;VOV
+ward off;ward off;VOS;VOV
+warm;warm;VOS;VOV
+warn;warn;VOS;VOV
+warp;warp;VOS;VOV
+warrant;warrant;VOS;VOV
+wash as;wash as;VOS;VOV
+waste;waste;VOS;VOV
+watch;watch;VOS;VOV
+water;water;VOS;VOV
+waterproof;waterproof;VOS;VOV
+wave;wave;VOS;VOV
+waver;waver;VOS;VOV
+wax;wax;VOS;VOV
+waylay;waylay;VOS;VOV
+weaken;weaken;VOS;VOV
+wean;wean;VOS;VOV
+wear;wear;VOS;VOV
+weary;weary;VOS;VOV
+weave ;weave ;VOS;VOV
+weave ;weave ;VOS;VOV
+wed;wed;VOS;VOV
+weed;weed;VOS;VOV
+weep;weep;VOS;VOV
+weigh;weigh;VOS;VOV
+welcome;welcome;VOS;VOV
+wet;wet;VOS;VOV
+whack;whack;VOS;VOV
+wheedle;wheedle;VOS;VOV
+wheel;wheel;VOS;VOV
+wheeze;wheeze;VOS;VOV
+while away;while away;VOS;VOV
+whimper;whimper;VOS;VOV
+whine;whine;VOS;VOV
+whip;whip;VOS;VOV
+whirl;whirl;VOS;VOV
+whirr;whirr;VOS;VOV
+whisk;whisk;VOS;VOV
+whisper;whisper;VOS;VOV
+whistle;whistle;VOS;VOV
+whiten;whiten;VOS;VOV
+whizz ;whizz ;VOS;VOV
+whiz ;whiz ;VOS;VOV
+whoop;whoop;VOS;VOV
+whop;whop;VOS;VOV
+widen;widen;VOS;VOV
+wiggle;wiggle;VOS;VOV
+will ;will ;VOS;VOV
+will ;will ;VOS;VOV
+wilt;wilt;VOS;VOV
+win;win;VOS;VOV
+wince;wince;VOS;VOV
+wind;wind;VOS;VOV
+wink;wink;VOS;VOV
+winter;winter;VOS;VOV
+wipe;wipe;VOS;VOV
+wire;wire;VOS;VOV
+wish;wish;VOS;VOV
+withdraw;withdraw;VOS;VOV
+wither;wither;VOS;VOV
+withhold;withhold;VOS;VOV
+withstand;withstand;VOS;VOV
+witness;witness;VOS;VOV
+wobble;wobble;VOS;VOV
+womanize ;womanize ;VOS;VOV
+womanise ;womanise ;VOS;VOV
+wonder;wonder;VOS;VOV
+woo;woo;VOS;VOV
+woof;woof;VOS;VOV
+word;word;VOS;VOV
+work;work;VOS;VOV
+worm;worm;VOS;VOV
+worry;worry;VOS;VOV
+worsen;worsen;VOS;VOV
+worship;worship;VOS;VOV
+worst;worst;VOS;VOV
+wound;wound;VOS;VOV
+wrangle;wrangle;VOS;VOV
+wrap;wrap;VOS;VOV
+wreak;wreak;VOS;VOV
+wreathe;wreathe;VOS;VOV
+wreck;wreck;VOS;VOV
+wrench;wrench;VOS;VOV
+wrest;wrest;VOS;VOV
+wrestle;wrestle;VOS;VOV
+wriggle;wriggle;VOS;VOV
+wring;wring;VOS;VOV
+wrinkle;wrinkle;VOS;VOV
+write;write;VOS;VOV
+writhe;writhe;VOS;VOV
+wrong;wrong;VOS;VOV
+X-ray;X-ray;VOS;VOV
+yackety-yak;yackety-yak;VOS;VOV
+yak;yak;VOS;VOV
+yank;yank;VOS;VOV
+yap;yap;VOS;VOV
+yarn;yarn;VOS;VOV
+yawn;yawn;VOS;VOV
+yearn for;yearn for;VOS;VOV
+yell;yell;VOS;VOV
+yellow;yellow;VOS;VOV
+yelp;yelp;VOS;VOV
+yield;yield;VOS;VOV
+yodel ;yodel ;VOS;VOV
+yodel ;yodel ;VOS;VOV
+yowl;yowl;VOS;VOV
+zap;zap;VOS;VOV
+zero;zero;VOS;VOV
+zip;zip;VOS;VOV
+zone;zone;VOS;VOV
+zoom;zoom;VOS;VOV

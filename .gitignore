@@ -1,0 +1,9 @@
+venv/
+env/
+.idea/
+__pycache__/
+input/logs/*.xes
+input/evaluation/raw/*
+resources/bpmai
+.DS_Store
+resources/*.pkl

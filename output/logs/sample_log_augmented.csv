@@ -1,0 +1,59 @@
+;case:concept:name;concept:name;time:timestamp;org:resource;lifecycle:transition;object:name:0;action:name:0;action:name:1;action:status:a:0;org:actor:name:0;org:actor:instance:a:0;org:actor:instance:a:1;org:passive:name:0;unique_event_id;action:type;resource:type
+0;1;Register_Request;2022-03-04 22:07:00+00:00;System;start;request;register;;start;;System;System;;1;modify;SYS
+1;1;Register_Request;2022-03-04 22:07:36+00:00;System;complete;request;register;;complete;;System;System;;2;modify;SYS
+2;1;categorize and assign request ;2022-03-04 22:09:36+00:00;USER_2;start;request;categorize;assign;start;;USER_2;USER_2;;3;decide;HUM
+3;1;categorize and assign request ;2022-03-04 22:30:36+00:00;USER_2;complete;request;categorize;assign;complete;;USER_2;USER_2;;4;decide;HUM
+4;1;inspect request  by clerk ;2022-03-04 22:35:36+00:00;USER_1;start;request;inspect;;start;clerk;USER_1;USER_1;;5;decide;HUM
+5;1;inspect request  by clerk ;2022-03-04 22:40:36+00:00;USER_1;complete;request;inspect;;complete;clerk;USER_1;USER_1;;6;decide;HUM
+6;1;Work on request;2022-03-04 22:42:36+00:00;USER_3;start;request;work;;start;;USER_3;USER_3;;7;create;HUM
+7;1;Work on request;2022-03-04 22:48:36+00:00;USER_3;complete;request;work;;complete;;USER_3;USER_3;;8;create;HUM
+8;1;Restart Repair;2022-03-04 22:52:36+00:00;System;start;repair;restart;;start;;System;System;;9;modify;SYS
+9;1;Restart Repair;2022-03-04 22:52:36+00:00;System;complete;repair;restart;;complete;;System;System;;10;modify;SYS
+10;1;inspect request  by clerk ;2022-03-04 22:54:36+00:00;USER_2;start;request;inspect;;start;clerk;USER_2;USER_2;;11;decide;HUM
+11;1;Inform customer;2022-03-04 22:55:36+00:00;System;start;;inform;;start;;System;System;customer;12;modify;SYS
+12;1;Inform customer;2022-03-04 22:55:36+00:00;System;complete;;inform;;complete;;System;System;customer;13;modify;SYS
+13;1;inspect request  by clerk ;2022-03-04 23:01:36+00:00;USER_2;complete;request;inspect;;complete;clerk;USER_2;USER_2;;14;decide;HUM
+14;1;Work on request;2022-03-04 23:03:36+00:00;USER_1;start;request;work;;start;;USER_1;USER_1;;15;create;HUM
+15;1;Work on request;2022-03-04 23:09:36+00:00;USER_1;complete;request;work;;complete;;USER_1;USER_1;;16;create;HUM
+16;1;Archive Request;2022-03-04 23:14:36+00:00;System;start;request;archive;;start;;System;System;;17;create;SYS
+17;1;Archive Request;2022-03-04 23:14:36+00:00;System;complete;request;archive;;complete;;System;System;;18;create;SYS
+18;2;Register_Request;2022-03-04 22:19:36+00:00;System;start;request;register;;start;;System;System;;19;modify;SYS
+19;2;Register_Request;2022-03-04 22:19:36+00:00;System;complete;request;register;;complete;;System;System;;20;modify;SYS
+20;2;categorize and assign request ;2022-03-04 22:33:36+00:00;USER_2;start;request;categorize;assign;start;;USER_2;USER_2;;21;decide;HUM
+21;2;categorize and assign request ;2022-03-04 22:56:36+00:00;USER_2;complete;request;categorize;assign;complete;;USER_2;USER_2;;22;decide;HUM
+22;2;inspect request  by manager ;2022-03-04 23:06:36+00:00;USER_1;start;request;inspect;;start;manager;USER_1;USER_1;;23;decide;HUM
+23;2;Inform customer;2022-03-04 23:35:36+00:00;System;start;;inform;;start;;System;System;customer;24;modify;SYS
+24;2;Inform customer;2022-03-04 23:35:36+00:00;System;complete;;inform;;complete;;System;System;customer;25;modify;SYS
+25;2;inspect request  by manager ;2022-03-04 23:53:36+00:00;USER_1;complete;request;inspect;;complete;manager;USER_1;USER_1;;26;decide;HUM
+26;2;Work on request;2022-03-04 23:54:36+00:00;USER_3;start;request;work;;start;;USER_3;USER_3;;27;create;HUM
+27;2;Work on request;2022-03-05 00:00:36+00:00;USER_3;complete;request;work;;complete;;USER_3;USER_3;;28;create;HUM
+28;3;Register_Request;2022-03-04 22:56:36+00:00;System;start;request;register;;start;;System;System;;29;modify;SYS
+29;3;Register_Request;2022-03-04 22:56:36+00:00;System;complete;request;register;;complete;;System;System;;30;modify;SYS
+30;3;categorize and assign request ;2022-03-04 23:05:36+00:00;USER_2;start;request;categorize;assign;start;;USER_2;USER_2;;31;decide;HUM
+31;3;categorize and assign request ;2022-03-04 23:08:36+00:00;USER_2;complete;request;categorize;assign;complete;;USER_2;USER_2;;32;decide;HUM
+32;3;inspect request  by clerk ;2022-03-04 23:10:36+00:00;USER_2;start;request;inspect;;start;clerk;USER_2;USER_2;;33;decide;HUM
+33;3;Inform customer;2022-03-04 23:20:36+00:00;System;start;;inform;;start;;System;System;customer;34;modify;SYS
+34;3;Inform customer;2022-03-04 23:20:36+00:00;System;complete;;inform;;complete;;System;System;customer;35;modify;SYS
+35;3;inspect request  by clerk ;2022-03-04 23:21:36+00:00;USER_2;complete;request;inspect;;complete;clerk;USER_2;USER_2;;36;decide;HUM
+36;3;Work on request;2022-03-04 23:23:36+00:00;USER_3;start;request;work;;start;;USER_3;USER_3;;37;create;HUM
+37;3;Work on request;2022-03-04 23:33:36+00:00;USER_3;complete;request;work;;complete;;USER_3;USER_3;;38;create;HUM
+38;3;Archive Request;2022-03-04 23:38:36+00:00;System;start;request;archive;;start;;System;System;;39;create;SYS
+39;3;Archive Request;2022-03-04 23:38:36+00:00;System;complete;request;archive;;complete;;System;System;;40;create;SYS
+40;4;Register_Request;2022-03-04 22:28:36+00:00;System;start;request;register;;start;;System;System;;41;modify;SYS
+41;4;Register_Request;2022-03-04 22:28:36+00:00;System;complete;request;register;;complete;;System;System;;42;modify;SYS
+42;4;categorize and assign request ;2022-03-04 22:30:36+00:00;USER_1;start;request;categorize;assign;start;;USER_1;USER_1;;43;decide;HUM
+43;4;categorize and assign request ;2022-03-04 22:35:36+00:00;USER_1;complete;request;categorize;assign;complete;;USER_1;USER_1;;44;decide;HUM
+44;4;inspect request  by clerk ;2022-03-04 22:51:36+00:00;USER_1;start;request;inspect;;start;clerk;USER_1;USER_1;;45;decide;HUM
+45;4;inspect request  by clerk ;2022-03-04 22:55:36+00:00;USER_1;complete;request;inspect;;complete;clerk;USER_1;USER_1;;46;decide;HUM
+46;4;Work on request;2022-03-04 22:57:36+00:00;USER_1;start;request;work;;start;;USER_1;USER_1;;47;create;HUM
+47;4;Work on request;2022-03-04 23:02:36+00:00;USER_1;complete;request;work;;complete;;USER_1;USER_1;;48;create;HUM
+48;4;Inform customer;2022-03-04 23:04:36+00:00;System;start;;inform;;start;;System;System;customer;49;modify;SYS
+49;4;Inform customer;2022-03-04 23:04:36+00:00;System;complete;;inform;;complete;;System;System;customer;50;modify;SYS
+50;4;inspect request  by clerk ;2022-03-04 23:23:36+00:00;USER_2;start;request;inspect;;start;clerk;USER_2;USER_2;;51;decide;HUM
+51;4;Restart Repair;2022-03-04 23:09:36+00:00;System;start;repair;restart;;start;;System;System;;52;modify;SYS
+52;4;Restart Repair;2022-03-04 23:09:36+00:00;System;complete;repair;restart;;complete;;System;System;;53;modify;SYS
+53;4;inspect request  by clerk ;2022-03-04 23:34:36+00:00;USER_2;complete;request;inspect;;complete;clerk;USER_2;USER_2;;54;decide;HUM
+54;4;Work on request;2022-03-04 23:37:36+00:00;USER_1;start;request;work;;start;;USER_1;USER_1;;55;create;HUM
+55;4;Work on request;2022-03-04 23:45:36+00:00;USER_1;complete;request;work;;complete;;USER_1;USER_1;;56;create;HUM
+56;4;Archive Request;2022-03-04 23:50:36+00:00;System;start;request;archive;;start;;System;System;;57;create;SYS
+57;4;Archive Request;2022-03-04 23:50:36+00:00;System;complete;request;archive;;complete;;System;System;;58;create;SYS

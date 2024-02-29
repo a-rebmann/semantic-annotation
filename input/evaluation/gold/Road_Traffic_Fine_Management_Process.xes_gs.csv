@@ -1,0 +1,12 @@
+﻿;concept:name_tags
+0;create<>A, fine<>BO, 
+1;send<>A, fine<>BO, 
+2;insert<>A, fine<>BO, notification<>BO, 
+3;add<>A, penalty<>BO, 
+4;send<>A, for<>BO, credit<>BO, collection<>BO, 
+5;payment<>A, 
+6;insert<>A, date<>BO, appeal<>BO, to<>X, prefecture<>REC, 
+7;send<>A, appeal<>BO, to<>X, prefecture<>REC, 
+8;receive<>A, result<>BO, appeal<>BO, from<>X, prefecture<>ACTOR, 
+9;notify<>A, result<>BO, appeal<>BO, to<>X, offender<>REC, 
+10;appeal<>A, to<>X, judge<>REC, 

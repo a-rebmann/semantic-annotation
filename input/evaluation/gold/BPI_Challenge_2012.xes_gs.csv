@@ -1,0 +1,25 @@
+﻿;concept:name_tags;lifecycle:transition_tags
+0;a<>X, submitted<>A, ;complete<>ASTATE, 
+1;a<>X, partlysubmitted<>A, ;schedule<>ASTATE, 
+2;a<>X, preaccepted<>A, ;start<>ASTATE, 
+3;w<>X, completeren<>A, aanvraag<>BO, ;
+4;a<>X, accepted<>A, ;
+5;o<>X, selected<>A, ;
+6;a<>X, finalized<>A, ;
+7;o<>X, created<>A, ;
+8;o<>X, sent<>A, ;
+9;w<>X, nabellen<>A, offertes<>BO, ;
+10;o<>X, sent<>A, back<>A, ;
+11;w<>X, valideren<>A, aanvraag<>BO, ;
+12;a<>X, registered<>A, ;
+13;a<>X, approved<>A, ;
+14;o<>X, accepted<>A, ;
+15;a<>X, activated<>A, ;
+16;o<>X, cancelled<>A, ;
+17;w<>X, wijzigen<>A, contractgegevens<>BO, ;
+18;a<>X, declined<>A, ;
+19;a<>X, cancelled<>A, ;
+20;w<>X, afhandelen<>A, leads<>BO, ;
+21;o<>X, declined<>A, ;
+22;w<>X, nabellen<>A, incomplete<>BOSTATE, dossiers<>BO, ;
+23;w<>X, beoordelen<>A, fraude<>BO, ;

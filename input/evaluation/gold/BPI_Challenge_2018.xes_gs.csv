@@ -1,0 +1,42 @@
+﻿;concept:name_tags;doctype_tags;lifecycle:transition_tags;subprocess_tags
+0;mail<>BO, income<>A, ;payment<>BO, application<>BO, ;complete<>A, ;application<>BO, 
+1;mail<>BO, valid<>BOSTATE, ;entitlement<>BO, application<>BO, ;;main<>X, 
+2;initialize<>A, ;parcel<>BO, document<>BO, ;;change<>A, 
+3;begin<>ASTATE, editing<>A, ;control<>BO, summary<>BO, ;;remote<>X, 
+4;finish<>ASTATE, editing<>A, ;reference<>BO, alignment<>BO, ;;on-site<>X, 
+5;save<>A, ;department<>BO, control<>BO, parcels<>BO, ;;objection<>A, 
+6;insert<>A, document<>BO, ;inspection<>BO, ;;declared<>A, 
+7;performed<>A, ;geo<>BO, parcel<>BO, document<>BO, ;;reported<>A, 
+8;calculate<>A, ;;;
+9;decide<>A, ;;;
+10;begin<>A, payment<>BO, ;;;
+11;abort<>A, payment<>BO, ;;;
+12;finish<>A, payment<>BO, ;;;
+13;revoke<>A, decision<>BO, ;;;
+14;check<>A, ;;;
+15;remove<>A, document<>BO, ;;;
+16;plan<>A, ;;;
+17;finish<>A, preparations<>BO, ;;;
+18;begin<>A, preparations<>BO, ;;;
+19;prepare<>A, external<>BO, ;;;
+20;abort<>A, external<>BO, ;;;
+21;prepare<>A, offline<>X, ;;;
+22;performed<>A, offline<>X, ;;;
+23;withdraw<>A, ;;;
+24;revoke<>A, withdrawal<>BO, ;;;
+25;begin<>A, admissibility<>BO, check<>BO, ;;;
+26;check<>A, admissibility<>BO, ;;;
+27;approve<>A, ;;;
+28;take<>A, original<>BO, document<>BO, ;;;
+29;refuse<>A, ;;;
+30;begin<>ASTATE, editing<>A, from<>X, refused<>X, ;;;
+31;revoke<>A, approval<>BO, ;;;
+32;discard<>A, ;;;
+33;cancel<>A, offline<>X, ;;;
+34;change<>A, department<>BO, ;;;
+35;create<>A, ;;;
+36;restart<>ASTATE, editing<>A, ;;;
+37;finish<>A, pre-check<>BO, ;;;
+38;calculate<>A, protocol<>BO, ;;;
+39;clear<>A, ;;;
+40;correction<>A, gfm17<>BO, ;;;
